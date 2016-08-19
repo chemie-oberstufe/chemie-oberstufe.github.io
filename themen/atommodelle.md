@@ -20,7 +20,7 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 - Nachweis des Verständnisses von Elektronenschalen als Energieniveaus
 - Erläuterung der Vorteile und Grenzen von Modellen in den Naturwissenschaften am konkreten Beispiel der Atommodelle
 
-## Fachbegriffe/Konzepte
+## Fachbegriffe und Konzepte
 
 - Bohr'sches Atommodell / Schalenmodell
 	- Protonen, Elektronen, Neutronen, Außenelektronen
