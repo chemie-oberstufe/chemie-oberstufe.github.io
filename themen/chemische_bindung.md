@@ -1,22 +1,12 @@
 ---
-title: 2. Chemische Bindung, Organische Chemie
+title: Chemische Bindung
 layout: page
 showinmenu: false
 ---
 
-## Überblick
-
-+ 2.1 [Bindungsmodelle](#bindungsmodelle)
-+ 2.2 [Stoffklassen und Reaktionen der organischen Chemie](#organische_chemie)
-+ 2.3 [Fette und Tenside](#fette_und_tenside)
-
 ## Worum geht's?
 
-
-
-## 2.1 Bindungsmodelle
-
-**Lernziele**
+## Lernziele
 
 - Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern
 - Anwendung des Struktur-Eigenschaften-Basiskonzepts an Beispielen zu allen Bindungsarten
@@ -24,7 +14,7 @@ showinmenu: false
 - den räumlichen Bau von Molekülen aus der Strukturformel ableiten
 - Kenntnis und korrekte Verwendung der Fachbegriffe
 
-**Fachbegriffe/Konzepte**
+## Fachbegriffe und Konzepte
 
 - Metallbindung
 	- elektrostatische Anziehungskräfte
@@ -48,69 +38,17 @@ showinmenu: false
 - stabile Elektronenkonfigurationen
 - Struktur-Eigenschaften-Basiskonzept
 
-**Experimente**
+## Experimente
 	
 - Löslichkeit und Leitfähigkeit von Molekülsubstanzen, Ionensubstanzen und Metallen untersuchen
 
-**Material**
+## Material
 
 - Lehrbücher
 
-## 2.2 Stoffklassen und Reaktionen der organischen Chemie
+## Leistungsnachweise
 
-**Lernziele**
 
-- Stoffklassen
-    - Bindungsverhältnisse und Strukturen in einer Übersicht darstellen
-    - funktionelle Gruppen kennzeichnen
-    - Vertreter der Stoffklassen benennen
-    - typische Reaktionstypen zuordnen
-- Struktur-Eigenschaften-Basiskonzept
-    - am Beispiel der organischen Verbindungen anwenden
-    - das heißt, es an verschiedenen Beispielen erläutern zu können
-- verschiedene Reaktionen des Ethanols erläutern
-- Aromaten
-    - den aromatischen Zustand beschreiben
-    - die Struktur des Benzolmoleküls beschreiben
-    - begründen, weshalb Benzol nur sehr schwer Additionsreaktionen eingeht
-    - Substitutionen am Benzolmolekül erläutern
-- Umweltrelevanz und Gesundheitsgefahren
-    - speziell der aromatischen Stoffe bewerten
-- Kenntnis und korrekte Verwendung der Fachbegriffe
-
-**Fachbegriffe/Konzepte**
-
-- Stoffklassen
-	- Alkane, Alkene, Alkine, Alkanole, Alkanale, Alkansäuren, Ester
-	- gesättigt, ungesättigt
-	- funktionelle Gruppen
-	- Nomenklatur
-	- typische Eigenschaften
-	- typische Reaktionen
-	- Bedeutung ausgewählter Vertreter der Stoffklassen
-- Reaktionen
-	- Addition
-	- Substitution
-	- Eliminierung
-	- Reaktionen des Ethanols
-		- Bildung eines Ethanolats
-		- partielle Oxidation mit KMnO_4
-		- Veresterung mit Ethansäure
-- Aromaten
-	- der aromatische Zustand
-	- aromatische Moleküle
-	- besondere Stabilität
-
-**Experimente**
-
-- Nachweis von Doppelbindungen (Baeyer-Probe)
-- Bildung eines Ethanolats: Ethanol und Natrium, Nachweis von Reaktionsprodukten
-- partielle Oxidation: Ethanol und MNnO_4
-- Veresterung: Ethanol und Ethansäure
-
-**Material**
-
-- Lehrbücher
 
 ## 2.3 Fette und Tenside
 

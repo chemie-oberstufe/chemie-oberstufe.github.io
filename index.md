@@ -10,12 +10,10 @@ showinmenu: false
 	- [Atommodelle](themen/atommodelle)
 	- [Redoxreaktionen](themen/redoxreaktionen)
 	- [Elektrochemie](themen/elektrochemie)
-
-
-
-1. [Atommodelle, Redoxreaktionen, Elektrochemie](atommodelle-redoxreaktionen-elektrochemie)
-2. [Chemische Bindung, Organische Chemie](chemische_bindung-organische_chemie)
-3. [Chemische Gleichgewichte](chemische_gleichgewichte)
-4. Wahlpflichtmodule
-    1. [Thermochemie](thermochemie)
-    2. [Komplexchemie, Qualitative Analyse](komplexchemie-qualitative_analyse)
+- Chemische Bindung, Organische Chemie
+	- [Chemische Bindung](themen/chemische_bindung)
+	- [Organische Chemie](themen/organische_chemie)
+	- [Fette und Tenside](themen/fette-und-tenside)
+- [Chemische Gleichgewichte](themen/chemische_gleichgewichte)
+- [Thermochemie](themen/thermochemie)
+- [Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative_analyse)

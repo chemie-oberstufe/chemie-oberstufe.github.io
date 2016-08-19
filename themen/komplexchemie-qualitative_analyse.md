@@ -1,19 +1,12 @@
 ---
-title: 4. Komplexchemie, Qualitative Analyse
+title: Komplexchemie und Qualitative Analyse
 layout: page
 showinmenu: false
 ---
 
-## Themen
-
-+ 4.1 Komplexchemie
-+ 4.2 Qualitative Analyse
-
 ## Worum geht's?
 
-## 4.1 Komplexchemie
-
-**Lernziele**
+## Lernziele
 
 - das Lösen von Salzen in Wasser im submikroskopischen Betrachtungsbereich beschreiben
 - den Vorgang der Hydratation beschreiben
@@ -27,22 +20,15 @@ showinmenu: false
     - Cyanidlaugerei
     - Hämoglobin und Chlorophyll
     - Bestimmung der Wasserhärte und Wasserenthärtung
-
-**Fachbegriffe/Konzepte**
-
-**Experimente**
-
-**Material**
-
-## 4.2 Qualitative Analyse
-
-**Lernziele**
-
 - Komplexreaktionen als qualitative Nachweise verschiedener Metallionen erläutern
 - für Nachweise die verkürzte Ionenschreibweise formulieren
 
-**Fachbegriffe/Konzepte**
+## Fachbegriffe und Konzepte
 
-**Experimente**
+## Experimente
 
-**Material**
+## Material
+
+- Lehrbücher
+
+## Leistungsnachweise

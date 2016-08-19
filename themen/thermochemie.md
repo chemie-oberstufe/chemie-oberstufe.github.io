@@ -1,11 +1,19 @@
 ---
-title: 4.1. Thermochemie
+title: Thermochemie
 layout: page
 showinmenu: false
 ---
 
-## Themen
+## Worum geht's?
 
-+ 1.1. Bohr'sches Atommodell
-+ 1.2. Orbitalmodell und Elektronenkonfiguration
-+ 1.3. Historische Entwicklungen und Modelltheorie
+## Lernziele
+
+## Fachbegriffe und Konzepte
+
+## Experimente
+
+## Material
+
+- Lehrbücher
+
+## Leistungsnachweise
