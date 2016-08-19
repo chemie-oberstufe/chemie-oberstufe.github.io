@@ -1,5 +1,5 @@
 ---
-title: 1. Atommodelle, Redoxreaktionen, Elektrochemie
+title: Elektrochemie
 layout: page
 showinmenu: false
 ---
