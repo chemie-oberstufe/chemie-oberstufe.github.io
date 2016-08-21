@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schule Online</title>
+    <title>Chemie Oberstufe</title>
     <description></description>
-    <link>http://mrfiedler.de/</link>
-    <atom:link href="http://mrfiedler.de/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Aug 2016 21:45:16 +0200</pubDate>
-    <lastBuildDate>Wed, 17 Aug 2016 21:45:16 +0200</lastBuildDate>
+    <link>https://chemie-oberstufe.github.io/</link>
+    <atom:link href="https://chemie-oberstufe.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 19 Aug 2016 23:42:35 +0200</pubDate>
+    <lastBuildDate>Fri, 19 Aug 2016 23:42:35 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>
