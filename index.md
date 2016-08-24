@@ -4,6 +4,8 @@ layout: page
 showinmenu: false
 ---
 
+## Organisation
+
 ## Themen im gA-Kurs
 
 - Atommodelle, Redoxreaktionen, Elektrochemie
@@ -17,3 +19,8 @@ showinmenu: false
 - [Chemische Gleichgewichte](themen/chemische_gleichgewichte)
 - [Thermochemie](themen/thermochemie)
 - [Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative_analyse)
+
+## Gut zu wissen
+
+- Chemisches Rechnen
+- Oxidationszahlen
