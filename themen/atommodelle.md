@@ -13,7 +13,7 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 ## Lernziele
 
 - Kenntnis und korrekte Verwendung der Fachbegriffe
-- Fähigkeit, ein und das selbe Atom in verschiedenen Modellen/Schreibweisen korrekt darzustellen
+- Fähigkeit, ein und das selbe Atom in verschiedenen Modellen/Schreibweisen korrekt darzustellen (Bohr'sches Atommodell, Energiestufenmodell, Orbital
 - korrekte Anwendung der Hund'schen Regel und des Pauli-Prinzips
 - Fähigkeit, für jedes beliebige Elektron die Konfiguration der Quantenzahlen anzugeben
 - den Zusammenhang zwischen der Stellung eines Elementes im PSE und seiner Elektronenkonfiguration an Beispielen erläutern
