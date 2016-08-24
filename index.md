@@ -10,10 +10,9 @@ Im gA-Kurs müsst ihr von 5 Bereichen insgesamt 4 bearbeiten. Von den Bereichen 
 muss einer zur Bearbeitung gewählt werden.
 
 Insgesamt stehen euch ca. 60 Doppelstunden zur Verfügung. Das heißt, pro Bereich bleiben ca. 15 Doppelstunden. Je nach Bereich und euren Vorkenntnissen, kann es 
-allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt. Wichtig ist, dass ihr nicht wesentlich länger braucht und somit wertvolle Zeit
-für die Bearbeitung der anderen Bereiche verschenkt.
+allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt. Wichtig ist, dass ihr **nicht wesentlich** länger braucht.
 
-**Wichtig:** Führt euer Lerntagebuch gründlich und passt regelmäßig euren Zeitplan an euren aktuellen Fortschritt an.
+**Tipp:** Führt euer Lerntagebuch gründlich und passt regelmäßig euren Zeitplan an euren aktuellen Fortschritt an.
 
 ### Euer Beitrag
 
@@ -27,7 +26,7 @@ für die Bearbeitung der anderen Bereiche verschenkt.
 - individuelle Betreuung (einzeln, in Gruppen oder als Kurs)
 - Orientierung und Hilfe bei der Planung
 - Beratung bei der Themenwahl
-- Zusammenstellung von Lernmaterialien und Quellen
+- Zusammenstellung von Materialien und Quellen
 
 
 ## Themen im gA-Kurs
@@ -49,4 +48,6 @@ für die Bearbeitung der anderen Bereiche verschenkt.
 - Basiskonzepte
 - Chemisches Rechnen
 - Oxidationszahlen
+
+
 - Operatoren
