@@ -10,7 +10,7 @@ html, body { height: 100%; }
 
 body {
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
   /* font-weight: 300; */
   background-color: #fdfdfd;
@@ -173,10 +173,7 @@ strong {
 .post-header { margin: 10px 0 30px; }
 
 .post-header h1 {
-  font-size: 150%;
-  letter-spacing: -1.75px;
-  line-height: 1;
-  font-weight: 300;
+  font-size: 180%;
 }
 
 .post-header .meta {
@@ -202,18 +199,11 @@ strong {
 }
 
 .post-content h2 {
-  font-size: 32px;
-  letter-spacing: -1.25px;
+  font-size: 160%;
 }
 
 .post-content h3 {
-  font-size: 26px;
-  letter-spacing: -1px;
-}
-
-.post-content h4 {
-  font-size: 20px;
-  letter-spacing: -1px;
+  font-size: 140%;
 }
 
 .post-content blockquote {
