@@ -49,3 +49,4 @@ für die Bearbeitung der anderen Bereiche verschenkt.
 - Basiskonzepte
 - Chemisches Rechnen
 - Oxidationszahlen
+- Operatoren

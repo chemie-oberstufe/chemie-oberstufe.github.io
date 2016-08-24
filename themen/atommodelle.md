@@ -13,16 +13,18 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 ## Lernziele
 
 - Kenntnis und korrekte Verwendung der Fachbegriffe
-- Fähigkeit, ein und das selbe Atom in verschiedenen Modellen/Schreibweisen korrekt darzustellen (Bohr'sches Atommodell, Energiestufenmodell, Orbital
-- korrekte Anwendung der Hund'schen Regel und des Pauli-Prinzips
-- Fähigkeit, für jedes beliebige Elektron die Konfiguration der Quantenzahlen anzugeben
+- Fähigkeit, ein Atom in verschiedenen Modellen/Schreibweisen korrekt darzustellen:
+	- Bohrsches Atommodell
+	- Energiestufenmodell
+	- Orbitalschreibweise, Kästchenschreibweise
+- korrekte Anwendung der Hundschen Regel und des Pauli-Prinzips
 - den Zusammenhang zwischen der Stellung eines Elementes im PSE und seiner Elektronenkonfiguration an Beispielen erläutern
-- Nachweis des Verständnisses von Elektronenschalen als Energieniveaus
+- Erläuterung des Energiestufenmodells am experimentellen Beispiel
 - Erläuterung der Vorteile und Grenzen von Modellen in den Naturwissenschaften am konkreten Beispiel der Atommodelle
 
 ## Fachbegriffe und Konzepte
 
-- Bohr'sches Atommodell / Schalenmodell
+- Bohrsches Atommodell / Schalenmodell
 	- Protonen, Elektronen, Neutronen, Außenelektronen
 	- Atomkern, Atomhülle, Größenverhältnisse
 	- Isotope
@@ -38,8 +40,9 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 		- Nebenquantenzahl l
 		- Magnetquantenzahl m
 		- Spinquantenzahl s
-	- Hund'sche Regel
+	- Hundsche Regel
 	- Pauli-Prinzip
+	- Aufbauprinzip
 	- Orbitalschreibweise
 	- Kästchenschreibweise
 - Atommodelle
@@ -58,11 +61,16 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 ## Material
 
 - Lehrbücher
+- [https://www.chemiezauber.de/inhalt/q1/aufbau-der-materie/atommodelle.html](https://www.chemiezauber.de/inhalt/q1/aufbau-der-materie/atommodelle.html)
+- [Simple Chemics - Atommodelle Teil 1](https://www.youtube.com/watch?v=vBXaINQwpZ0)
+- [Simple Chemics - Atommodelle Teil 2](https://www.youtube.com/watch?v=hwhTXmT1xS4)
+- [Simple Chemics - Atomorbitale / Atomorbitalmodell](https://www.youtube.com/watch?v=Pw-MeI_kK-0)
+
 
 ## Leistungsnachweise
 
-- Test Kern-Hülle-Modell/Schalenmodell/Energiestufenmodell und PSE
-- Test Orbitalmodell und Quantenzahlen
+- Test Bohrsches Atommodell und PSE
+- Test Orbitalmodell und Kästchenschreibweise/Orbitalschreibweise
 - Protokoll zum Experiment Flammenfärbung (Energiestufenmodell)
 
 - Alternativen nach individueller Vereinbarung
