@@ -1,5 +1,5 @@
 ---
-title: Experiment: Flammenfärbung
+title: Experiment Flammenfärbung
 layout: page
 showinmenu: false
 ---
