@@ -12,3 +12,10 @@ layout: default
   </article>
 
 </div>
+<div class="tags">
+	<ul class="tags">
+	{% for tag in page.tags %}
+		<li>< href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+	{% endfor %}
+	</ul>
+</div>

@@ -2,7 +2,7 @@
 title: Experiment Flammenfärbung
 layout: page
 showinmenu: false
-tags: experiment atombau
+tags: [experiment, atombau]
 ---
 
 ## Aufgabe
