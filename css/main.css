@@ -1,3 +1,8 @@
+/* Import */
+/* ---------------------------------------------------------*/
+/* separate new styles to reduce CSS more easily in the future */
+@import 'tags.css';
+
 /* Base */
 /* ----------------------------------------------------------*/
 
