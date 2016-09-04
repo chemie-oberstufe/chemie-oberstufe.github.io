@@ -3,6 +3,20 @@ layout: default
 title: Tags
 ---
 
+<h2>site.pages</h2>
+<ul>
+{% for page in site.pages %}
+	<li>{{ page }}</li>
+{% endfor %}
+</ul>
+
+<h2>site.posts</h2>
+<ul>
+{% for post in site.posts %}
+        <li>{{ post }}</li>
+{% endfor %}
+</ul>
+	
 {% comment %}
 =======================
 The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
