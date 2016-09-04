@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Tags
+title: Verfügbare Tags
 ---
-
+{% comment %}
+--------------------------------------------------------------------
+--- DEBUG list all pages and posts
 <h2>site.pages</h2>
 <ul>
 {% for page in site.pages %}
@@ -16,6 +18,8 @@ title: Tags
         <li>{{ post.title }}</li>
 {% endfor %}
 </ul>
+---------------------------------------------------------------------
+{% endcomment %}
 	
 {% comment %}
 =======================
@@ -44,4 +48,13 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
 		{% endunless %}
 	{% endif %}
+{% endfor %}
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all the tags you have in your site.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
