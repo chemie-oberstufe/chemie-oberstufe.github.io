@@ -16,12 +16,12 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 		 {% if page.tags contains tag %}
 		 <li>
 		 <h3>
-		 <a href="{{ post.url }}">
-		 {{ post.title }}
-		 <small>{{ post.date | date_to_string }}</small>
+		 <a href="{{ page.url }}">
+		 {{ page.title }}
+		 <small>{{ page.date | date_to_string }}</small>
 		 </a>
-		 {% for tag in post.tags %}
-			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+		 {% for tag in page.tags %}
+			 <a class="tag" href="/tags/index#{{ tag | slugify }}">{{ tag }}</a>
 		 {% endfor %}
 		 </h3>
 		 </li>
