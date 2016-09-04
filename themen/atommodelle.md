@@ -72,6 +72,6 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 
 - Test Bohrsches Atommodell und PSE
 - Test Orbitalmodell und Kästchenschreibweise/Orbitalschreibweise
-- Protokoll zum [Experiment Flammenfärbung](/experiment/flammenfaerbung) (Energiestufenmodell)
+- Protokoll zum [Experiment Flammenfärbung](/experimente/flammenfaerbung) (Energiestufenmodell)
 
 - Alternativen nach individueller Vereinbarung
