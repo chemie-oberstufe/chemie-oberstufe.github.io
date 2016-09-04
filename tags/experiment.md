@@ -1,27 +1,9 @@
 ---
+title: Seiten getaggt mit "Experiment"
 layout: page
-title: Verfügbare Tags
+showinmenu: false
 ---
 
-{% comment %}
---------------------------------------------------------------------
---- DEBUG list all pages and posts
-<h2>site.pages</h2>
-<ul>
-{% for page in site.pages %}
-	<li>{{ page.title }}</li>
-{% endfor %}
-</ul>
-
-<h2>site.posts</h2>
-<ul>
-{% for post in site.posts %}
-        <li>{{ post.title }}</li>
-{% endfor %}
-</ul>
----------------------------------------------------------------------
-{% endcomment %}
-	
 {% comment %}
 =======================
 The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
@@ -51,12 +33,25 @@ The following part removes duplicated tags and invalid tags like blank tag.
 	{% endif %}
 {% endfor %}
 
+
 {% comment %}
 =======================
-The purpose of this snippet is to list all the tags you have in your site.
+The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
+{% assign tag = "experiment" %}
 <ul class="tags">
-{% for tag in tags %}
-	<li><a href="{{ tag | slugify }}" class="tag">{{ tag }}</a></li>
+	<li class="tag">{{ tag }}</li>
+</ul>
+<ul>
+{% for page in site.pages %}
+	 {% if page.tags contains tag %}
+	 <li>
+	 <a href="{{ page.url }}">{{ page.title }}</a>
+	 {% for tag in page.tags %}
+		 <a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+	 {% endfor %}
+	 </li>
+	 {% endif %}
 {% endfor %}
+</ul>

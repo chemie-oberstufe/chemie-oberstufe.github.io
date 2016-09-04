@@ -39,7 +39,6 @@ The following part removes duplicated tags and invalid tags like blank tag.
 The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
-
 {% assign tag = "atombau" %}
 <ul class="tags">
 	<li class="tag">{{ tag }}</li>
