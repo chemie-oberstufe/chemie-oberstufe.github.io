@@ -6,14 +6,14 @@ title: Tags
 <h2>site.pages</h2>
 <ul>
 {% for page in site.pages %}
-	<li>{{ page }}</li>
+	<li>{{ page.title }}</li>
 {% endfor %}
 </ul>
 
 <h2>site.posts</h2>
 <ul>
 {% for post in site.posts %}
-        <li>{{ post }}</li>
+        <li>{{ post.title }}</li>
 {% endfor %}
 </ul>
 	
@@ -23,8 +23,8 @@ The following part extracts all the tags from your posts and sort tags, so that 
 =======================
 {% endcomment %}
 {% assign rawtags = "" %}
-{% for post in site.posts %}
-	{% assign ttags = post.tags | join:'|' | append:'|' %}
+{% for page in site.pages %}
+	{% assign ttags = page.tags | join:'|' | append:'|' %}
 	{% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
