@@ -2,7 +2,7 @@
 title: Atommodelle
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [thema, atommodell, basics]
 ---
 
 ## Worum geht's?
@@ -72,6 +72,6 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 
 - Test Bohrsches Atommodell und PSE
 - Test Orbitalmodell und Kästchenschreibweise/Orbitalschreibweise
-- Protokoll zum Experiment Flammenfärbung (Energiestufenmodell)
+- Protokoll zum [Experiment Flammenfärbung](/experiment/flammenfaerbung) (Energiestufenmodell)
 
 - Alternativen nach individueller Vereinbarung
