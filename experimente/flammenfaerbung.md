@@ -13,6 +13,9 @@ Alkalimetalle.
 
 ## Geräte und Chemikalien
 
+{% include ghs name="ätzend" %}
+
+
 - Alkalimetallchloride (LiCl, NaCl, KCl, RbCl, SrCl)
 - verdünnte Salzsäure {% include ghs name="ätzend" %}
 - Tüpfelplatte
