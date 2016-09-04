@@ -9,7 +9,7 @@ showinmenu: false
 The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
-{% for tag in site.tags %}
+{% for tag in tags %}
 	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
 	<ul>
 	 {% for page in site.pages %}
