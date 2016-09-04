@@ -41,7 +41,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% endcomment %}
 {% assign tag = "thema" %}
 <ul class="tags">
-	<li style="float: left;">Seiten getaggt mit </li>
+	<li style="float: left; margin-right: 1em;">Seiten getaggt mit</li>
 	<li class="tag">{{ tag }}</li>
 </ul>
 <ul>
