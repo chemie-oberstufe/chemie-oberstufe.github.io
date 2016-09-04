@@ -1,7 +1,7 @@
 ---
-title: Seiten getaggt mit "Experiment"
+title: Experimente
 layout: page
-showinmenu: false
+showinmenu: true
 ---
 
 {% comment %}
