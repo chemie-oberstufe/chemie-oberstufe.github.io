@@ -2,6 +2,7 @@
 title: Fette und Tenside
 layout: page
 showinmenu: false
+tags: [thema]
 ---
 
 ## Worum geht's?
