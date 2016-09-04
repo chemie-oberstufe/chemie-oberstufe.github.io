@@ -2,7 +2,6 @@
 title: Chemische Gleichgewichte
 layout: page
 showinmenu: false
-tags: [eins zwei]
 ---
 
 ## Worum geht's?

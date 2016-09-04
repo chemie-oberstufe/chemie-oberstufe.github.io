@@ -35,7 +35,7 @@ The following part extracts all the tags from your posts and sort tags, so that 
 
 {% comment %}
 =======================
-The following part removes dulpicated tags and invalid tags like blank tag.
+The following part removes duplicated tags and invalid tags like blank tag.
 =======================
 {% endcomment %}
 {% assign tags = "" %}
@@ -55,7 +55,7 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 The purpose of this snippet is to list all the tags you have in your site.
 =======================
 {% endcomment %}
-<ul>
+<ul class="tags">
 {% for tag in tags %}
-	<li><a href="#{{ tag | slugify }}" class="tag">{{ tag }}</a></li>
+	<li><a href="{{ tag | slugify }}" class="tag">{{ tag }}</a></li>
 {% endfor %}
