@@ -1,5 +1,5 @@
 ---
-title: Experiment Flammenfärbung
+title: Flammenfärbung
 layout: page
 showinmenu: false
 tags: [experiment, atombau]
