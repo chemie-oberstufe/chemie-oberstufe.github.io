@@ -48,15 +48,10 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% for page in site.pages %}
 	 {% if page.tags contains tag %}
 	 <li>
-	 <h3>
-	 <a href="{{ page.url }}">
-	 {{ page.title }}
-	 <small>{{ page.date | date_to_string }}</small>
-	 </a>
+	 <a href="{{ page.url }}">{{ page.title }}</a>
 	 {% for tag in page.tags %}
-		 <a class="tag" href="/tags/index#{{ tag | slugify }}">{{ tag }}</a>
+		 <a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a>
 	 {% endfor %}
-	 </h3>
 	 </li>
 	 {% endif %}
 {% endfor %}
