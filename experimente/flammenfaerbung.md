@@ -7,8 +7,6 @@ tags: [experiment, atombau]
 
 ## Aufgabe
 
-{% include ghs name="ätzend" %}
-
 Führe das Experiment zur Flammenfärbung durch und notiere deine Beobachtungen. Erkläre in der Auswertung
 deine Beobachtungen mit Hilfe des Energiestufenmodells. Skizziere dazu das Energiestufenmodell für drei der
 Alkalimetalle.
@@ -16,7 +14,7 @@ Alkalimetalle.
 ## Geräte und Chemikalien
 
 - Alkalimetallchloride (LiCl, NaCl, KCl, RbCl, SrCl)
-- verdünnte Salzsäure <img src="/images/ghs/ghs_ätzend.png">
+- verdünnte Salzsäure {% include ghs name="ätzend" %}
 - Tüpfelplatte
 - Spatel
 - Magnesiastäbchen
