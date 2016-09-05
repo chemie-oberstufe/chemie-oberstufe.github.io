@@ -14,7 +14,7 @@ Alkalimetalle.
 ## Geräte und Chemikalien
 
 - Alkalimetallchloride (LiCl, NaCl, KCl, RbCl, SrCl)
-- verdünnte Salzsäure
+- verdünnte Salzsäure <img src="/images/ghs/ghs_ätzend.png">
 - Tüpfelplatte
 - Spatel
 - Magnesiastäbchen
