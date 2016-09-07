@@ -31,6 +31,10 @@ Alkalimetalle.
 5. Halte nun das Ende mit der Probe in die Brennerflamme und beobachte.
 6. Wiederhole Schritte 3 bis 5 für die anderen Proben.
 
+## Entsorgung
+
+Keiner der verwendeten Stoffe ist giftig oder umweltgefährdend. Deshalb können die Geräte mit sauberem Wasser abgespült werden.
+
 ## Literatur und Materialien
 
 - [chemiezauber.de - Das Bohrsche Atommodell](https://www.chemiezauber.de/index.php/inhalt/q1/aufbau-der-materie/atommodelle/das-bohrsche-atommodell)
