@@ -38,3 +38,5 @@ Keiner der verwendeten Stoffe ist giftig oder umweltgefährdend. Deshalb können
 ## Literatur und Materialien
 
 - [chemiezauber.de - Das Bohrsche Atommodell](https://www.chemiezauber.de/index.php/inhalt/q1/aufbau-der-materie/atommodelle/das-bohrsche-atommodell)
+- [Simple Chemics - Flammenfärbung](https://www.youtube.com/watch?v=jfjhs8zVMsc)
+- [Youtube - Flammenfärbung](https://www.youtube.com/watch?v=8SJIR484dMo)
