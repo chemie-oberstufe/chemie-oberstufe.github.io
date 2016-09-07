@@ -13,7 +13,7 @@ Alkalimetalle.
 
 ## Geräte und Chemikalien
 
-- Alkalimetall- und Erdalkalimetallchloride (LiCl, NaCl, KCl, SrCl, CaCl<sub>2</sub>, BaCl<sub>2</sub>)
+- Alkalimetall- und Erdalkalimetallchloride (LiCl, NaCl, KCl, SrCl, CaCl<sub>2</sub>, BaCl<sub>2</sub> {% include ghs "giftig" %})
 - destilliertes Wasser
 - Tüpfelplatte
 - Spatel
@@ -33,7 +33,9 @@ Alkalimetalle.
 
 ## Entsorgung
 
-Keiner der verwendeten Stoffe ist giftig oder umweltgefährdend. Deshalb können die Geräte im Waschbecken mit sauberem Wasser abgespült werden.
+Bariumchlorid ist giftig. Deshalb müssen Reste im Kanister entsorgt werden.
+
+Die Geräte können anschließend gefahrlos im Waschbecken mit sauberem Wasser gespült werden.
 
 ## Literatur und Materialien
 
