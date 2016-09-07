@@ -13,7 +13,7 @@ Alkalimetalle.
 
 ## Geräte und Chemikalien
 
-- Alkalimetallchloride (LiCl, NaCl, KCl, RbCl, SrCl)
+- Alkalimetall- und Erdalkalimetallchloride (LiCl, NaCl, KCl, SrCl, CaCl~~2~~, BaCl^2^)
 - destilliertes Wasser
 - Tüpfelplatte
 - Spatel
