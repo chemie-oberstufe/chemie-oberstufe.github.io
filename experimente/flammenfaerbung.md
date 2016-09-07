@@ -15,7 +15,6 @@ Alkalimetalle.
 
 - Alkalimetallchloride (LiCl, NaCl, KCl, RbCl, SrCl)
 - destilliertes Wasser
-- verdünnte Salzsäure {% include ghs name="ätzend" %}
 - Tüpfelplatte
 - Spatel
 - Magnesiastäbchen
