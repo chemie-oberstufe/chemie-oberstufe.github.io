@@ -33,7 +33,7 @@ Alkalimetalle.
 
 ## Entsorgung
 
-Keiner der verwendeten Stoffe ist giftig oder umweltgefährdend. Deshalb können die Geräte mit sauberem Wasser abgespült werden.
+Keiner der verwendeten Stoffe ist giftig oder umweltgefährdend. Deshalb können die Geräte im Waschbecken mit sauberem Wasser abgespült werden.
 
 ## Literatur und Materialien
 
