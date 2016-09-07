@@ -12,7 +12,7 @@ deine Beobachtungen mit Hilfe des Energiestufenmodells. Skizziere dazu das Energ
 
 ## Geräte und Chemikalien
 
-- Alkalimetall- und Erdalkalimetallchloride: LiCl, NaCl, KCl, SrCl, CaCl<sub>2</sub>, BaCl<sub>2</sub> {% include ghs name="giftig" %}
+- Alkalimetall- und Erdalkalimetallchloride: LiCl, NaCl, KCl, CaCl<sub>2</sub>, SrCl<sub>2</sub>, BaCl<sub>2</sub> {% include ghs name="giftig" %}
 - destilliertes Wasser
 - Tüpfelplatte
 - Spatel
