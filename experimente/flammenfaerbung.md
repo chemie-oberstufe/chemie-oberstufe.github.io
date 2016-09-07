@@ -8,8 +8,7 @@ tags: [experiment, atombau]
 ## Aufgabe
 
 Führe das Experiment zur Flammenfärbung durch und notiere deine Beobachtungen. Erkläre in der Auswertung
-deine Beobachtungen mit Hilfe des Energiestufenmodells. Skizziere dazu das Energiestufenmodell für drei der
-Alkalimetalle.
+deine Beobachtungen mit Hilfe des Energiestufenmodells. Skizziere dazu das Energiestufenmodell für drei der Metalle.
 
 ## Geräte und Chemikalien
 
