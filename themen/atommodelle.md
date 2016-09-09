@@ -76,4 +76,4 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 - [Simple Chemics - Atomorbitale / Atomorbitalmodell](https://www.youtube.com/watch?v=Pw-MeI_kK-0)
 
 ### Energieniveauschema
-{% include img name="energieniveauschema.svg" alt="allgemeines Energieniveauschema" width="500px" %}
+{% include img name="energieniveauschema.png" alt="allgemeines Energieniveauschema" width="500px" %}
