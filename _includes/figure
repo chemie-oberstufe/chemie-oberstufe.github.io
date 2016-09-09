@@ -1,10 +1,10 @@
 {% if include.name %}
-	{% if include.caption %}
-	    <figure>
-	        <img src="/images/{{ include.name }}" alt="{{ include.caption }}" {% if include.width %} width="{{ include.width }}" {% endif %}/>
-	        <figcaption>{{ include.caption }}</figcaption>
-	    </figure>
-	{% else %}
-	    <img src="/images/{{ include.name }}" alt="{{ include.caption }}" {% if include.width %} width="{{ include.width }}" {% endif %}/>
-	{% endif %}
+{% if include.caption %}
+<figure>
+<img src="/images/{{ include.name }}" alt="{{ include.caption }}" {% if include.width %} width="{{ include.width }}" {% endif %}/>
+<figcaption>{{ include.caption }}</figcaption>
+</figure>
+{% else %}
+<img src="/images/{{ include.name }}" alt="{{ include.caption }}" {% if include.width %} width="{{ include.width }}" {% endif %}/>
+{% endif %}
 {% endif %}
