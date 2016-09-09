@@ -59,6 +59,14 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 	
 - [Flammenfärbung](/experimente/flammenfaerbung)
 
+## Leistungsnachweise
+
+- Test Bohrsches Atommodell und PSE
+- Test Orbitalmodell und Kästchenschreibweise/Orbitalschreibweise
+- Protokoll zum [Experiment Flammenfärbung](/experimente/flammenfaerbung) (Energiestufenmodell)
+
+- Alternativen nach individueller Vereinbarung
+
 ## Material
 
 - Lehrbücher
@@ -67,11 +75,5 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 - [Simple Chemics - Atommodelle Teil 2](https://www.youtube.com/watch?v=hwhTXmT1xS4)
 - [Simple Chemics - Atomorbitale / Atomorbitalmodell](https://www.youtube.com/watch?v=Pw-MeI_kK-0)
 
-
-## Leistungsnachweise
-
-- Test Bohrsches Atommodell und PSE
-- Test Orbitalmodell und Kästchenschreibweise/Orbitalschreibweise
-- Protokoll zum [Experiment Flammenfärbung](/experimente/flammenfaerbung) (Energiestufenmodell)
-
-- Alternativen nach individueller Vereinbarung
+### Energieniveauschema
+{% include img name="energieniveauschema.svg" alt="allgemeines Energieniveauschema" width="500px" %}
