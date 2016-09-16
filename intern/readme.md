@@ -9,19 +9,19 @@ showinmenu: false
 **Grafiken, einfach, mit Dateiendung**
 
 ```
-	{% include img name="" alt="" width="" %}
+	include img name="" alt="" width=""
 ```
 
 **Grafiken, figure, mit Dateiendung**
 
 ```
-	{% include figure name="" caption="" alt="" width="" %}
+	include figure name="" caption="" alt="" width=""
 ```
 
 **GHS-Symbole, ohne Dateiendung**
 
 ```
-	{% include ghs name="ätzend,gesundheitsgefährdend,..." %}
+	include ghs name="ätzend,gesundheitsgefährdend,..."
 ```
 
 ## Tags
