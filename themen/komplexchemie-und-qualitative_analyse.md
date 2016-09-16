@@ -26,6 +26,13 @@ tags: [thema]
 
 ## Fachbegriffe und Konzepte
 
+- Hydratation
+- Komplex
+- Ligand
+- Zentralion/Zentralteilchen
+- koordinative Bindung
+- Ligandenaustausch
+
 ## Experimente
 
 ## Material

@@ -32,6 +32,9 @@ tags: [thema]
 
 ## Leistungsnachweise
 
+- Kurztest Oxidationszahlen und Redoxgleichungen
+- Protokoll zu den Experimenten 
+
 ## Material
 
 - Lehrbücher
