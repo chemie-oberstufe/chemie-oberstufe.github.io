@@ -47,12 +47,13 @@ tags: [thema]
 - Kupferraffination oder Chlor-Alkali-Elektrolyse
 - Elektrolyse verschiedener Salz- und Säurelösungen mit Nachweis von Reaktionsprodukten (z.B. H<sub>2</sub>, Cl<sub>2</sub>)
 
+- evtl. Alternative: (Salzwasser-Aludosen-Batterie)
 
-- (Salzwasser-Aludosen-Batterie)
+## Leistungsnachweise
 
 ## Material
 
 - Lehrbücher
 
-## Leistungsnachweise
+
     

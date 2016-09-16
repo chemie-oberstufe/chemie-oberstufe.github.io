@@ -2,7 +2,7 @@
 title: Organische Chemie
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [thema, organische_chemie]
 ---
 
 ## Worum geht's?
@@ -59,8 +59,10 @@ Um Stoffklassen und Reaktionstypen der organischen Chemie.
 - partielle Oxidation: Ethanol und MNnO_4
 - Veresterung: Ethanol und Ethansäure
 
+## Leistungsnachweise
+
 ## Material
 
 - Lehrbücher
 
-## Leistungsnachweise
+

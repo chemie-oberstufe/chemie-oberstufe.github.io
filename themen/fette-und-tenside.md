@@ -2,7 +2,7 @@
 title: Fette und Tenside
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [thema, organische_chemie]
 ---
 
 ## Worum geht's?
@@ -45,10 +45,12 @@ tags: [thema]
 - Eigenschaften der Tenside untersuchen
 - Eigenschaften einer Seifenlösung untersuchen
 
+## Leistungsnachweise
+
 ## Material
 
 - Lehrbücher
 
-## Leistungsnachweise
+
 
 
