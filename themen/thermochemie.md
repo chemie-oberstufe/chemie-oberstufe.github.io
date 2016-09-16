@@ -1,8 +1,8 @@
 ---
-title: Füge hier einen Titel ein
+title: Thermochemie
 layout: page
 showinmenu: false
-tags: [thema, und_weitere_nach_bedarf]
+tags: [thema]
 ---
 
 ## Worum geht's?
