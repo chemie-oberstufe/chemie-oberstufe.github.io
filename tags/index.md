@@ -44,10 +44,10 @@ The following part removes duplicated tags and invalid tags like blank tag.
 {% for tag in rawtags %}
 	{% if tag != "" %}
 		{% if tags == "" %}
-			{% assign tags = tag | split:'|' %}
+			{% assign tags = tag | split:'|' | sort %}
 		{% endif %}
 		{% unless tags contains tag %}
-			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' | sort %}
 		{% endunless %}
 	{% endif %}
 {% endfor %}
