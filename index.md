@@ -6,15 +6,15 @@ showinmenu: false
 
 ## Themen im gA-Kurs
 
-- 1. Atommodelle, Redoxreaktionen, Elektrochemie
+- Atommodelle, Redoxreaktionen, Elektrochemie
 	- [1.1 Atommodelle](themen/atommodelle)
 	- [1.2 Redoxreaktionen](themen/redoxreaktionen)
 	- [1.3 Elektrochemie](themen/elektrochemie)
-- 2. Chemische Bindung, Organische Chemie
+- Chemische Bindung, Organische Chemie
 	- [2.1 Chemische Bindung](themen/chemische_bindung)
 	- [2.2 Organische Chemie](themen/organische_chemie)
 	- [2.3 Fette und Tenside](themen/fette-und-tenside)
-- [3. Chemische Gleichgewichte](themen/chemische_gleichgewichte)
+- [3 Chemische Gleichgewichte](themen/chemische_gleichgewichte)
 - [4a Thermochemie](themen/thermochemie)
 - [4b Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative_analyse)
 
