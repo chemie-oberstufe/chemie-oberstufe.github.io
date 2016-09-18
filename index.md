@@ -4,6 +4,27 @@ layout: page
 showinmenu: false
 ---
 
+## Themen im gA-Kurs
+
+- 1. Atommodelle, Redoxreaktionen, Elektrochemie
+	- [1.1 Atommodelle](themen/atommodelle)
+	- [1.2 Redoxreaktionen](themen/redoxreaktionen)
+	- [1.3 Elektrochemie](themen/elektrochemie)
+- 2. Chemische Bindung, Organische Chemie
+	- [2.1 Chemische Bindung](themen/chemische_bindung)
+	- [2.2 Organische Chemie](themen/organische_chemie)
+	- [2.3 Fette und Tenside](themen/fette-und-tenside)
+- [3. Chemische Gleichgewichte](themen/chemische_gleichgewichte)
+- [4a Thermochemie](themen/thermochemie)
+- [4b Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative_analyse)
+
+## Grundlagen
+
+- Basiskonzepte
+- Chemisches Rechnen
+- Oxidationszahlen
+- Operatoren
+
 ## Organisation
 
 Im gA-Kurs müsst ihr von 5 Bereichen insgesamt 4 bearbeiten. Von den Bereichen **Thermochemie** und **Komplexchemie und Qualitative Analyse** 
@@ -28,26 +49,3 @@ allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt
 - Beratung bei der Themenwahl
 - Zusammenstellung von Materialien und Quellen
 
-
-## Themen im gA-Kurs
-
-- Atommodelle, Redoxreaktionen, Elektrochemie
-	- [Atommodelle](themen/atommodelle)
-	- [Redoxreaktionen](themen/redoxreaktionen)
-	- [Elektrochemie](themen/elektrochemie)
-- Chemische Bindung, Organische Chemie
-	- [Chemische Bindung](themen/chemische_bindung)
-	- [Organische Chemie](themen/organische_chemie)
-	- [Fette und Tenside](themen/fette-und-tenside)
-- [Chemische Gleichgewichte](themen/chemische_gleichgewichte)
-- [Thermochemie](themen/thermochemie)
-- [Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative_analyse)
-
-## Gut zu wissen
-
-- Basiskonzepte
-- Chemisches Rechnen
-- Oxidationszahlen
-
-
-- Operatoren

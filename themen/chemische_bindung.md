@@ -1,5 +1,5 @@
 ---
-title: Chemische Bindung
+title: 2.1 Chemische Bindung
 layout: page
 showinmenu: false
 tags: [thema, basics]
