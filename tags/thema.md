@@ -45,7 +45,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	<li class="tag">{{ tag }}</li>
 </ul>
 <ul>
-{% assing pages = site.pages | sort: 'title' %}
+{% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
 	 {% if page.tags contains tag %}
 	 <li>
