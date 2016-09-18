@@ -46,7 +46,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 </ul>
 <ul>
 {% assign pages = site.pages | sort: 'title' %}
-{% for pages in site.pages %}
+{% for page in site.pages | sort: 'title' %}
 	 {% if page.tags contains tag %}
 	 <li>
 	 <a href="{{ page.url }}">{{ page.title }}</a>
