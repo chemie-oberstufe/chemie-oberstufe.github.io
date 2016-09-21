@@ -2,7 +2,7 @@
 title: TITEL
 layout: page
 showinmenu: false
-tags: [experiment_wegdamit]
+tags: [experiment]
 ---
 
 ## Aufgabe
