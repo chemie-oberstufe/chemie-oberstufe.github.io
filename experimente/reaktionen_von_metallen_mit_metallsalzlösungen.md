@@ -1,5 +1,5 @@
 ---
-title: 1.2 Reaktionen verschiedener Metalle und und Metallsalzlösungen
+title: 1.2 Reaktionen verschiedener Metalle mit Metallsalzlösungen
 layout: page
 showinmenu: false
 tags: [experiment]
