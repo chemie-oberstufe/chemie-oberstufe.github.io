@@ -1,5 +1,5 @@
 ---
-title: TITEL
+title: 1.3 Daniell-Element
 layout: page
 showinmenu: false
 tags: [experiment]

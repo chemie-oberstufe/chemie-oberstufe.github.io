@@ -1,5 +1,5 @@
 ---
-title: TITEL
+title: 2.3 Eigenschaften von Tensiden
 layout: page
 showinmenu: false
 tags: [experiment]

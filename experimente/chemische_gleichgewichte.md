@@ -1,5 +1,5 @@
 ---
-title: TITEL
+title: 3 Chemische Gleichgewichte
 layout: page
 showinmenu: false
 tags: [experiment]
