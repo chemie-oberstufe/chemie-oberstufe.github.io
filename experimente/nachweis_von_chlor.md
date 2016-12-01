@@ -12,7 +12,7 @@ Führe das Experiment durch, notiere deine Beobachtungen und werte das Experimen
 ## Geräte und Chemikalien
 
 - verdünnte Salzsäure {% include ghs name="ätzend" %}
-- Kaliumpermanganat {% include ghs name="brandfördernd" %} {% include ghs name="gesundheitsgefahr" %}
+- Kaliumpermanganat {% include ghs name="brandfördernd" %}{% include ghs name="gesundheitsgefahr" %}
 - Iodid-Stärke-Papier (alternativ: Kaliumiodidlösung und Filterpapier)
 - Natriumthiosulfat (zur Entsorgung)
 
@@ -25,13 +25,14 @@ Führe das Experiment durch, notiere deine Beobachtungen und werte das Experimen
 
 ## Gefahrenhinweis
 
-Bei diesem Versuch entsteht Chlorgas in kleinen Mengen: {% include ghs name="giftig" %} {% include ghs name="umweltgefährdend" %}
+Es entstehen kleine Mengen Chlorgas (denn Chlor soll ja nachgewiesen werden): {% include ghs name="giftig" %}{% include ghs name="umweltgefährdend" %}
 Arbeite bei guter Belüftung und atme Chlorgas nicht ein.
 
 ## Durchführung
 
 1. Iodid-Stärke-Papier bereitlegen bzw. Filterpapier mit Kaliumiodidlösung betropfen
-2. Gib einen Spatel Kaliumpermanganat in das Reagenzglas. Füge ca. 1 cm hoch verdünnte Salzsäure hinzu und bedecke das Reagenzglas sofort mit dem Iodid-Stärke-Papier.
+2. Gib einen Spatel Kaliumpermanganat in das Reagenzglas. 
+3. Füge ca. 1 cm hoch verdünnte Salzsäure hinzu und bedecke das Reagenzglas sofort mit dem Iodid-Stärke-Papier.
 
 ## Entsorgung
 
