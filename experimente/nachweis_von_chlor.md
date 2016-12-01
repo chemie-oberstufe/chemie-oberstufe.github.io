@@ -25,7 +25,8 @@ Führe das Experiment durch, notiere deine Beobachtungen und werte das Experimen
 
 ## Gefahrenhinweis
 
-Es entstehen kleine Mengen Chlorgas (denn Chlor soll ja nachgewiesen werden): {% include ghs name="giftig" %}{% include ghs name="umweltgefährden" %}
+Es entstehen kleine Mengen Chlorgas (denn Chlor soll ja nachgewiesen werden).
+Chlor {% include ghs name="umweltgefährdend" %}{% include ghs name="umweltgefährdend" %}
 Arbeite bei guter Belüftung und atme Chlorgas nicht ein.
 
 ## Durchführung
