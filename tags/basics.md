@@ -1,7 +1,7 @@
 ---
 title: Basics
 layout: page
-showinmenu: true
+showinmenu: false
 ---
 
 {% comment %}
