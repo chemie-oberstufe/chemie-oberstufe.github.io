@@ -2,7 +2,7 @@
 title: 1.2 Redoxreaktionen
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [thema, redoxreaktionen]
 ---
 
 ## Lernziele
