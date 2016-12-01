@@ -33,7 +33,8 @@ tags: [thema, redoxreaktionen]
 ## Leistungsnachweise
 
 - Kurztest Oxidationszahlen und Redoxgleichungen
-- Protokoll zu den Experimenten 
+- Kurzprotokolle zu den Experimenten
+- weitere Nachweise nach Absprache
 
 ## Material
 
