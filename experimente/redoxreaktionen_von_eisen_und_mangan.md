@@ -12,7 +12,7 @@ Führe das Experiment durch, protokolliere und werte das Experiment unter schrit
 ## Geräte und Chemikalien
 
 - 5%ige Eisen(II)-sulfat-heptahydrat-Lösung {% include ghs name="gefahr" %}
-- Kaliumpermanganat {% include ghs name="gefahr" %} {% include ghs name="ätzend" %} {% include ghs name="umweltgefahr" %} {% include ghs name="brandfördernd" %}
+- Kaliumpermanganat {% include ghs name="gefahr" %} {% include ghs name="ätzend" %} {% include ghs name="umweltgefährdend" %} {% include ghs name="brandfördernd" %}
 - verdünnte Schwefelsäure {% include ghs name="gefahr" %} {% include ghs name="ätzend" %}
 
 ## Durchführung
