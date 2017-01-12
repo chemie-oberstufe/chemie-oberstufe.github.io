@@ -11,7 +11,7 @@ Führe das Experiment durch, protokolliere und werte das Experiment unter schrit
 
 ## Geräte und Chemikalien
 
-- 5%ige Eisen(II)-sulfat-heptahydrat-Lösung {% include ghs name="gefahr" %}
+- Eisen(II)-sulfat-heptahydrat-Lösung {% include ghs name="gefahr" %}
 - Kaliumpermanganat {% include ghs name="gefahr" %} {% include ghs name="ätzend" %} {% include ghs name="umweltgefährdend" %} {% include ghs name="brandfördernd" %}
 - Kaliumthiocyanat {% include ghs name="gefahr" %}
 - verdünnte Schwefelsäure {% include ghs name="gefahr" %} {% include ghs name="ätzend" %}
@@ -23,7 +23,7 @@ Führe das Experiment durch, protokolliere und werte das Experiment unter schrit
 
 **Hinweis:** Mit kleinen Mengen arbeiten.
 
-- Zu einer Lösung von Eisen(II)-sulfat-heptahydrat in verdünnter Schwefelsäure wird tropfenweise eine Lösung von Kaliumpermanganat in verdünnter Schwefelsäure getropft und nach jeder Zugabe geschüttelt. Dieser Schritt wird mehrfach wiederholt.
+- Zu einer verdünnten Lösung von Eisen(II)-sulfat-heptahydrat in verdünnter Schwefelsäure wird tropfenweise eine Lösung von Kaliumpermanganat in verdünnter Schwefelsäure getropft und nach jeder Zugabe geschüttelt. Dieser Schritt wird mehrfach wiederholt.
 - Anschließend werden einige Tropfen einer Lösung von Kaliumthiocyanat hinzugetropft.
 
 ## Entsorgung
