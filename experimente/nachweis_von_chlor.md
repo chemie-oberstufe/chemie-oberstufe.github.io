@@ -12,7 +12,7 @@ Führe das Experiment durch, notiere deine Beobachtungen und werte das Experimen
 ## Geräte und Chemikalien
 
 - verdünnte Salzsäure {% include ghs name="ätzend" %}
-- Kaliumpermanganat {% include ghs name="brandfördernd" %}{% include ghs name="gesundheitsgefahr" %}
+- Kaliumpermanganat {% include ghs name="gefahr" %} {% include ghs name="ätzend" %} {% include ghs name="umweltgefährdend" %} {% include ghs name="brandfördernd" %}
 - Iodid-Stärke-Papier (alternativ: Kaliumiodidlösung und Filterpapier)
 - Natriumthiosulfat (zur Entsorgung)
 
