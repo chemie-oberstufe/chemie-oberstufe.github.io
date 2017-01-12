@@ -28,7 +28,7 @@ tags: [thema, redoxreaktionen]
 ## Experimente
 
 - [Nachweis von Chlor mit Iodid-Stärke-Papier](/experimente/nachweis_von_chlor)
-- Nachweis von Eisen und Mangan in wässriger Lösung
+- Redoxreaktionen von Eisen und Mangan in wässriger Lösung
 
 ## Leistungsnachweise
 
