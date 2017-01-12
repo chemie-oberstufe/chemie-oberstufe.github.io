@@ -18,7 +18,7 @@ showinmenu: true
 - [socrative.com](https://socrative.com)
     - -> Student Login
     - Raumname: ABICHEMIE
-    - Benutzername: abgeleitet aus Nachname, Vorname -> **NAVO**
+    - Benutzername: abgeleitet aus Nachname und Vorname -> Max Mustermann -> **MUMA**
 
 
 
