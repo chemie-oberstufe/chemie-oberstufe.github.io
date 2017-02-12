@@ -3,6 +3,7 @@
 /* separate new styles to reduce CSS more easily in the future */
 @import 'tags.css';
 @import 'figure.css';
+@import 'tables.css';
 
 /* Base */
 /* ----------------------------------------------------------*/
