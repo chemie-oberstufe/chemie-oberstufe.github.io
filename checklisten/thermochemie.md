@@ -2,7 +2,7 @@
 title: 4a Thermochemie
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [checkliste]
 ---
 
 ## Worum geht's?

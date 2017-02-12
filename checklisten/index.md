@@ -1,7 +1,7 @@
 ---
 title: Checklisten
 layout: page
-showinmenu: true
+showinmenu: false
 ---
 
 Hier findet ihr Checklisten, um euch zu Beginn und nach Bearbeitung eines Themas selbst zu überprüfen.

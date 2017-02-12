@@ -2,7 +2,7 @@
 title: 1.3 Elektrochemie
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [checkliste]
 ---
 
 ## Worum geht's?

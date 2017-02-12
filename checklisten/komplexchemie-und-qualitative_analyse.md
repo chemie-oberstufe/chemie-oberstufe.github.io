@@ -2,7 +2,7 @@
 title: 4b Komplexchemie und Qualitative Analyse
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [checkliste]
 ---
 
 ## Worum geht's?
