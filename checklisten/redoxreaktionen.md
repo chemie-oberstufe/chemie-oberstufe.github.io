@@ -9,12 +9,12 @@ tags: [checkliste, redoxreaktionen]
 
 Ich kann ...
 
-| Thema | Einstieg | Materialien | Übungen | Ausstieg |
+| Thema | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
 | ---   | ---      | ---         | ---     | ---      |
 | Bestimmung von Oxidationszahlen in Verbindungen | | EC2 227-231 | AB Oxidationszahlen, EC2 231 A1 | |
 | Formulierung vollständiger Redoxgleichungen | | EC2 227-231 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4 | |
 | Angabe von Redoxpaaren und Teilreaktionen | | EC2 227-231 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4| |
-| Begründung anhand von Oxidationszahlen | | EC2 227-231 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4 | |
+| Begründung der Richtung von Redoxreaktionen anhand von Oxidationszahlen und mit Hilfe der elektrochemischen Spannungsreihe | | EC2 227-231 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4 | |
 | Nachweis von Chlor, Eisen und Mangan durch Redoxreaktionen | | Experiment | Experiment | |
 | großtechnische/industrielle Anwendungen von Redoxreaktionen beim Hochofenprozess und der Stahlherstellung | | EC2 234-241 | | |
 
