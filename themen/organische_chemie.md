@@ -2,7 +2,7 @@
 title: 2.2 Organische Chemie
 layout: page
 showinmenu: false
-tags: [thema, organische_chemie]
+tags: [thema, organische-chemie]
 ---
 
 ## Worum geht's?
