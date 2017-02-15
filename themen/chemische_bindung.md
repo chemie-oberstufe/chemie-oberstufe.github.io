@@ -2,7 +2,7 @@
 title: 2.1 Chemische Bindung
 layout: page
 showinmenu: false
-tags: [thema, basics]
+tags: [thema]
 ---
 
 ## Worum geht's?
