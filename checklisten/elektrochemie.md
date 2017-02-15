@@ -1,5 +1,5 @@
 ---
-title: 1.3 Elektrochemie
+title: 1.3 Checkliste Elektrochemie
 layout: page
 showinmenu: false
 tags: [checkliste, elektrochemie]

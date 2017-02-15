@@ -1,5 +1,5 @@
 ---
-title: 1.2 Redoxreaktionen
+title: 1.2 Checkliste Redoxreaktionen
 layout: page
 showinmenu: false
 tags: [checkliste, redoxreaktionen]
