@@ -10,7 +10,7 @@ tags: [thema, redoxreaktionen]
 - Bestimmung von Oxidationszahlen in Verbindungen
 - Formulierung vollständiger Redoxgleichungen
 - Angabe von Redoxpaaren und Teilreaktionen
-- Begründung anhand von Oxidationszahlen
+- Begründung der Richtung von Redoxreaktionen anhand von Oxidationszahlen und mit Hilfe der elektrochemischen Spannungsreihe
 - Nachweis von Chlor, Eisen und Mangan durch Redoxreaktionen
 - großtechnische/industrielle Anwendungen von Redoxreaktionen beim Hochofenprozess und der Stahlherstellung
 

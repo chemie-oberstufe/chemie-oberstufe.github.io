@@ -11,7 +11,7 @@ tags: [thema]
 
 Ich kann ...
 
-- die Richtung von Redoxreaktionen mit Hilfe der elektrochemischen Spannungsreihe vorhersagen bzw. begründen
+**Galvanische Zellen**
 - die Entstehung der elektrochemischen Doppelschicht und die Bildung eines Elektrodenpotentials erklären
 - den Aufbau galvanischer Zellen und die Bedeutung/Funktion der einzelnen Bestandteile am Beispiel erläutern
 - die Potentialdifferenz in einer galvanischen Zelle bei Standardbedingungen berechnen
@@ -23,6 +23,14 @@ Ich kann ...
 - die Umweltrelevanz wiederaufladbarer elektrochemischer Elemente diskutieren
 - die Bildung von Lokalelementen und die Sauerstoffkorrosion erklären
 - die Bedingungen für die Korrosion erläutern und daraus mehrere Möglichkeiten des Korrosionsschutzes ableiten
+
+**Elektrolyse**
+- die Elektrolyse als erzwungene Redoxreaktion beschreiben
+- die Schmelzflusselektrolyse zur Aluminiumherstellung erklären
+- die Elektrolyse von Wasser und ausgewählten Salzlösungen erläutern
+- die Zersetzungsspannung von Elektrolyten erklären
+- galvanische Zellen und Elektrolysezellen vergleichen
+- die chemischen Grundlagen für die Kupferraffination und die Chlor-Alkali-Elektrolyse erläutern
 
 ## Fachbegriffe und Konzepte
 
@@ -62,7 +70,7 @@ Ich kann ...
 - Kupferraffination oder Chlor-Alkali-Elektrolyse
 - Elektrolyse verschiedener Salz- und Säurelösungen mit Nachweis von Reaktionsprodukten (z.B. H<sub>2</sub>, Cl<sub>2</sub>)
 
-- evtl. Alternative: (Salzwasser-Aludosen-Batterie)
+- (evtl. Alternative: (Salzwasser-Aludosen-Batterie))
 
 ## Leistungsnachweise
 
