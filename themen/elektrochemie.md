@@ -2,7 +2,7 @@
 title: 1.3 Elektrochemie
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [thema, elektrochemie]
 ---
 
 ## Worum geht's?
