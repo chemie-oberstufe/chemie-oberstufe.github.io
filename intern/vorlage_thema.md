@@ -2,7 +2,7 @@
 title: Füge hier einen Titel ein
 layout: page
 showinmenu: false
-tags: [tags_nach_bedarf]
+tags:
 ---
 
 ## Worum geht's?

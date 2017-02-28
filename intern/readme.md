@@ -30,4 +30,4 @@ showinmenu: false
 - zu jedem verwendeten Tag sollte eine Seite tags/name_des_tags.md existieren
  - diese Seite listet alle Seiten mit Tag "name_des_tags" auf
  - in dieser Seite sind die beiden ersten Teile immer gleich -> Logik, Tags auslesen etc.
- - der letzte Block muss geändert werden: <pre>{% assign tag = "name_des_tags" %}</pre>
+ - der Titel und die Variable nach dem YAML-Block muss geändert werden: <pre>{% assign tag = "name_des_tags" %}</pre>
