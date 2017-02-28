@@ -10,10 +10,10 @@ showinmenu: false
 	- [1.1 Atommodelle](themen/atommodelle)
 	- [1.2 Redoxreaktionen](themen/redoxreaktionen)
 	- 1.3 Elektrochemie
-		- 1.3.1 Galvanische Elemente(themen/galvanische_elemente)
-		- 1.3.2 Korrosion(themen/korrosion)
-		- 1.3.3 Elektrolyse(themen/elektrolyse)
-		- 1.3.4 Stromquellen(themen/stromquellen)
+		- [1.3.1 Galvanische Elemente](themen/galvanische_elemente)
+		- [1.3.2 Korrosion](themen/korrosion)
+		- [1.3.3 Elektrolyse](themen/elektrolyse)
+		- [1.3.4 Stromquellen](themen/stromquellen)
 - Chemische Bindung, Organische Chemie
 	- [2.1 Chemische Bindung](themen/chemische_bindung)
 	- [2.2 Organische Chemie](themen/organische_chemie)
