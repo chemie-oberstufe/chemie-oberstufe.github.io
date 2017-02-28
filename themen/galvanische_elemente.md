@@ -5,6 +5,12 @@ showinmenu: false
 tags: [thema, elektrochemie, galvanische-elemente]
 ---
 
+## Fahrplan
+
+| setzt voraus ... | Galvanische Elemente | führt zu ... |
+| ---              | ---       | ---          |
+| 1.1 Atommodelle<br />1.2 Redoxreaktionen |  |  1.3.2 Korrosion<br />1.3.3 Elektrolyse<br />1.3.4 Stromquellen |
+
 ## Worum geht's?
 
 ## Lernziele

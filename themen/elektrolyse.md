@@ -5,6 +5,12 @@ showinmenu: false
 tags: [thema, elektrochemie, elektrolyse]
 ---
 
+## Fahrplan
+
+| setzt voraus ... | Elektrolyse | führt zu ... |
+| ---              | ---       | ---          |
+| 1.1 Atommodelle<br />1.2 Redoxreaktionen<br />1.3.1 Galvanische Elemente | | 1.3.4 Stromquellen |
+
 ## Worum geht's?
 
 ## Lernziele
