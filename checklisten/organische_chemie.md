@@ -2,7 +2,7 @@
 title: 2.2 Organische Chemie
 layout: page
 showinmenu: false
-tags: [checkliste, organische_chemie]
+tags: [checkliste, organische-chemie]
 ---
 
 ## Worum geht's?

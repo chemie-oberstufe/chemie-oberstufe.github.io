@@ -2,7 +2,7 @@
 title: 2.3 Fette und Tenside
 layout: page
 showinmenu: false
-tags: [checkliste, organische_chemie]
+tags: [checkliste, organische-chemie]
 ---
 
 ## Worum geht's?
