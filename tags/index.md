@@ -57,7 +57,9 @@ The following part removes duplicated tags and invalid tags like blank tag.
 The purpose of this snippet is to list all the tags you have in your site.
 =======================
 {% endcomment %}
-<ul class="tags">
+<ul>
 {% for tag in tags %}
-	<li class="tag"><a href="{{ tag | slugify }}">{{ tag }}</a></li>
+	<li><a class="tag" href="{{ tag | slugify }}">{{ tag }}</a></li>
 {% endfor %}
+</ul>
+
