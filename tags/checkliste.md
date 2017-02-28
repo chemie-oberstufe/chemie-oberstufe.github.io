@@ -1,8 +1,9 @@
 ---
-title: Checklisten
+title: Seiten getaggt mit "Checkliste"
 layout: page
-showinmenu: true
+showinmenu: false
 ---
+{% assign tag_seite = "checkliste" %}
 
 {% comment %}
 =======================
@@ -39,15 +40,14 @@ The following part removes duplicated tags and invalid tags like blank tag.
 The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
-{% assign tag = "checkliste" %}
+
 <ul class="tags">
-	<li style="float: left; margin-right: 1em;">Seiten getaggt mit</li>
-	<li class="tag">{{ tag }}</li>
+	<li class="tag">{{ tag_seite }}</li>
 </ul>
 <ul>
 {% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
-	 {% if page.tags contains tag %}
+	 {% if page.tags contains tag_seite %}
 	 <li>
 	 <a href="{{ page.url }}">{{ page.title }}</a>
 	 {% for tag in page.tags %}
