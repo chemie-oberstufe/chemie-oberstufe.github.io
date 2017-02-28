@@ -51,7 +51,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	 <li>
 	 <a href="{{ page.url }}">{{ page.title }}</a>
 	 {% for tag in page.tags %}
-		 <a class="tag" href="/tags/{{ tag_seite | slugify }}">{{ tag_seite }}</a>
+		 <a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a>
 	 {% endfor %}
 	 </li>
 	 {% endif %}
