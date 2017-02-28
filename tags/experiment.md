@@ -1,7 +1,7 @@
 ---
 title: Experimente
 layout: page
-showinmenu: false
+showinmenu: true
 ---
 {% assign tag_seite = "experiment" %}
 

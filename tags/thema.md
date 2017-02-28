@@ -1,7 +1,7 @@
 ---
 title: Themen
 layout: page
-showinmenu: false
+showinmenu: true
 ---
 {% assign tag_seite = "thema" %}
 
