@@ -42,6 +42,7 @@ Ich kenne und kann umgehen mit ...
 
 - Kurztest Oxidationszahlen und Redoxgleichungen
 - Protokolle zu den Experimenten
+- Lernziele mit einem Kurzvortrag zählen bei aktiver Teilnahme als erledigt
 
 ## Material
 
