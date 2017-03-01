@@ -13,14 +13,18 @@ tags: [thema, elektrochemie, galvanische-elemente, korrosion]
 
 ## Worum geht's?
 
-## Lernziele
+## Lernziele + Checkliste
 
 Ich kann ...
 
-- die Bildung von Lokalelementen und die Sauerstoffkorrosion erklären
-- die Bedingungen für die Korrosion erläutern und daraus mehrere Möglichkeiten des Korrosionsschutzes ableiten
+| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
+| ---   | ---      | ---         | ---     | ---      |
+| die Bildung von Lokalelementen und die Sauerstoffkorrosion erklären | | EC2 277-279 | Experiment Korrosion von Eisen | |
+| die Bedingungen für die Korrosion erläutern und daraus mehrere Möglichkeiten des Korrosionsschutzes ableiten | | EC2 277-279 | EC2 284 A7, Experiment Korrosion von Eisen | |
 
 ## Fachbegriffe und Konzepte
+
+Ich kenne und kann umgehen mit ...
 
 - Korrosion
 	- Lokalelement
