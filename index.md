@@ -42,13 +42,13 @@ allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt
 ### Euer Beitrag
 
 - Lerntagebuch und Zeitplan
-- Experimente theoretisch vorbereiten eine Woche vorher ankündigen
+- Experimente eine Woche vorher ankündigen
 - Leistungsüberprüfungen eine Woche vorher ankündigen
 - ruhige Arbeitsatmosphäre
 
 ### Mein Beitrag
 
-- individuelle Betreuung (einzeln, in Gruppen oder als Kurs)
+- individuelle Beratung (einzeln, in Gruppen oder als Kurs)
 - Orientierung und Hilfe bei der Planung
 - Beratung bei der Themenwahl
 - Zusammenstellung von Materialien und Quellen
