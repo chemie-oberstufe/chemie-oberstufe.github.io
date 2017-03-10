@@ -13,15 +13,17 @@ tags: [thema, elektrochemie, galvanische-elemente]
 
 ## Worum geht's?
 
-## Lernziele
+## Lernziele + Checkliste
 
 Ich kann ...
 
-- Aufbau und Wirkungsweise von Alkali-Mangan-Batterien und Brennstoffzellen unter Beachtung des Energiekonzepts erklären
-- die chemischen Reaktionen im Bleiakkumulator erläutern
-- am Beispiel des Bleiakkumulators Probleme des Recyclings diskutieren
-- das Funktionsprinzip von Batterien und Akkumulatoren vergleichen
-- die Umweltrelevanz wiederaufladbarer elektrochemischer Elemente diskutieren
+| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
+| ---   | ---      | ---         | ---     | ---      |
+| Aufbau und Wirkungsweise von Alkali-Mangan-Batterien und Brennstoffzellen unter Beachtung des Energiekonzepts erklären | | EC2 269, EC2 273 | | |
+| die chemischen Reaktionen im Bleiakkumulator erläutern | | EC2 270 | Experiment Bleiakku | |
+| am Beispiel des Bleiakkumulators Probleme des Recyclings diskutieren | | Internetrecherche, Kurzvortrag | EC2 284 A8 | |
+| das Funktionsprinzip von Batterien und Akkumulatoren vergleichen | | EC2 268-271 | | |
+| die Umweltrelevanz wiederaufladbarer elektrochemischer Elemente diskutieren | | Internetrecherche, Kurzvortrag | | |
 
 ## Fachbegriffe und Konzepte
 

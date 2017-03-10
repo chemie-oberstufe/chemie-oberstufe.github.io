@@ -5,16 +5,24 @@ showinmenu: false
 tags: [thema, redoxreaktionen]
 ---
 
-## Lernziele
+## Lernziele + Checkliste
 
-- Bestimmung von Oxidationszahlen in Verbindungen
-- Formulierung vollständiger Redoxgleichungen
-- Angabe von Redoxpaaren und Teilreaktionen
-- Begründung der Richtung von Redoxreaktionen anhand von Oxidationszahlen und mit Hilfe der elektrochemischen Spannungsreihe
-- Nachweis von Chlor, Eisen und Mangan durch Redoxreaktionen
-- großtechnische/industrielle Anwendungen von Redoxreaktionen beim Hochofenprozess und der Stahlherstellung
+Ich kann ...
+
+| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
+| ---   | ---      | ---         | ---     | ---      |
+| Oxidationszahlen in Verbindungen bestimmen | | EC2 227-231 | AB Oxidationszahlen, EC2 231 A1 | |
+| vollständige Redoxgleichungen formulieren | | EC2 227-231, EC2 256 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4, EC2 256 A1-A4 | |
+| Redoxpaare und Teilreaktionen angeben | | EC2 227-231, EC2 256 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4, EC2 256 A1-A4 | |
+| die Richtung von Redoxreaktionen anhand von Oxidationszahlen und mit Hilfe der elektrochemischen Spannungsreihe begründen | | EC2 227-231, EC2 248-251 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4 | |
+| Chlor durch Redoxreaktionen herstellen und nachweisen | | Experiment | | |
+| Eisen und Mangan durch Redoxreaktionen | | Experiment | | |
+| großtechnische/industrielle Anwendungen von Redoxreaktionen beim Hochofenprozess und der Stahlherstellung | | EC2 234-241 | Kurzvortrag | |
+
 
 ## Fachbegriffe und Konzepte
+
+Ich kenne und kann umgehen mit ...
 
 - Oxidationszahl
 - Oxidation, Reduktion, Redoxreaktion
@@ -31,10 +39,10 @@ tags: [thema, redoxreaktionen]
 
 ## Leistungsnachweise
 
+
 - Kurztest Oxidationszahlen und Redoxgleichungen
-- Kurzprotokolle zu den Experimenten
-- Kurzvortrag Eisen- und Stahlherstellung
-- weitere Nachweise nach Absprache
+- Protokolle zu den Experimenten
+- Lernziele mit einem Kurzvortrag zählen bei aktiver Teilnahme als erledigt
 
 ## Material
 
