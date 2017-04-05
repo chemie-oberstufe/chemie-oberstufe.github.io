@@ -9,3 +9,7 @@ url: "https://chemie-oberstufe.github.io"
 markdown: kramdown
 #markdown: CommonMark
 permalink: pretty
+
+# Gems
+gems: 
+   - jemoji

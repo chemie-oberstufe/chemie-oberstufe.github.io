@@ -44,6 +44,6 @@ tags: [experiment, redoxreaktionen]
 
 - Elemente Chemie 2: Seite 244 (Kapitel 7.9 - Die Redoxreihe)
 - [Simple Chemics - Elektrochemische Spannungsreihe](https://www.youtube.com/watch?v=TTG_LOP3w0A)  
- bei 5:19: Denkt euch den Pfeil in die andere Richtung = Richtung des Elektronenflusses (von der Zink- zur Kupferelektrode)
+ :exclamation: bei 5:19: Denkt euch den Pfeil in die andere Richtung = Richtung des Elektronenflusses (von der Zink- zur Kupferelektrode)
 
 
