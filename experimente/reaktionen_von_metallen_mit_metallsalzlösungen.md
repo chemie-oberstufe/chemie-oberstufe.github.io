@@ -27,23 +27,23 @@ tags: [experiment, redoxreaktionen]
 
 **Hinweise:** 
 - Arbeite mit kleinen Mengen in Petrischalen oder einer Tüpfelplatte.
-- Achte unbedingt darauf, die Metallbleche nicht zu vertauschen.
+- :exclamation: Achte unbedingt darauf, die Metallbleche nicht zu vertauschen.
 
 - Bei Bedarf: Stelle kleine Mengen der verdünnten Lösungen der Metallsalze her.
 - Gib etwa 5 ml einer Metallsalzlösung in eine Petrischale (oder fülle die Vertiefung einer Tüpfelplatte) und tauche ein Metallblech ein. Bilde alle möglichen Kombinationen von Metallblechen mit unterschiedlichen Metallsalzlösungen.
 - Beobachte über einen Zeitraum von einigen Minuten, bis deutliche Veränderungen erkennbar sind.
 
-- Reinige und trockne die Metallbleche nach Verwendung sorgfältig.
+- :exclamation: Reinige und trockne die Metallbleche nach Verwendung sorgfältig.
 
 ## Entsorgung
 
 - Entsorge die Reste der Lösungen in den Kanister für anorganische Abfälle.
-- Achte auch hier unbedingt darauf, die Metallbleche nicht zu vertauschen.
+- :exclamation: Achte auch hier unbedingt darauf, die Metallbleche nicht zu vertauschen.
 
 ## Literatur und Materialien
 
 - Elemente Chemie 2: Seite 244 (Kapitel 7.9 - Die Redoxreihe)
 - [Simple Chemics - Elektrochemische Spannungsreihe](https://www.youtube.com/watch?v=TTG_LOP3w0A)  
- :exclamation: bei 5:19: Denkt euch den Pfeil in die andere Richtung = Richtung des Elektronenflusses (von der Zink- zur Kupferelektrode)
+ :arrow_forward: bei 5:19: Denkt euch den Pfeil in die andere Richtung = Richtung des Elektronenflusses (von der Zink- zur Kupferelektrode)
 
 
