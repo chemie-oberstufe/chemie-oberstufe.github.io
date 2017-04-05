@@ -2,16 +2,20 @@
 title: 1.3.1 Reaktionen verschiedener Metalle mit Metallsalzlösungen
 layout: page
 showinmenu: false
-tags: [experiment, galvanische-elemente]
+tags: [experiment, redoxreaktionen]
 ---
 
 ## Aufgabe
 
-Führe das Experiment durch und protokolliere. Werte das Experiment mit Hilfe von Reaktionsgleichungen und der elektrochemischen Spannungsreihe aus.
+1. Führe das Experiment durch, fertige eine Skizze an und protokolliere deine Beobachtungen. (**9 BE**)
+
+2. Werte das Experiment mit Hilfe von Redoxgleichungen aus. Begründe deine Beobachtungen mit Hilfe der Redoxreihe der Metalle. (**8 BE**)
+
+3. Ein Cobaltblech wird in die angegebenen Metallsalzlösungen getaucht. Begründe, ob eine chemische Reaktion abläuft und formuliere gegebenenfalls die Redoxgleichungen. (**4 BE**)
 
 ## Geräte und Chemikalien
 
-- Metallbleche/Metalldrähte: Eisen, Kupfer, Zink, Silber
+- Metallbleche: Eisen, Kupfer, Zink, Silber
 - Eisen(II)-sulfatlösung {% include ghs name="ätzend" %}
 - Kupfer(II)-sulfatlösung {% include ghs name="umweltgefährdend" %}
 - Zinksulfatlösung {% include ghs name="umweltgefährdend" %}
@@ -21,10 +25,10 @@ Führe das Experiment durch und protokolliere. Werte das Experiment mit Hilfe vo
 
 ## Durchführung
 
-**Hinweis:** Arbeite mit kleinen Mengen in Petrischalen.
+**Hinweis:** Arbeite mit kleinen Mengen in Petrischalen oder einer Tüpfelplatte.
 
-- Bei Bedarf: Stelle kleine Mengen (jeweils ca. 20 ml) der verdünnten Lösungen der Metallsalze her.
-- Gib etwa 5 ml einer Metallsalzlösung in eine Petrischale und tauche ein Metallblech ein. Bilde alle möglichen Kombinationen von Metallblechen mit Metallsalzlösungen, außer Metalle in ihrer eigenen Metallsalzlösung.
+- Bei Bedarf: Stelle kleine Mengen der verdünnten Lösungen der Metallsalze her.
+- Gib etwa 5 ml einer Metallsalzlösung in eine Petrischale (oder fülle die Vertiefung einer Tüpfelplatte) und tauche ein Metallblech ein. Bilde alle möglichen Kombinationen von Metallblechen mit unterschiedlichen Metallsalzlösungen.
 - Beobachte über einen Zeitraum von einigen Minuten, bis deutliche Veränderungen erkennbar sind.
 
 - Reinige und trockne die Metallbleche nach Verwendung sorgfältig.
@@ -34,5 +38,8 @@ Führe das Experiment durch und protokolliere. Werte das Experiment mit Hilfe vo
 - Entsorge die Reste der Lösungen in den Kanister für anorganische Abfälle.
 
 ## Literatur und Materialien
+
+- Elemente Chemie 2: Seite 244 (Kapitel 7.9 - Die Redoxreihe)
+- [Simple Chemics - Elektrochemische Spannungsreihe](https://www.youtube.com/watch?v=TTG_LOP3w0A)
 
 
