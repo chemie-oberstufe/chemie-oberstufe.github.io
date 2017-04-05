@@ -7,6 +7,8 @@ tags: [experiment, redoxreaktionen]
 
 ## Aufgabe
 
+**Zeitaufwand: ca. 30 Minuten**
+
 1. Führe das Experiment durch, fertige eine Skizze an und protokolliere deine Beobachtungen. (**9 BE**)
 
 2. Werte das Experiment mit Hilfe von Redoxgleichungen aus. Begründe deine Beobachtungen mit Hilfe der Redoxreihe der Metalle. (**8 BE**)
@@ -29,9 +31,11 @@ tags: [experiment, redoxreaktionen]
 - Arbeite mit kleinen Mengen in Petrischalen oder einer Tüpfelplatte.
 - :exclamation: Achte unbedingt darauf, die Metallbleche nicht zu vertauschen.
 
+
 - Bei Bedarf: Stelle kleine Mengen der verdünnten Lösungen der Metallsalze her.
 - Gib etwa 5 ml einer Metallsalzlösung in eine Petrischale (oder fülle die Vertiefung einer Tüpfelplatte) und tauche ein Metallblech ein. Bilde alle möglichen Kombinationen von Metallblechen mit unterschiedlichen Metallsalzlösungen.
 - Beobachte über einen Zeitraum von einigen Minuten, bis deutliche Veränderungen erkennbar sind.
+
 
 - :exclamation: Reinige und trockne die Metallbleche nach Verwendung sorgfältig.
 

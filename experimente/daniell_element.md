@@ -2,20 +2,24 @@
 title: 1.3.1 Daniell-Element
 layout: page
 showinmenu: false
-tags: [experiment]
+tags: [experiment, galvanische-elemente]
 ---
 
 ## Aufgabe
 
-1. Führe das Experiment durch. Fertige eine Skizze an und protokolliere deine Beobachtungen.
+**Zeitaufwand: ca. 20 Minuten**
 
-2. Formuliere die Reaktionsgleichungen für die ablaufenden Reaktionen.
+1. Führe das Experiment durch. Fertige eine Skizze an und protokolliere deine Beobachtungen. (**4 BE**)
 
-3. Berechne die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung.
+2. Formuliere die Redoxgleichungen ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
+
+3. Berechne die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung. (**4 BE**)
+
+4. Begründe die Richtung des Stromflusses mit Hilfe Standardpotentiale. (**2 BE**)
 
 ## Geräte und Chemikalien
 
-{% include figure name="daniell_element.png" alt="Versuchsaufbau des Daniell-Elements" caption="Lanzi at the German language Wikipedia GFDL or CC-BY-SA-3.0, https://commons.wikimedia.org/wiki/File:Daniellelement.png" width="500px" %}
+{% include figure name="daniell_element.png" alt="Versuchsaufbau des Daniell-Elements" caption="Lanzi at the German language Wikipedia (GFDL or CC-BY-SA-3.0), https://commons.wikimedia.org/wiki/File:Daniellelement.png" width="500px" %}
 
 - Metallbleche: Kupfer, Zink
 - Kupfer(II)-sulfatlösung, verdünnt {% include ghs name="umweltgefährdend" %}
@@ -33,6 +37,9 @@ tags: [experiment]
 - Die Metallbleche werden in die entsprechende Lösung getaucht: Zink zu Zn<sup>2+</sup> und Cu zu Cu<sup>2+</sup>.
 - Beide Hälften der Petrischale werden mit einem Streifen angefeuchtetem Filterpapier als Strombrücke verbunden.
 - Nun wird mit dem Multimeter zwischen beiden Elektroden die Spannung gemessen (Messbereich 2 Volt).
+
+
+- Es kann statt des Multimeters auch mittels Krokodilklemmen und Kabeln versucht werden, einen Motor mit dem Daniell-Element zu betreiben.
 
 ## Entsorgung
 
