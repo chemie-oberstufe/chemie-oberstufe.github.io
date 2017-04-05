@@ -9,13 +9,16 @@ tags: [experiment, galvanische-elemente]
 
 **Zeitaufwand: ca. 20 Minuten**
 
-1. Führe das Experiment durch. Fertige eine Skizze an und protokolliere deine Beobachtungen. (**4 BE**)
+1. Fertige eine vollständig beschriftete Skizze des Daniell-Elements an. (**7 BE**)  
+   Begriffe: Halbzelle, Elektrolyt, Elektrode, Stromschlüssel, Anode, Kathode, Pluspol, Minuspol
 
-2. Formuliere die Redoxgleichungen ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
+2. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**1 BE**)
 
-3. Berechne die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung. (**4 BE**)
+3. Formuliere die Redoxgleichungen ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
 
-4. Begründe die Richtung des Stromflusses mit Hilfe Standardpotentiale. (**2 BE**)
+4. Berechne die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung. (**4 BE**)
+
+5. Begründe die Richtung des Stromflusses mit Hilfe Standardpotentiale. (**2 BE**)
 
 ## Geräte und Chemikalien
 
