@@ -10,23 +10,23 @@ tags: [experiment, galvanische-elemente]
 **Zeitaufwand: ca. 20 Minuten**
 
 1. Fertige eine vollständig beschriftete Skizze des Daniell-Elements an. (**7 BE**)  
-   Begriffe: Halbzelle, Elektrolyt, Elektrode, Stromschlüssel, Anode, Kathode, Pluspol, Minuspol
+   Begriffe: Halbzelle, Elektrolyt, Elektrode, Stromschlüssel bzw. Salzbrücke, Anode, Kathode, Pluspol, Minuspol
 
 2. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**1 BE**)
 
-3. Formuliere die Redoxgleichungen ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
+3. Formuliere die Redoxgleichungen der ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
 
 4. Berechne die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung. (**4 BE**)
 
-5. Begründe die Richtung des Stromflusses mit Hilfe Standardpotentiale. (**2 BE**)
+5. Begründe die Richtung des Stromflusses mit Hilfe der Standardpotentiale. (**2 BE**)
 
 ## Geräte und Chemikalien
 
 {% include figure name="daniell_element.png" alt="Versuchsaufbau des Daniell-Elements" caption="Lanzi at the German language Wikipedia (GFDL or CC-BY-SA-3.0), https://commons.wikimedia.org/wiki/File:Daniellelement.png" width="500px" %}
 
 - Metallbleche: Kupfer, Zink
-- Kupfer(II)-sulfatlösung, verdünnt {% include ghs name="umweltgefährdend" %}
-- Zinksulfatlösung, verdünnt {% include ghs name="umweltgefährdend" %}
+- Kupfer(II)-sulfatlösung, 1 mol/l (M =  249,7 g/mol als Pentahydrat) {% include ghs name="umweltgefährdend" %}
+- Zinksulfatlösung, 1 mol/l (M = 287,5 g/mol als Heptahydrat) {% include ghs name="umweltgefährdend" %}
 - Petrischale, zweigeteilt
 - Filterpapier
 - Multimeter
@@ -35,7 +35,7 @@ tags: [experiment, galvanische-elemente]
 ## Durchführung
 
 
-
+- Bei Bedarf: Stelle Lösungen der Metallsalze mit der Konzentration c = 1 mol/l her (jeweils ca. 5 ml).
 - In eine Hälfte der Petrischale wird Kupfer(II)-sulfatlösung gegeben, in die andere Zinksulfatlösung. 
 - Die Metallbleche werden in die entsprechende Lösung getaucht: Zink zu Zn<sup>2+</sup> und Cu zu Cu<sup>2+</sup>.
 - Beide Hälften der Petrischale werden mit einem Streifen angefeuchtetem Filterpapier als Strombrücke verbunden.
