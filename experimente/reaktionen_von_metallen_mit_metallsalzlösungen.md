@@ -9,7 +9,7 @@ tags: [experiment, redoxreaktionen]
 
 **Zeitaufwand: ca. 30 Minuten**
 
-1. Führe das Experiment durch, fertige eine Skizze an und protokolliere deine Beobachtungen. (**9 BE**)
+1. Führe das Experiment durch, fertige eine Skizze an und protokolliere deine Beobachtungen. (**4 BE**)
 
 2. Werte das Experiment mit Hilfe von Redoxgleichungen aus. Begründe deine Beobachtungen mit Hilfe der Redoxreihe der Metalle. (**8 BE**)
 
