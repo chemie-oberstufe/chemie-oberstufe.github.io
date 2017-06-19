@@ -16,7 +16,7 @@ tags: [experiment, galvanische-elemente]
 
 3. Formuliere die Redoxgleichungen der ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
 
-4. Berechne die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung. (**4 BE**)
+4. Berechne die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung und bewerte das Ergebnis. (**4 BE**)
 
 5. Begründe die Richtung des Stromflusses mit Hilfe der Standardpotentiale. (**2 BE**)
 
