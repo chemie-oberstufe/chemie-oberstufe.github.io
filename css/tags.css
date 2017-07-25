@@ -40,9 +40,9 @@
 
 .tag::after {
   background: #fff;
-  border-bottom: 13px solid transparent;
+  border-bottom: 9px solid transparent;
   border-left: 10px solid #ddd;
-  border-top: 13px solid transparent;
+  border-top: 9px solid transparent;
   content: '';
   position: absolute;
   right: 0;
