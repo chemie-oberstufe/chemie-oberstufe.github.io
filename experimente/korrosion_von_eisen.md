@@ -42,8 +42,8 @@ Fachbegriffe und Konzepte:
 Dieser Versuch lässt sich schnell ansetzen und kann dann stehen bleiben. Es empfiehlt sich eine regelmäßige Kontrolle: anfangs alle 15 Minuten, später in größeren Abständen.
 
 1. Reinige die Nägel mit Schleifpapier und etwas Ethanol. 
-2. Schnelle Variante: Setze ca. 30 ml einer Lösung von Natriumchlorid (1 mol/l = 58 g/l) und Kaliumhexacyanoferrat(III) (0,1 mol/l = 33 g/l) an.  
-	Alternative: Setze die Lösung ebenso an, koche sie aber zusätzlich mit etwas Agar Agar (ca. 1/8 Teelöffel) auf.
+2. **Schnelle Variante**: Setze ca. 30 ml einer Lösung von Natriumchlorid (1 mol/l = 58 g/l) und Kaliumhexacyanoferrat(III) (0,1 mol/l = 33 g/l) an.  
+	**Alternative**: Setze die Lösung ebenso an, koche sie aber zusätzlich kurz mit etwas Agar Agar (ca. 1/8 Teelöffel) auf.
 3. Fülle die Lösung in eine Petrischale. Ein Nagel wird mit Kupferdraht umwickelt, der zweite mit Aluminiumfolie, der dritte dient dem Vergleich. Lege die drei Nägel so in die Petrischale, dass sie vollständig von der Lösung bedeckt sind.
 4. Beobachte regelmäßig.
 
