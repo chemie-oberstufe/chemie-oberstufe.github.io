@@ -7,20 +7,20 @@ showinmenu: false
 ## Themen im gA-Kurs
 
 1. Atommodelle, Redoxreaktionen, Elektrochemie
-	- [1.1 Atommodelle](themen/atommodelle)
-	- [1.2 Redoxreaktionen](themen/redoxreaktionen)
-	- 1.3 Elektrochemie
+	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atombau">atombau</a>
+	- [1.2 Redoxreaktionen](themen/redoxreaktionen) <a class="tag" href="/tags/redoxreaktionen">redoxreaktionen</a>
+	- 1.3 Elektrochemie <a class="tag" href="/tags/elektrochemie">elektrochemie</a>
 		- [1.3.1 Galvanische Elemente](themen/galvanische_elemente)
 		- [1.3.2 Korrosion](themen/korrosion)
 		- [1.3.3 Elektrolyse](themen/elektrolyse)
 		- [1.3.4 Stromquellen](themen/stromquellen)
 2. Chemische Bindung, Organische Chemie
-	- [2.1 Chemische Bindung](themen/chemische_bindung)
-	- [2.2 Organische Chemie](themen/organische_chemie)
-	- [2.3 Fette und Tenside](themen/fette-und-tenside)
-3. [3 Chemische Gleichgewichte](themen/chemische_gleichgewichte)
-4. [4a Thermochemie](themen/thermochemie)  
-   [4b Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative_analyse)
+	- [2.1 Chemische Bindung](themen/chemische_bindung) <a class="tag" href="/tags/chemische-bindung">chemische-bindung</a>
+	- [2.2 Organische Chemie](themen/organische_chemie) <a class="tag" href="/tags/organische-chemie">organische-chemie</a>
+	- [2.3 Fette und Tenside](themen/fette-und-tenside) <a class="tag" href="/tags/fette-und-tenside">fette-und-tenside</a>
+3. [Chemische Gleichgewichte](themen/chemische_gleichgewichte) <a class="tag" href="/tags/chemische-gleichgewichte">chemische-gleichgewichte</a>
+4. [4a Thermochemie](themen/thermochemie) <a class="tag" href="/tags/thermochemie">thermochemie</a>  
+   [4b Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative_analyse) <a class="tag" href="/tags/komplexchemie">komplexchemie</a>
 
 ## Organisation
 
