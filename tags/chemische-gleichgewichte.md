@@ -1,9 +1,9 @@
 ---
-title: Seiten getaggt mit "Organische Chemie"
+title: Seiten getaggt mit "Chemische Gleichgewichte"
 layout: page
 showinmenu: false
 ---
-{% assign tag_seite = "organische-chemie" %}
+{% assign tag_seite = "chemische-gleichgewichte" %}
 
 {% comment %}
 =======================

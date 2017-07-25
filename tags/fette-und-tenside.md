@@ -1,9 +1,9 @@
 ---
-title: Seiten getaggt mit "Organische Chemie"
+title: Seiten getaggt mit "Fette und Tenside"
 layout: page
 showinmenu: false
 ---
-{% assign tag_seite = "organische-chemie" %}
+{% assign tag_seite = "fette-und-tenside" %}
 
 {% comment %}
 =======================

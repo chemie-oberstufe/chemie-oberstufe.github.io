@@ -12,7 +12,7 @@ Es geht um die Korrosion von Eisen und die Wirkungsweise von Korrosionsschutzma�
 
 1. Fertige eine beschriftete Skizze des Versuchsaufbaus an. (**3 BE**)
 2. Führe das Experiment durch und protokolliere deine Beobachtungen. (**3 BE**)
-3. Erkläre die Unterschiede unter Verwendung der unten genannten Fachbegriffe und Konzepte. (**6 BE**)
+3. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe und Konzepte. (**6 BE**)
 4. Bearbeite **eine** der folgenden Aufgaben:	(**3 BE**)  
 	a) Erläutere das Prinzip des Korrosionsschutzes am Beispiel des Vollverzinkens.  
 	b) Erläutere, weshalb eine Beschichtung mit Edelmetallen unter Umständen keine wirksame Maßnahme zum Schutz von Stahl vor Korrosion sein kann.  
