@@ -18,7 +18,7 @@
   color: #777;
   display: inline-block;
   height: 18px; /* 26px für 26px hohe Tags */
-  line-height: 18px; /* 26px für 26px hohe Tags */
+  /*line-height: 26px;*/ /* nicht auskommentiert mit 26px für 26px hohe Tags */
   padding: 0 20px 0 23px;
   position: relative;
   margin: 0 10px 10px 0;

@@ -7,7 +7,7 @@ showinmenu: false
 ## Themen im gA-Kurs
 
 1. Atommodelle, Redoxreaktionen, Elektrochemie
-	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atombau">atombau</a>
+	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atombau">atommodelle</a>
 	- [1.2 Redoxreaktionen](themen/redoxreaktionen) <a class="tag" href="/tags/redoxreaktionen">redoxreaktionen</a>
 	- 1.3 Elektrochemie <a class="tag" href="/tags/elektrochemie">elektrochemie</a>
 		- [1.3.1 Galvanische Elemente](themen/galvanische_elemente)
