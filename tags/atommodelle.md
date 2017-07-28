@@ -1,9 +1,9 @@
 ---
-title: Seiten getaggt mit "Atombau"
+title: Seiten getaggt mit "Atommodelle"
 layout: page
 showinmenu: false
 ---
-{% assign tag_seite = "atombau" %}
+{% assign tag_seite = "atommodelle" %}
 
 {% comment %}
 =======================

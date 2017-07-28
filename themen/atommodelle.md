@@ -2,7 +2,7 @@
 title: 1.1 Atommodelle
 layout: page
 showinmenu: false
-tags: [thema, atombau]
+tags: [thema, atommodelle]
 ---
 
 ## Worum geht's?
