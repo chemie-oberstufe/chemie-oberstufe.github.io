@@ -17,14 +17,14 @@
   border-radius: 3px 0 0 3px;
   color: #777;
   display: inline-block;
-  height: 18px;
-  line-height: 18px;
+  height: 18px; /* 26px für 26px hohe Tags */
+  line-height: 18px; /* 26px für 26px hohe Tags */
   padding: 0 20px 0 23px;
   position: relative;
   margin: 0 10px 10px 0;
   text-decoration: none;
   -webkit-transition: color 0.2s;
-  font-size: 14px;
+  font-size: 14px; /* weglassen für 26px hohe Tags */
 }
 
 .tag::before {
@@ -36,14 +36,14 @@
   left: 10px;
   position: absolute;
   width: 6px;
-  top: 6px;
+  top: 6px; /* 10px für 26px hohe Tags */
 }
 
 .tag::after {
   background: #fff;
-  border-bottom: 9px solid transparent;
+  border-bottom: 9px solid transparent; /* 13px für 26px hohe Tags */
   border-left: 10px solid #ddd;
-  border-top: 9px solid transparent;
+  border-top: 9px solid transparent; /* 13px für 26px hohe Tags */
   content: '';
   position: absolute;
   right: 0;

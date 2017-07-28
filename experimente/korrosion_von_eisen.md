@@ -6,16 +6,16 @@ tags: [experiment, elektrochemie]
 ---
 ## Worum geht's?
 
-Es geht um die Korrosion von Eisen und die Wirkungsweise von Korrosionsschutzmaßnahmen. Eisen(II)-Ionen werden als Berliner Blau mit Hilfe von Kaliumhexacyanoferrat(III) nachgewiesen.
+Laut einer Studie vernichtet Korrosion jedes Jahr etwa drei Prozent des BIP in Industriestaaten. Grund genug, sich mit dem Phänomen und Möglichkeiten des Korrosionsschutzes zu befassen. 
 
 ## Aufgabe
 
 1. Fertige eine beschriftete Skizze des Versuchsaufbaus an. (**3 BE**)
 2. Führe das Experiment durch und protokolliere deine Beobachtungen. (**3 BE**)
-3. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe und Konzepte. (**6 BE**)
+3. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe. (**6 BE**)
 4. Bearbeite **eine** der folgenden Aufgaben:	(**3 BE**)  
 	a) Erläutere das Prinzip des Korrosionsschutzes am Beispiel des Vollverzinkens.  
-	b) Erläutere, weshalb eine Beschichtung mit Edelmetallen unter Umständen keine wirksame Maßnahme zum Schutz von Stahl vor Korrosion sein kann.  
+	b) Erläutere, weshalb eine teilweise Beschichtung mit Edelmetallen keine wirksame Maßnahme zum Schutz von Stahl vor Korrosion sein kann.  
 	c) Erläutere das Prinzip des Korrosionsschutzes für den speziellen Fall des Aluminiums.  
 	d) Erläutere das Prinzip des Korrosionsschutzes am Beispiel von Schiffsrümpfen. 
 
@@ -39,7 +39,11 @@ Fachbegriffe und Konzepte:
 
 ## Durchführung
 
+**Hinweise**:
+
 Dieser Versuch lässt sich schnell ansetzen und kann dann stehen bleiben. Es empfiehlt sich eine regelmäßige Kontrolle: anfangs alle 15 Minuten, später in größeren Abständen.
+
+Entstehende Eisen(II)-Ionen werden mit Hilfe von Kaliumhexacyanoferrat(III) als Berliner Blau nachgewiesen.
 
 1. Reinige die Nägel mit Schleifpapier und etwas Ethanol. 
 2. **Schnelle Variante**: Setze ca. 30 ml einer Lösung von Natriumchlorid (1 mol/l = 58 g/l) und Kaliumhexacyanoferrat(III) (0,1 mol/l = 33 g/l) an.  
@@ -55,5 +59,6 @@ Dieser Versuch lässt sich schnell ansetzen und kann dann stehen bleiben. Es emp
 
 ## Literatur und Materialien
 
+- [Tagesspiegel: Rost vernichtet jährlich drei Prozent des BIP](http://www.tagesspiegel.de/wirtschaft/studie-rost-vernichtet-jaehrlich-drei-prozent-des-bip/1641884.html)
 - [Axel Schunk: Experiment des Monats 07/1998](http://www.axel-schunk.de/experiment/edm0798.html)
 - [Simple Chemics: Was ist eigentlich Rost?](https://www.youtube.com/watch?v=34knGxalFAk)
