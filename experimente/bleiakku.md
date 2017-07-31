@@ -23,7 +23,7 @@ Führe das Experiment durch und bearbeite die Aufgaben.
 
 ## Durchführung
 
-**Hinweis:**Blei ist giftig {% include ghs name="giftig" %}. Arbeite sauber und verwende Einmalhandschuhe.
+**Hinweis:** Blei ist giftig. Arbeite sauber und verwende Einmalhandschuhe.
 
 1. Fülle die Schwefelsäure in das Becherglas und stelle beide Bleiplatten hinein. Schließe Krokodilklemmen und Kabel an.
 2. Miss die Spannung, sie sollte 0 Volt betragen.
@@ -33,7 +33,7 @@ Führe das Experiment durch und bearbeite die Aufgaben.
 
 ## Entsorgung
 
-Blei ist giftig {% include ghs name="giftig" %} und darf nicht in das Abwasser gelangen! 
+Blei ist giftig und darf nicht in das Abwasser gelangen! 
 
 - Entsorge alle Flüssigkeiten in den Kanister für Schwermetalle.
 - Reinige die Bleiplatten mit wenig Wasser und anschließend mit Papier. Entsorge das Papier im Restmüll.
