@@ -2,7 +2,7 @@
 title: 1.3.2 Korrosion
 layout: page
 showinmenu: false
-tags: [thema, elektrochemie, galvanische-elemente, korrosion]
+tags: [thema, elektrochemie]
 ---
 
 ## Fahrplan

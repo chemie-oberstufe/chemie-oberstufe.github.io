@@ -2,7 +2,7 @@
 title: 1.3.4 Stromquellen
 layout: page
 showinmenu: false
-tags: [thema, elektrochemie, galvanische-elemente]
+tags: [thema, elektrochemie]
 ---
 
 ## Fahrplan

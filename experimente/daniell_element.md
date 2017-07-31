@@ -2,7 +2,7 @@
 title: 1.3.1 Daniell-Element
 layout: page
 showinmenu: false
-tags: [experiment, galvanische-elemente]
+tags: [experiment, elektrochemie]
 ---
 
 ## Aufgabe
