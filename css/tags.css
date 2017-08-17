@@ -24,7 +24,7 @@
   margin: 0 10px 0px 0;
   text-decoration: none;
   -webkit-transition: color 0.2s;
-  font-size: 18px; /* weglassen für 26px hohe Tags, auf sinnvolles Verhältnis zu Tag-Höhe anpassen */
+  font-size: 15px; /* weglassen für 26px hohe Tags, auf sinnvolles Verhältnis zu Tag-Höhe anpassen */
 }
 
 .tag::before {
