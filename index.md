@@ -34,9 +34,9 @@ muss einer zur Bearbeitung gewählt werden.
 	- 12/II: **3 Experimente** + Vollständigkeit der Unterlagen<br /><br />  
 	- Summe: **17 Experimente** + 4 Noten für die Vollständigkeit der Unterlagen
 
-3. <a class="tag" href="/tags/pflicht">Pflichtexperimente</a> sind entsprechend gekennzeichnet und müssen bearbeitet werden. 
+3. <a class="tag" href="/tags/pflichtexperiment">Pflichtexperimente</a> sind entsprechend gekennzeichnet und müssen bearbeitet werden. 
 
-4. Die <a class="tag" href="/tags/wahl">Wahlexperimente</a> dürft ihr nach Interesse bearbeiten. Ihr benötigt mindestens 7 Wahlexperimente, um die Anzahl der Pflichtaufgaben zu erreichen.
+4. Die <a class="tag" href="/tags/wahlexperiment">Wahlexperimente</a> dürft ihr nach Interesse bearbeiten. Ihr benötigt mindestens 7 Wahlexperimente, um die Anzahl der Pflichtaufgaben zu erreichen.
 
 5. Insgesamt stehen euch ca. 60 Doppelstunden (bzw. Wochen) zur Verfügung. Je nach Thema und euren Vorkenntnissen kann es 
 allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt. Wichtig ist, dass ihr **nicht wesentlich** länger braucht.  
