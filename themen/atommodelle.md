@@ -59,14 +59,6 @@ Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte sta
 	
 - [Flammenfärbung](/experimente/flammenfaerbung)
 
-## Leistungsnachweise
-
-- Test Bohrsches Atommodell und PSE
-- Test Orbitalmodell und Kästchenschreibweise/Orbitalschreibweise
-- Protokoll zum [Experiment Flammenfärbung](/experimente/flammenfaerbung) (Energiestufenmodell)
-
-- Alternativen nach individueller Vereinbarung
-
 ## Material
 
 - Lehrbücher

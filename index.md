@@ -7,7 +7,7 @@ showinmenu: false
 ## Themenkomplexe im gA-Kurs
 
 1. Atommodelle, Redoxreaktionen, Elektrochemie
-	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atombau">atommodelle</a>
+	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atommodelle">atommodelle</a>
 	- [1.2 Redoxreaktionen](themen/redoxreaktionen) <a class="tag" href="/tags/redoxreaktionen">redoxreaktionen</a>
 	- 1.3 Elektrochemie <a class="tag" href="/tags/elektrochemie">elektrochemie</a>
 		- [1.3.1 Galvanische Elemente](themen/galvanische_elemente)
@@ -54,6 +54,12 @@ allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt
 3. Feinplanung: __Arbeitsplan__ und Selbsteinschätzung
 4. Lerntagebuch: jede Stunde, Aufgaben und Fragen für die Folgewoche notieren
 5. Rückblick: Arbeitsplan und __Selbsteinschätzung__ (5 Minuten)
+
+**Vollständige Unterlagen**
+- Kalender
+- Lerntagebuch
+- Arbeitsplan und Selbsteinschätzung pro Thema
+- Aufzeichnungen, Übungen, Arbeitsblätter
 
 
 

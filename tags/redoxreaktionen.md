@@ -3,7 +3,7 @@ title: Seiten getaggt mit "Redoxreaktion"
 layout: page
 showinmenu: false
 ---
-{% assign tag_seite = "redoxreaktion" %}
+{% assign tag_seite = "redoxreaktionen" %}
 
 {% comment %}
 =======================
