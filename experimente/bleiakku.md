@@ -2,7 +2,7 @@
 title: 1.3.4 Bleiakku
 layout: page
 showinmenu: false
-tags: [experiment, elektrochemie, pflicht]
+tags: [experiment, elektrochemie, pflichtexperiment]
 ---
 
 ## Aufgabe

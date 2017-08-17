@@ -2,7 +2,7 @@
 title: 4b Komplexreaktionen
 layout: page
 showinmenu: false
-tags: [experiment, komplexchemie, pflicht]
+tags: [experiment, komplexchemie, pflichtexperiment]
 ---
 
 ## Aufgabe

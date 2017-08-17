@@ -2,7 +2,7 @@
 title: 4a Bestimmung der Reaktionsenthalphie durch Kalorimetrie
 layout: page
 showinmenu: false
-tags: [experiment, thermochemie, pflicht]
+tags: [experiment, thermochemie, pflichtexperiment]
 ---
 
 ## Aufgabe

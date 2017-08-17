@@ -2,7 +2,7 @@
 title: 3 Säure-Base-Reaktionen
 layout: page
 showinmenu: false
-tags: [experiment, chemische-gleichgewichte, pflicht]
+tags: [experiment, chemische-gleichgewichte, pflichtexperiment]
 ---
 
 ## Aufgabe

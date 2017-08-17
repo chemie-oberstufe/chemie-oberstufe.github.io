@@ -2,7 +2,7 @@
 title: 1.3.2 Korrosion und Korrosionsschutz
 layout: page
 showinmenu: false
-tags: [experiment, elektrochemie, pflicht]
+tags: [experiment, elektrochemie, pflichtexperiment]
 ---
 ## Worum geht's?
 

@@ -2,7 +2,7 @@
 title: 1.3.3 Chlor-Alkali-Elektrolyse
 layout: page
 showinmenu: false
-tags: [experiment, elektrochemie, wahl]
+tags: [experiment, elektrochemie, wahlexperiment]
 ---
 
 ## Aufgabe

@@ -2,7 +2,7 @@
 title: 2.2 Bildung eines Ethanolats
 layout: page
 showinmenu: false
-tags: [experiment, organische-chemie, wahl]
+tags: [experiment, organische-chemie, wahlexperiment]
 ---
 
 ## Aufgabe

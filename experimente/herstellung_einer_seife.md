@@ -2,7 +2,7 @@
 title: 2.3 Herstellung einer Seife
 layout: page
 showinmenu: false
-tags: [experiment, fette-und-tenside, wahl]
+tags: [experiment, fette-und-tenside, wahlexperiment]
 ---
 
 ## Aufgabe

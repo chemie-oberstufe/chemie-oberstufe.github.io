@@ -2,7 +2,7 @@
 title: 2.2 Oxidation von Ethanol
 layout: page
 showinmenu: false
-tags: [experiment, organische-chemie, wahl]
+tags: [experiment, organische-chemie, wahlexperiment]
 ---
 
 ## Aufgabe

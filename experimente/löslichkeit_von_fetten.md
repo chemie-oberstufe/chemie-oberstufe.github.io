@@ -2,7 +2,7 @@
 title: 2.3 Löslichkeit von Fetten
 layout: page
 showinmenu: false
-tags: [experiment, fette-und-tenside, pflicht]
+tags: [experiment, fette-und-tenside, pflichtexperiment]
 ---
 
 ## Aufgabe

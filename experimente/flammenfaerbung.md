@@ -2,7 +2,7 @@
 title: 1.1 Flammenfärbung
 layout: page
 showinmenu: false
-tags: [experiment, atommodelle, pflicht]
+tags: [experiment, atommodelle, pflichtexperiment]
 ---
 
 ## Aufgabe
