@@ -21,7 +21,7 @@
   /*line-height: 26px;*/ /* nicht auskommentiert mit 26px für 26px hohe Tags */
   padding: 0 20px 0 23px;
   position: relative;
-  margin: 0 10px 10px 0;
+  margin: 0 10px 0px 0;
   text-decoration: none;
   -webkit-transition: color 0.2s;
   font-size: 14px; /* weglassen für 26px hohe Tags */
