@@ -1,8 +1,8 @@
 ---
-title: 3 Chemische Gleichgewichte
+title: 3 Chemisches Gleichgewicht
 layout: page
 showinmenu: false
-tags: [experiment, chemische-gleichgewichte, wahlexperiment]
+tags: [experiment, chemische-gleichgewichte, pflichtexperiment]
 ---
 
 ## Aufgabe
