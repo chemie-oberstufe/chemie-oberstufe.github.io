@@ -25,25 +25,25 @@ showinmenu: false
 ## Anforderungen
 
 1. Im gA-Kurs müsst ihr von 5 Themenkomplexe insgesamt 4 bearbeiten. Von den Bereichen **Thermochemie** und **Komplexchemie und Qualitative Analyse** 
-muss einer zur Bearbeitung gewählt werden.  
+muss einer zur Bearbeitung gewählt werden.<br />
 
 2. Pflichtaufgaben pro Halbjahr
 	- 11/I: **5 Experimente** + Vollständigkeit der Unterlagen
 	- 11/II: **5 Experimente** + Vollständigkeit der Unterlagen
 	- 12/I: **4 Experimente** + Vollständigkeit der Unterlagen
 	- 12/II: **3 Experimente** + Vollständigkeit der Unterlagen<br /><br />  
-	- Summe: **17 Experimente** + 4 Noten für die Vollständigkeit der Unterlagen  
+	- Summe: **17 Experimente** + 4 Noten für die Vollständigkeit der Unterlagen<br />
 
-3. <a class="tag" href="/tags/pflichtexperiment">Pflichtexperimente</a> sind entsprechend gekennzeichnet und müssen bearbeitet werden.  
+3. <a class="tag" href="/tags/pflichtexperiment">Pflichtexperimente</a> sind entsprechend gekennzeichnet und müssen bearbeitet werden.<br />
 
-4. Die <a class="tag" href="/tags/wahlexperiment">Wahlexperimente</a> dürft ihr nach Interesse bearbeiten. Mit Wahlexperimenten erreicht ihr die Anzahl der Pflichtaufgaben.  
+4. Die <a class="tag" href="/tags/wahlexperiment">Wahlexperimente</a> dürft ihr nach Interesse bearbeiten. Mit Wahlexperimenten erreicht ihr die Anzahl der Pflichtaufgaben.<br />
 
-5. Als Mitglieder einer Lerngruppe müsst ihr unterschiedliche Wahlexperimente bearbeiten.  
+5. Als Mitglieder einer Lerngruppe müsst ihr unterschiedliche Wahlexperimente bearbeiten.<br />
 
-6. Statt Wahlexperimenten könnt ihr auch nach Rücksprache einen Vortrag mit Arbeitsaufträgen für eure Mitschüler*Innen zu einem Thema halten.  
+6. Statt Wahlexperimenten könnt ihr auch nach Rücksprache einen Vortrag mit Arbeitsaufträgen für eure Mitschüler*Innen zu einem Thema halten.<br />
 
 7. Insgesamt stehen euch ca. 60 Doppelstunden (bzw. Wochen) zur Verfügung. Je nach Thema und euren Vorkenntnissen kann es 
-allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt. Wichtig ist, dass ihr **nicht wesentlich** länger braucht.  
+allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt. Wichtig ist, dass ihr **nicht wesentlich** länger braucht.<br />
 	Die 60 Doppelstunden verteilen sich **ungefähr** wie folgt:
 
 	1. Atommodelle, Redoxreaktionen, Elektrochemie (**25 Doppelstunden**)
