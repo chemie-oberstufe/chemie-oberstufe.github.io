@@ -4,7 +4,7 @@ layout: page
 showinmenu: false
 ---
 
-## Themen im gA-Kurs
+## Themenkomplexe im gA-Kurs
 
 1. Atommodelle, Redoxreaktionen, Elektrochemie
 	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atombau">atommodelle</a>
@@ -22,40 +22,43 @@ showinmenu: false
 4. [4a Thermochemie](themen/thermochemie) <a class="tag" href="/tags/thermochemie">thermochemie</a>  
    [4b Komplexchemie und Qualitative Analyse](themen/komplexchemie-und-qualitative_analyse) <a class="tag" href="/tags/komplexchemie">komplexchemie</a>
 
-## Organisation
+## Anforderungen
 
-Im gA-Kurs müsst ihr von 5 Bereichen insgesamt 4 bearbeiten. Von den Bereichen **Thermochemie** und **Komplexchemie und Qualitative Analyse** 
+1. Im gA-Kurs müsst ihr von 5 Themenkomplexe insgesamt 4 bearbeiten. Von den Bereichen **Thermochemie** und **Komplexchemie und Qualitative Analyse** 
 muss einer zur Bearbeitung gewählt werden.
 
-Insgesamt stehen euch ca. 60 Doppelstunden zur Verfügung. Je nach Thema und euren Vorkenntnissen kann es 
-allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt. Wichtig ist, dass ihr **nicht wesentlich** länger braucht.
+2. Leistungsnachweise pro Halbjahr
+	- 11/I: **5 Experimente** + Vollständigkeit der Unterlagen
+	- 11/II: **5 Experimente** + Vollständigkeit der Unterlagen
+	- 12/I: **4 Experimente** + Vollständigkeit der Unterlagen
+	- 12/II: **3 Experimente** + Vollständigkeit der Unterlagen<br /><br />  
+	- Summe: **17 Experimente** + 4 Noten für die Vollständigkeit der Unterlagen
 
-### Bearbeitung eines Themas
+3. <a class="tag" href="/tags/pflicht">Pflichtexperimente</a> sind entsprechend gekennzeichnet und müssen bearbeitet werden. 
 
-1. Erstellt mit Hilfe des Planungsformulars und der Checkliste für das Thema einen Plan als Arbeitsgrundlage.
-2. Führt euer Lerntagebuch jede Stunde. Notiert Tätigkeiten und Aufgaben für die Folgewoche.
-3. Schätzt nach Abschluss jedes Themas eure Zeitplanung mit Hilfe des Planungsformulars ein.
+4. Die <a class="tag" href="/tags/wahl">Wahlexperimente</a> dürft ihr nach Interesse bearbeiten. Ihr benötigt mindestens 7 Wahlexperimente, um die Anzahl der Pflichtaufgaben zu erreichen.
 
-## Zeitplanung
+5. Insgesamt stehen euch ca. 60 Doppelstunden (bzw. Wochen) zur Verfügung. Je nach Thema und euren Vorkenntnissen kann es 
+allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt. Wichtig ist, dass ihr **nicht wesentlich** länger braucht.  
+	Die 60 Doppelstunden verteilen sich **ungefähr** wie folgt:
 
-Die 60 Doppelstunden bzw. 60 Wochen verteilen sich **ungefähr** wie folgt:
+	1. Atommodelle, Redoxreaktionen, Elektrochemie (**25 Doppelstunden**)
+	2. Chemische Bindung, Organische Chemie (**18 Doppelstunden**)
+	3. Chemische Gleichgewichte (**12 Doppelstunden**)
+	4. Thermochemie/Komplexchemie (**5 Doppelstunden**)
 
-1. Atommodelle, Redoxreaktionen, Elektrochemie (**30 Doppelstunden**)
-2. Chemische Bindung, Organische Chemie (**15 Doppelstunden**)
-3. Chemische Gleichgewichte (**10 Doppelstunden**)
-4. Thermochemie/Komplexchemie (**5 Doppelstunden**)
+## Bearbeitung eines Themas - Vollständigkeit der Unterlagen
 
-### Euer Beitrag
+1. Grobplanung: Kalender, Ferien, Prowos etc. markieren, Themen grob verteilen (siehe vorheriger Punkt)
+2. Thema erfassen: Lest die Themenseite auf der Homepage, macht euch mit Lernzielen, Materialien und Experimenten vertraut
+3. Feinplanung: __Arbeitsplan__ und Selbsteinschätzung
+4. Lerntagebuch: jede Stunde, Aufgaben und Fragen für die Folgewoche notieren
+5. Rückblick: Arbeitsplan und __Selbsteinschätzung__ (5 Minuten)
 
-- Lerntagebuch und Zeitplan
-- Experimente eine Woche vorher ankündigen
-- Leistungsüberprüfungen eine Woche vorher ankündigen
-- ruhige Arbeitsatmosphäre
 
-### Mein Beitrag
 
-- individuelle Beratung (einzeln, in Gruppen oder als Kurs)
-- Orientierung und Hilfe bei der Planung
-- Beratung bei der Themenwahl
-- Zusammenstellung von Materialien und Quellen
+
+
+
+
 

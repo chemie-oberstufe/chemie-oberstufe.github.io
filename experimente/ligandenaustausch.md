@@ -1,8 +1,8 @@
 ---
-title: 4b Ligandenaustauschreaktionen
+title: 4b Komplexreaktionen
 layout: page
 showinmenu: false
-tags: [experiment]
+tags: [experiment, komplexchemie, pflicht]
 ---
 
 ## Aufgabe

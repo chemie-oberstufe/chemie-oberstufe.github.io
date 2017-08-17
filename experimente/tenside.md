@@ -2,7 +2,7 @@
 title: 2.3 Eigenschaften von Tensiden
 layout: page
 showinmenu: false
-tags: [experiment]
+tags: [experiment, fette-und-tenside, wahl]
 ---
 
 ## Aufgabe

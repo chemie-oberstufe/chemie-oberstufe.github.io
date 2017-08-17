@@ -2,7 +2,7 @@
 title: 1.3.1 Reaktionen verschiedener Metalle mit Metallsalzlösungen
 layout: page
 showinmenu: false
-tags: [experiment, redoxreaktionen]
+tags: [experiment, redoxreaktionen, wahl]
 ---
 
 ## Aufgabe

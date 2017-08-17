@@ -2,7 +2,7 @@
 title: 1.2 Redoxreaktionen von Eisen und Mangan
 layout: page
 showinmenu: false
-tags: [experiment, redoxreaktionen]
+tags: [experiment, redoxreaktionen, wahl]
 ---
 
 ## Aufgabe
