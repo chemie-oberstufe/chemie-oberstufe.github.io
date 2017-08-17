@@ -33,6 +33,11 @@ strong {
 	font-weight: bold;
 }
 
+li {
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
 /* Utility */
 
 .wrap:before,
