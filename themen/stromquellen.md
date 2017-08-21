@@ -35,10 +35,6 @@ Ich kann ...
 
 {% include experimente tag="stromquellen" %}
 
-## Leistungsnachweise
-
-- Protokoll zum Experiment Bleiakku
-
 ## Material
 
 - Lehrbücher

@@ -36,13 +36,6 @@ Ich kenne und kann umgehen mit ...
 
 {% include experimente tag="redoxreaktionen" %}
 
-## Leistungsnachweise
-
-
-- Kurztest Oxidationszahlen und Redoxgleichungen
-- Protokolle zu den Experimenten
-- Lernziele mit einem Kurzvortrag zählen bei aktiver Teilnahme als erledigt
-
 ## Material
 
 - Lehrbücher

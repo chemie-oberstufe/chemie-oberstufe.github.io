@@ -56,8 +56,6 @@ Um Stoffklassen und Reaktionstypen der organischen Chemie.
 
 {% include experimente tag="organische-chemie" %}
 
-## Leistungsnachweise
-
 ## Material
 
 - Lehrbücher

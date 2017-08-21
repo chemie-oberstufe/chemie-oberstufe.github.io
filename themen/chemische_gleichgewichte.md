@@ -81,9 +81,6 @@ tags: [thema, chemische-gleichgewichte]
 
 {% include experimente tag="chemische-gleichgewichte" %}
 
-## Leistungsnachweise
-
-- Protokoll zur Reaktionsgeschwindigkeit
 
 ## Material
 

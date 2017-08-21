@@ -41,8 +41,6 @@ tags: [thema, fette-und-tenside]
 
 {% include experimente tag="fette-und-tenside" %}
 
-## Leistungsnachweise
-
 ## Material
 
 - Lehrbücher

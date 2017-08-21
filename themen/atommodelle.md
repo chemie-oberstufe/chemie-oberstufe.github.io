@@ -11,17 +11,17 @@ Atome bilden die Grundbausteine der Materie. Sie existieren unverändert seit An
 
 Die menschliche Vorstellung vom Atom jedoch, hat sich über die Jahrhunderte stark gewandelt. Erkenntnisse die mit den bisherigen Atommodellen nicht vereinbar waren bildeten den Anlass, um neue Modelle zu entwickeln und wiederum theoretisch und experimentell zu überprüfen. Bereits die erste Beschreibung von Atomen als "kleine, unzerstörbare Teilchen" war eine große wissenschaftliche Leistung und die Grundlage für die heutige Vorstellung von Atomen als Kugeln. Aktuelle Atommodelle sind weniger einprägsam. Ihre exakte Beschreibung erfolgt über mathematische Gleichungen. Lediglich Näherungen sind für uns bildlich vorstellbar.
 
-## Lernziele
+## Checkliste
 
-- Kenntnis und korrekte Verwendung der Fachbegriffe
-- Fähigkeit, ein Atom in verschiedenen Modellen/Schreibweisen korrekt darzustellen:
-	- Bohrsches Atommodell
-	- Energiestufenmodell
-	- Orbitalschreibweise, Kästchenschreibweise
-- korrekte Anwendung der Hundschen Regel und des Pauli-Prinzips
-- den Zusammenhang zwischen der Stellung eines Elementes im PSE und seiner Elektronenkonfiguration an Beispielen erläutern
-- Erläuterung des Energiestufenmodells am experimentellen Beispiel
-- Erläuterung der Vorteile und Grenzen von Modellen in den Naturwissenschaften am konkreten Beispiel der Atommodelle
+Ich kann ...
+
+| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
+| ---   | ---      | ---         | ---     | ---      |
+| ein Atom in verschiedenen Modellen/Schreibweisen korrekt darstellen (Bohrsches Atommodell, Energiestufenmodell, Orbitalschreibweise/Kästchenschreibweise) | | | | |
+| die Hundsche Regel und das Pauli-Prinzip anwenden | | | | |
+| den Zusammenhang zwischen der Stellung eines Elementes im PSE und seiner Elektronenkonfiguration an Beispielen erläutern | | | | |
+| das Energiestufenmodell am experimentellen Beispiel erläutern | | | | |
+| die Vorteile und Grenzen von Modellen in den Naturwissenschaften am konkreten Beispiel der Atommodelle erläutern | | | | |
 
 ## Fachbegriffe und Konzepte
 

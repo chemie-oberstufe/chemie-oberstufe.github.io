@@ -43,10 +43,6 @@ Ich kenne und kann umgehen mit ...
 
 {% include experimente tag="galvanische-elemente" %}
 
-## Leistungsnachweise
-
-- beide Experimente als Protokoll
-
 ## Material
 
 - siehe Chechliste und Experimente

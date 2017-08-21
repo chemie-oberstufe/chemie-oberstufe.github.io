@@ -44,8 +44,6 @@ den Satz von Hess exemplarisch an einem Beispiel ableiten
 
 {% include experimente tag="thermochemie" %}
 
-## Leistungsnachweise
-
 ## Material
 
 - Lehrbücher

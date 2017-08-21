@@ -34,10 +34,6 @@ Ich kenne und kann umgehen mit ...
 
 {% include experimente tag="korrosion" %}
 
-## Leistungsnachweise
-
-- Protokoll zum Experiment
-
 ## Material
 
 - Lehrbücher

@@ -41,9 +41,6 @@ Ich kenne und kann umgehen mit ...
 
 {% include experimente tag="elektrolyse" %}
 
-## Leistungsnachweise
-
-- beide Experimente als Protokoll
 
 ## Material
 
