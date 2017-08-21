@@ -53,7 +53,7 @@ allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt
 
 ## Bearbeitung eines Themas - Vollständigkeit der Unterlagen
 
-1. Grobplanung: Kalender, Ferien, Prowos etc. markieren, Themen grob verteilen (siehe vorheriger Punkt)
+1. Grobplanung: Ferien, Prowos etc. markieren, Themen grob verteilen (siehe vorheriger Punkt)
 2. Thema erfassen: Lest die Themenseite auf der Homepage, macht euch mit Lernzielen, Materialien und Experimenten vertraut
 3. Feinplanung: __Arbeitsplan__ und Selbsteinschätzung, bei Bedarf eine Theoriestunde anmelden
 4. Arbeit am Thema
@@ -61,7 +61,6 @@ allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt
 6. Rückblick: Arbeitsplan und __Selbsteinschätzung__ (5 Minuten)
 
 **Vollständige Unterlagen**
-- Kalender
 - Lerntagebuch
 - Arbeitsplan und Selbsteinschätzung pro Thema
 - Aufzeichnungen, Übungen, Arbeitsblätter
