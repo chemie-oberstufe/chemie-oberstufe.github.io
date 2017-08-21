@@ -1,5 +1,5 @@
 {% if include.tag %}
-	{% assign tag_seite = tag %}
+	{% assign tag_seite = include.tag %}
 
 	{% comment %}
 	=======================
