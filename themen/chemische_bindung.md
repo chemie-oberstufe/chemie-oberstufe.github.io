@@ -5,15 +5,17 @@ showinmenu: false
 tags: [thema]
 ---
 
-## Worum geht's?
+## Checkliste
 
-## Lernziele
+Ich kann ...
 
-- Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern
-- Anwendung des Struktur-Eigenschaften-Basiskonzepts an Beispielen zu allen Bindungsarten
-- Erläuterung des Unterschiedes zwischen chemischer Bindung und zwischenmolekularen Wechselwirkungen
-- den räumlichen Bau von Molekülen aus der Strukturformel ableiten
-- Kenntnis und korrekte Verwendung der Fachbegriffe
+| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
+| ---   | ---      | ---         | ---     | ---      |
+| Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern | | | | |
+| das Struktur-Eigenschaften-Basiskonzepts an Beispielen zu allen Bindungsarten anwenden| | | | |
+| den Unterschied zwischen chemischer Bindung und zwischenmolekularen Wechselwirkungen erläutern | | | | |
+| den räumlichen Bau von Molekülen aus der Strukturformel ableiten | | | | |
+| Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern | | | | |
 
 ## Fachbegriffe und Konzepte
 
@@ -41,14 +43,74 @@ tags: [thema]
 
 ## Experimente
 	
-- Löslichkeit und Leitfähigkeit von Molekülsubstanzen, Ionensubstanzen und Metallen untersuchen
+{% assign tag_seite = "chemische-bindung" %}
 
-## Leistungsnachweise
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for page in site.pages %}
+	{% assign ttags = page.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
 
-## Material
+{% comment %}
+=======================
+The following part removes duplicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
 
-- Lehrbücher
 
+{% comment %}
+=======================
+The purpose of this snippet is to list all your posts posted with a certain tag.
+=======================
+{% endcomment %}
+
+<ul class="tags">
+	<li class="tag">{{ tag_seite }}</li>
+</ul>
+<ul>
+{% assign pages = site.pages | sort: 'title' %}
+{% for page in pages %}
+	 {% if page.tags contains tag_seite %}
+	 <li>
+	 <a href="{{ page.url }}">{{ page.title }}</a>
+	 {% for tag in page.tags %}
+		 <a class="tag" href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+	 {% endfor %}
+	 </li>
+	 {% endif %}
+{% endfor %}
+</ul>
+
+## Materialien
+
+- [Simple Chemics: Atombindung](https://www.youtube.com/watch?v=IYjMICnDK50)
+- [Simple Chemics: Polare und unpolare Atombindung](https://www.youtube.com/watch?v=_KLbBgW32V)
+- [Simple Chemics: Lewis-Formel und Oktettregel](https://www.youtube.com/watch?v=5tbY6cRd5HE)
+- [Simple Chemics: Die Wertigkeit der Elemente](https://www.youtube.com/watch?v=aZbXqTqP0GE)
+- [Simple Chemics: Metallische Bindung](https://www.youtube.com/watch?v=Z6L8LD4EV3w)
+- [Simple Chemics: Ionenbildung](https://www.youtube.com/watch?v=cFP69D20MMQ)
+- [Simple Chemics: Ionenbindung](https://www.youtube.com/watch?v=j6B33FTQyqg)
+- Zwischenmolekulare Kräfte
+	- [Simple Chemics: Van der Waals-Kräfte](https://www.youtube.com/watch?v=bXHor4n67Dg)
+	- [Simple Chemics: Dipol-Dipol-Wechselwirkungen](https://www.youtube.com/watch?v=zKvHQ9QplWY)
+	- [Simple Chemics: Wasserstoffbrücken](https://www.youtube.com/watch?v=En2hkTeICrc)
 
 
 

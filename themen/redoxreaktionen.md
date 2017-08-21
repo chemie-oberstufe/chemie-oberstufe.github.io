@@ -5,7 +5,7 @@ showinmenu: false
 tags: [thema, redoxreaktionen]
 ---
 
-## Lernziele + Checkliste
+## Checkliste
 
 Ich kann ...
 

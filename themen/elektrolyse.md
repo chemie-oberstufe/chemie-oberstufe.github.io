@@ -13,7 +13,7 @@ tags: [thema, elektrochemie, elektrolyse]
 
 ## Worum geht's?
 
-## Lernziele
+## Checkliste
 
 Ich kann ...
 

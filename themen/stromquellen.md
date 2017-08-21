@@ -11,9 +11,7 @@ tags: [thema, elektrochemie]
 | ---              | ---       | ---          |
 | 1.1 Atommodelle<br />1.2 Redoxreaktionen<br />1.3.1 Galvanische Elemente<br />1.3.3 Elektrolyse | | |
 
-## Worum geht's?
-
-## Lernziele + Checkliste
+## Checkliste
 
 Ich kann ...
 
