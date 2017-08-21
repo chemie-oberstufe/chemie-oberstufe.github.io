@@ -2,7 +2,7 @@
 title: 2.1 Chemische Bindung
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [thema, chemische-bindung]
 ---
 
 ## Checkliste
@@ -87,7 +87,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 <ul>
 {% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
-	 {% if page.tags contains tag_seite %}
+	 {% if page.tags contains tag_seite and page.tags contains "experiment" %}
 	 <li>
 	 <a href="{{ page.url }}">{{ page.title }}</a>
 	 {% for tag in page.tags %}
