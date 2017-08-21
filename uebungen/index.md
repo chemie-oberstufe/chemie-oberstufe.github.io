@@ -1,7 +1,7 @@
 ---
 title: Übungen
 layout: page
-showinmenu: true
+showinmenu: false
 ---
 
 ## Arbeitsblätter
