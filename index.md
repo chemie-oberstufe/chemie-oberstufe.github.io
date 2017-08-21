@@ -9,11 +9,11 @@ showinmenu: false
 1. Atommodelle, Redoxreaktionen, Elektrochemie
 	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atommodelle">atommodelle</a>
 	- [1.2 Redoxreaktionen](themen/redoxreaktionen) <a class="tag" href="/tags/redoxreaktionen">redoxreaktionen</a>
-	- 1.3 Elektrochemie <a class="tag" href="/tags/elektrochemie">elektrochemie</a>
-		- [1.3.1 Galvanische Elemente](themen/galvanische_elemente)
-		- [1.3.2 Korrosion](themen/korrosion)
-		- [1.3.3 Elektrolyse](themen/elektrolyse)
-		- [1.3.4 Stromquellen](themen/stromquellen)
+	- 1.3 Elektrochemie 
+		- [1.3.1 Galvanische Elemente](themen/galvanische_elemente) <a class="tag" href="/tags/galvanische-elemente">galvanische-elemente</a>
+		- [1.3.2 Korrosion](themen/korrosion) <a class="tag" href="/tags/korrosion">korrosion</a>
+		- [1.3.3 Elektrolyse](themen/elektrolyse) <a class="tag" href="/tags/elektrolyse">elektrolyse</a>
+		- [1.3.4 Stromquellen](themen/stromquellen) <a class="tag" href="/tags/stromquellen">stromquellen</a>
 2. Chemische Bindung, Organische Chemie
 	- [2.1 Chemische Bindung](themen/chemische_bindung) <a class="tag" href="/tags/chemische-bindung">chemische-bindung</a>
 	- [2.2 Organische Chemie](themen/organische_chemie) <a class="tag" href="/tags/organische-chemie">organische-chemie</a>
