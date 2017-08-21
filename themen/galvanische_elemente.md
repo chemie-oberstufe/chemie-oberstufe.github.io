@@ -2,7 +2,7 @@
 title: 1.3.1 Galvanische Elemente
 layout: page
 showinmenu: false
-tags: [thema, elektrochemie]
+tags: [thema, elektrochemie, galvanische-elemente]
 ---
 
 ## Fahrplan
@@ -41,8 +41,7 @@ Ich kenne und kann umgehen mit ...
 
 ## Experimente
 
-- Reaktionen verschiedener Kombinationen von Metallen in Lösungen von Metallsalzen
-- Daniell-Element
+{% include experimente tag="galvanische-elemente" %}
 
 ## Leistungsnachweise
 

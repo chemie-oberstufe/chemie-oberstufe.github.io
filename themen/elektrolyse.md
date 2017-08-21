@@ -39,8 +39,7 @@ Ich kenne und kann umgehen mit ...
 
 ## Experimente
 
-- Kupferraffination **oder** Chlor-Alkali-Elektrolyse
-- Elektrolyse verschiedener Salz- und Säurelösungen mit Nachweis von Reaktionsprodukten (z.B. H<sub>2</sub>, Cl<sub>2</sub>)
+{% include experimente tag="elektrolyse" %}
 
 ## Leistungsnachweise
 

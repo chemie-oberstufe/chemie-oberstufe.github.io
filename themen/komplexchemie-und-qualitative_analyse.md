@@ -35,9 +35,7 @@ tags: [thema]
 
 ## Experimente
 
-- Bildung und Zerfall von Wasserkomplexen
-- Ligandenaustauschreaktionen
-- Nachweis von Cu<sup>2+</sup>, Fe<sup>2+</sup> und Fe<sup>3+</sup> bei Anwesenheit anderer Ionen
+{% include experimente tag="komplexchemie" %}
 
 ## Material
 

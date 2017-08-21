@@ -2,7 +2,7 @@
 title: 3. Chemische Gleichgewichte
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [thema, chemische-gleichgewichte]
 ---
 
 ## Worum geht's?
@@ -79,10 +79,7 @@ tags: [thema]
 
 ## Experimente
 
-- Abhängigkeit der Reaktionsgeschwindigkeit von Temperatur, Konzentration und Katalysator
-- (1) Modellexperiment zur Einstellung chemischer Gleichgewichte und (2) Abhängigkeit der Gleichgewichtslage von Temperatur und Konzentration
-- Säure-Base-Reaktionen ausgewählter Stoffe
-- Titration starker Säuren und Basen mit Farbindikatoren
+{% include experimente tag="chemische-gleichgewichte" %}
 
 ## Leistungsnachweise
 

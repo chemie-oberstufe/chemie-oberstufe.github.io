@@ -54,10 +54,7 @@ Um Stoffklassen und Reaktionstypen der organischen Chemie.
 
 ## Experimente
 
-- Nachweis von Doppelbindungen (Baeyer-Probe)
-- Bildung eines Ethanolats: Ethanol und Natrium, Nachweis von Reaktionsprodukten
-- partielle Oxidation: Ethanol und MnO<sub>4</sub>
-- Veresterung: Ethanol und Ethansäure
+{% include experimente tag="organische-chemie" %}
 
 ## Leistungsnachweise
 

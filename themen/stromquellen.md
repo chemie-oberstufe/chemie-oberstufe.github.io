@@ -2,7 +2,7 @@
 title: 1.3.4 Stromquellen
 layout: page
 showinmenu: false
-tags: [thema, elektrochemie]
+tags: [thema, elektrochemie, stromquellen]
 ---
 
 ## Fahrplan
@@ -33,9 +33,7 @@ Ich kann ...
 
 ## Experimente
 
-- Bleiakku
-
-- (evtl. Alternative: (Salzwasser-Aludosen-Batterie))
+{% include experimente tag="stromquellen" %}
 
 ## Leistungsnachweise
 

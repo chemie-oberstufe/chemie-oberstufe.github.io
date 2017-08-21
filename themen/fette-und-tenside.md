@@ -2,7 +2,7 @@
 title: 2.3 Fette und Tenside
 layout: page
 showinmenu: false
-tags: [thema, organische-chemie]
+tags: [thema, fette-und-tenside]
 ---
 
 ## Worum geht's?
@@ -39,11 +39,7 @@ tags: [thema, organische-chemie]
 
 ## Experimente
 
-- die C=C-Doppelbindung in Fetten nachweisen
-- die Löslichkeit von Fetten untersuchen
-- eine Seife herstellen
-- Eigenschaften der Tenside untersuchen
-- Eigenschaften einer Seifenlösung untersuchen
+{% include experimente tag="fette-und-tenside" %}
 
 ## Leistungsnachweise
 

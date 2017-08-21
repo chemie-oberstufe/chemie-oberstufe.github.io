@@ -2,7 +2,7 @@
 title: 4a Thermochemie
 layout: page
 showinmenu: false
-tags: [thema]
+tags: [thema, thermochemie]
 ---
 
 ## Worum geht's?
@@ -42,7 +42,7 @@ den Satz von Hess exemplarisch an einem Beispiel ableiten
 
 ## Experimente
 
-- Reaktionsenthalpien kalorimetrisch bestimmen: Neutralisation und Lösevorgang
+{% include experimente tag="thermochemie" %}
 
 ## Leistungsnachweise
 

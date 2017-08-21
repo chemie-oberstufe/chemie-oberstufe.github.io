@@ -2,7 +2,7 @@
 title: 1.3.2 Korrosion
 layout: page
 showinmenu: false
-tags: [thema, elektrochemie]
+tags: [thema, elektrochemie, korrosion]
 ---
 
 ## Fahrplan
@@ -32,7 +32,7 @@ Ich kenne und kann umgehen mit ...
 
 ## Experimente
 
-- Korrosion von Eisen mit Nachweis der Reaktionsprodukte Fe<sup>2+</sup> und OH<sup>-</sup>
+{% include experimente tag="korrosion" %}
 
 ## Leistungsnachweise
 
