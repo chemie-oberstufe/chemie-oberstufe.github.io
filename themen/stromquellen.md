@@ -5,11 +5,13 @@ showinmenu: false
 tags: [thema, elektrochemie, stromquellen]
 ---
 
+{% comment %}
 ## Fahrplan
 
 | setzt voraus ... | Stromquellen | führt zu ... |
 | ---              | ---       | ---          |
 | 1.1 Atommodelle<br />1.2 Redoxreaktionen<br />1.3.1 Galvanische Elemente<br />1.3.3 Elektrolyse | | |
+{% endcomment %}
 
 ## Checkliste
 

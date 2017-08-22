@@ -5,29 +5,27 @@ showinmenu: false
 tags: [thema, organische-chemie]
 ---
 
-## Worum geht's?
+## Checkliste
 
-Um Stoffklassen und Reaktionstypen der organischen Chemie.
+Ich kann ...
 
-## Lernziele
-
-- Stoffklassen
-    - Bindungsverhältnisse und Strukturen in einer Übersicht darstellen
-    - funktionelle Gruppen kennzeichnen
-    - Vertreter der Stoffklassen benennen
-    - typische Reaktionstypen zuordnen
-- Struktur-Eigenschaften-Basiskonzept
-    - am Beispiel der organischen Verbindungen anwenden
-    - das heißt, es an verschiedenen Beispielen erläutern zu können
-- verschiedene Reaktionen des Ethanols erläutern
-- Aromaten
-    - den aromatischen Zustand beschreiben
-    - die Struktur des Benzolmoleküls beschreiben
-    - begründen, weshalb Benzol nur sehr schwer Additionsreaktionen eingeht
-    - Substitutionen am Benzolmolekül erläutern
-- Umweltrelevanz und Gesundheitsgefahren
-    - speziell der aromatischen Stoffe bewerten
-- Kenntnis und korrekte Verwendung der Fachbegriffe
+| Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
+| ---   | ---      | ---         | ---     | ---      |
+| **Stoffklassen** | | | | |
+| Bindungsverhältnisse und Strukturen in einer Übersicht darstellen | | | | |
+| funktionelle Gruppen kennzeichnen | | | | |
+| Vertreter der Stoffklassen benennen | | | | |
+| typische Reaktionstypen zuordnen | | | | |
+| **Struktur-Eigenschaften-Basiskonzept** | | | | |
+| am Beispiel der organischen Verbindungen anwenden und an verschiedenen Beispielen erläutern | | | | |
+| **Ethanol** | | | | |
+| verschiedene Reaktionen des Ethanols erläutern | | | | |
+| **Aromaten** | | | | |
+| den aromatischen Zustand beschreiben | | | | |
+| die Struktur des Benzolmoleküls beschreiben | | | | |
+| begründen, weshalb Benzol nur sehr schwer Additionsreaktionen eingeht | | | | |
+| Substitutionen am Benzolmolekül erläutern | | | | |
+| Umweltrelevanz und Gesundheitsgefahren speziell der aromatischen Stoffe bewerten | | | | |
 
 ## Fachbegriffe und Konzepte
 

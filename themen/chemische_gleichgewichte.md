@@ -5,8 +5,6 @@ showinmenu: false
 tags: [thema, chemische-gleichgewichte]
 ---
 
-## Worum geht's?
-
 ## Lernziele
 
 - **Reaktionsverlauf und Reaktionsgeschwindigkeit**
