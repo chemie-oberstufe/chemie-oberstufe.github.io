@@ -1,5 +1,5 @@
 ---
-title: 3 Chemisches Gleichgewicht
+title: 3.2 Chemisches Gleichgewicht
 layout: page
 showinmenu: false
 tags: [experiment, chemisches-gleichgewicht, pflichtexperiment]
