@@ -1,9 +1,9 @@
 ---
-title: Seiten getaggt mit "Chemisches Gleichgewicht"
+title: Seiten getaggt mit "Reaktionsverlauf und Reaktionsgeschwindigkeit"
 layout: page
-showinmenu: true
+showinmenu: false
 ---
-{% assign tag_seite = "chemische-gleichgewichte" %}
+{% assign tag_seite = "reaktionsverlauf-und-reaktionsgeschwindigkeit" %}
 
 {% comment %}
 =======================

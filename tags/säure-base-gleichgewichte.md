@@ -1,9 +1,9 @@
 ---
-title: Seiten getaggt mit "Chemisches Gleichgewicht"
+title: Seiten getaggt mit "Säure-Base-Gleichgewichte"
 layout: page
-showinmenu: true
+showinmenu: false
 ---
-{% assign tag_seite = "chemische-gleichgewichte" %}
+{% assign tag_seite = "säure-base-gleichgewichte" %}
 
 {% comment %}
 =======================

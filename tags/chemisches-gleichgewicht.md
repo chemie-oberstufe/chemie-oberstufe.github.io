@@ -1,9 +1,9 @@
 ---
 title: Seiten getaggt mit "Chemisches Gleichgewicht"
 layout: page
-showinmenu: true
+showinmenu: false
 ---
-{% assign tag_seite = "chemische-gleichgewichte" %}
+{% assign tag_seite = "chemisches-gleichgewicht" %}
 
 {% comment %}
 =======================
