@@ -2,7 +2,7 @@
 title: 3 Titration starker Säuren und Basen
 layout: page
 showinmenu: false
-tags: [experiment, chemische-gleichgewichte, wahlexperiment]
+tags: [experiment, titrationen, wahlexperiment]
 ---
 
 ## Aufgabe

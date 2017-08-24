@@ -2,7 +2,7 @@
 title: 3 Chemisches Gleichgewicht
 layout: page
 showinmenu: false
-tags: [experiment, chemische-gleichgewichte, pflichtexperiment]
+tags: [experiment, chemisches-gleichgewicht, pflichtexperiment]
 ---
 
 ## Aufgabe
