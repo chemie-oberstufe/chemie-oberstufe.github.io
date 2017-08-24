@@ -11,11 +11,10 @@ Ich kann ...
 
 | Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
 | ---   | ---      | ---         | ---     | ---      |
-| Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern | | | | |
-| das Struktur-Eigenschaften-Basiskonzepts an Beispielen zu allen Bindungsarten anwenden| | | | |
-| den Unterschied zwischen chemischer Bindung und zwischenmolekularen Wechselwirkungen erläutern | | | | |
-| den räumlichen Bau von Molekülen aus der Strukturformel ableiten | | | | |
-| Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern | | | | |
+| Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern | | EC2-24/25, EC2-30/31, EC2-36, Lernvideos | Teil des Experiments 2.1 Löslichkeit und Leitfähigkeit | |
+| das Struktur-Eigenschaften-Basiskonzept an Beispielen zu allen Bindungsarten anwenden| | EC2-498/499, Lernvideos | EC2-33-A2, EC2-33-A3, EC2-36-A2, EC2-39-A2, EC2-54-A10| |
+| den Unterschied zwischen chemischer Bindung und zwischenmolekularen Wechselwirkungen erläutern | | EC2-40/41, CO-48/52 | CO-50-A1, CO-50-A2| |
+| den räumlichen Bau von Molekülen aus der Strukturformel ableiten | | EC2-34/35 | EC2-35-A3 | |
 
 ## Fachbegriffe und Konzepte
 
