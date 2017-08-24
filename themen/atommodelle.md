@@ -17,7 +17,7 @@ Ich kann ...
 
 | Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
 | ---   | ---      | ---         | ---     | ---      |
-| ein Atom in verschiedenen Modellen/Schreibweisen korrekt darstellen (Bohrsches Atommodell, Energiestufenmodell, Orbitalschreibweise/Kästchenschreibweise) | | | | |
+| ein Atom in verschiedenen Modellen/Schreibweisen korrekt darstellen (Bohrsches Atommodell, Energiestufenmodell, Orbitalschreibweise/Kästchenschreibweise) | | EC2-14/17, EC2-20/21, EC2-46/48 | AB Orbitale, EC2-17-A1, EC2-21-A1 | |
 | die Hundsche Regel und das Pauli-Prinzip anwenden | | | | |
 | den Zusammenhang zwischen der Stellung eines Elementes im PSE und seiner Elektronenkonfiguration an Beispielen erläutern | | | | |
 | das Energiestufenmodell am experimentellen Beispiel erläutern | | | | |
