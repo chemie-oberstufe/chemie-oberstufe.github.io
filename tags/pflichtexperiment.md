@@ -1,5 +1,5 @@
 ---
-title: Seiten getaggt als "Pflichtexperimente"
+title: Pflichtexperimente
 layout: page
 showinmenu: true
 ---
