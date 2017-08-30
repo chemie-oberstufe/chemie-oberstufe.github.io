@@ -7,8 +7,11 @@ tags: [experiment, atommodelle, pflichtexperiment]
 
 ## Aufgabe
 
-Führe das Experiment zur Flammenfärbung durch und notiere deine Beobachtungen. Erkläre in der Auswertung
-deine Beobachtungen mit Hilfe des Energiestufenmodells. Skizziere dazu das Energiestufenmodell für drei der Metalle.
+1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**6 BE**)
+2. Erläutere die Entstehung der Flammenfärbung an einer beschrifteten Skizze des Energiestufenmodells eines Atoms der folgenden Elemente: Kalium, Calcium oder Strontium.<br />
+	Bearbeitet in Lerngruppen jeweils unterschiedliche Elemente. (**6 BE** Skizze, **4 BE** Erläuterung)
+3. Notiere die Elektronenkonfiguration eines der folgenden Elemente in Kästchenschreibweise und verkürzter Schreibweise: Yttrium, Zirconium, Indium, Zinn, Antimon, Tellur, Iod.<br />
+	Bearbeitet in Lerngruppen jeweils unterschiedliche Elemente. (**4 BE**)
 
 ## Geräte und Chemikalien
 
@@ -32,7 +35,7 @@ deine Beobachtungen mit Hilfe des Energiestufenmodells. Skizziere dazu das Energ
 
 ## Entsorgung
 
-Bariumchlorid ist giftig. Deshalb müssen Reste im Kanister entsorgt werden.
+Bariumchlorid ist giftig. Deshalb müssen Reste im Kanister für Schwermetalle entsorgt werden.
 
 Die Geräte können anschließend gefahrlos im Waschbecken mit sauberem Wasser gespült werden.
 

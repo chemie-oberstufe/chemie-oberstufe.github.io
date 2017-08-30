@@ -1,5 +1,5 @@
 ---
-title: Experimente
+title: alle Experimente
 layout: page
 showinmenu: true
 ---

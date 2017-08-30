@@ -1,7 +1,7 @@
 ---
 title: Seiten getaggt als "Pflichtexperimente"
 layout: page
-showinmenu: false
+showinmenu: true
 ---
 {% assign tag_seite = "pflichtexperiment" %}
 

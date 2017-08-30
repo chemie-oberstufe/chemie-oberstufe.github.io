@@ -7,27 +7,28 @@ tags: [experiment, chemische-bindung, pflichtexperiment]
 
 ## Aufgabe
 
-1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (12 BE)
-2. Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (6 BE), Bindungskräfte mit Skizze (12 BE), typische Eigenschaften der Verbindungen (9 BE). (gesamt: 27 BE)
-3. Bearbeite die Aufgabe für **zwei** der verwendeten Stoffe.  
-	Erkläre die experimentellen Ergebnisse für Leitfähigkeit und Löslichkeit. (6 BE)
+1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**12 BE**)
+2. Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (6 BE), Bindungskräfte mit Skizze (12 BE), typische Eigenschaften der Verbindungen (9 BE). (gesamt: **27 BE**)
+3. Bearbeitet in Lerngruppen **jeweils zwei unterschiedliche Stoffe**:<br />
+	Wende das Struktur-Eigenschaften-Basiskonzept auf die experimentellen Ergebnisse von zwei der Stoffe an. (**6 BE**)
+
 
 ## Geräte und Chemikalien
 
 - Petrischalen oder kleine Bechergläser
 - Glasstab
-- Kabel und Glühlampe 6 Volt; alternativ dazu einen Leitfähigkeitsprüfer
+- Kabel und Glühlampe; alternativ dazu einen Leitfähigkeitsprüfer
 - Wasser
 - Ethanol
 - Speiseöl
 - Kochsalz
-- Sand
+- Sand (näherungsweise Siliciumdioxid)
 - Eisen
 - Kupfer
 
 ## Durchführung
 
-1. Schließe die Glühlampe so an den Stromanschluss an, dass du mit 2 Kabelenden die Leitfähigkeit von Stoffen prüfen kannst.
+1. Schließe die Glühlampe so an den Stromanschluss an, dass du mit 2 Kabelenden die Leitfähigkeit von Stoffen prüfen kannst. Beachte die maximale Spannung der Glühlampe, damit sie nicht durchbrennt.
 2. Prüfe die Leitfähigkeit der einzelnen Stoffe an kleinen Mengen.
 3. Füge jeweils Wasser hinzu und prüfe die Löslichkeit der Stoffe in Wasser.
 4. Prüfe erneut die Leitfähigkeit der Stoffe in wässriger Lösung.
@@ -39,4 +40,4 @@ tags: [experiment, chemische-bindung, pflichtexperiment]
 
 ## Literatur und Materialien
 
-- [Simple Chemics: Leitfähigkeit](https://www.youtube.com/watch?v=O2ewhsFAArI)
+- [Simple Chemics: Löslichkeit](https://www.youtube.com/watch?v=O2ewhsFAArI)
