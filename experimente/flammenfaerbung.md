@@ -10,7 +10,6 @@ tags: [experiment, atommodelle, pflichtexperiment]
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**6 BE**)
 
 **Individuelle Aufgaben:** Bearbeitet in Lerngruppen jeweils unterschiedliche Teilaufgaben bzw. Elemente, soweit möglich.
-
 	2. Erläutere die Entstehung der Flammenfärbung an einer beschrifteten Skizze des Energiestufenmodells eines Atoms der folgenden Elemente: Kalium, Calcium oder Strontium. (**6 BE** Skizze, **4 BE** Erläuterung)
 	3. Notiere die Elektronenkonfiguration eines der folgenden Elemente in Kästchenschreibweise und verkürzter Schreibweise: Yttrium, Zirconium, Indium, Zinn, Antimon, Tellur, Iod. (**4 BE**)
 	4. Das zuletzt eingebaute Elektron eines Atoms ist durch nachfolgende Quantenzahlen definiert. Gib an, um welches chemische Element es sich handelt. (**1 BE** Element, **2 BE** Lösungsweg)  
