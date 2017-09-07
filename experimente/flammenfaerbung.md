@@ -19,6 +19,10 @@ tags: [experiment, atommodelle, pflichtexperiment]
    - n=4, l=1, m=0, s=+1/2
    - n=5, l=1, m=0, s=-1/2
 
+---
+
+**insgesamt 23 BE**
+
 ## Geräte und Chemikalien
 
 - Alkalimetall- und Erdalkalimetallchloride: LiCl, NaCl, KCl, CaCl<sub>2</sub>, SrCl<sub>2</sub>, BaCl<sub>2</sub> {% include ghs name="giftig" %}
