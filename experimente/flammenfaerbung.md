@@ -7,7 +7,7 @@ tags: [experiment, atommodelle, pflichtexperiment]
 
 ## Aufgabe
 
-1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**6 BE**)<br /><br />
+1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**6 BE**)
 
 **Individuelle Aufgaben:** Bearbeitet in Lerngruppen jeweils unterschiedliche Teilaufgaben bzw. Elemente, soweit möglich.
 
