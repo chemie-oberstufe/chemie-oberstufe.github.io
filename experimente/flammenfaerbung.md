@@ -11,14 +11,14 @@ tags: [experiment, atommodelle, pflichtexperiment]
 
 **Individuelle Aufgaben:** Bearbeitet in Lerngruppen jeweils unterschiedliche Teilaufgaben bzw. Elemente, soweit möglich.
 
-2.1 Erläutere die Entstehung der Flammenfärbung an einer beschrifteten Skizze des Energiestufenmodells eines Atoms der folgenden Elemente: Kalium, Calcium oder Strontium. (**6 BE** Skizze, **4 BE** Erläuterung)
-2.2 Notiere die Elektronenkonfiguration eines der folgenden Elemente in Kästchenschreibweise und verkürzter Schreibweise: Yttrium, Zirconium, Indium, Zinn, Antimon, Tellur, Iod. (**4 BE**)
-2.3 Das zuletzt eingebaute Elektron eines Atoms ist durch nachfolgende Quantenzahlen definiert. Gib an, um welches chemische Element es sich handelt. (**1 BE** Element, **2 BE** Lösungsweg)  
-	- n=3, l=2, m=+2, s=-1/2
-	- n=4, l=2, m=+2, s=-1/2
-	- n=4, l=2, m=-2, s=+1/2
-	- n=4, l=1, m=0, s=+1/2
-	- n=5, l=1, m=0, s=-1/2
+	2. Erläutere die Entstehung der Flammenfärbung an einer beschrifteten Skizze des Energiestufenmodells eines Atoms der folgenden Elemente: Kalium, Calcium oder Strontium. (**6 BE** Skizze, **4 BE** Erläuterung)
+	3. Notiere die Elektronenkonfiguration eines der folgenden Elemente in Kästchenschreibweise und verkürzter Schreibweise: Yttrium, Zirconium, Indium, Zinn, Antimon, Tellur, Iod. (**4 BE**)
+	4. Das zuletzt eingebaute Elektron eines Atoms ist durch nachfolgende Quantenzahlen definiert. Gib an, um welches chemische Element es sich handelt. (**1 BE** Element, **2 BE** Lösungsweg)  
+		- n=3, l=2, m=+2, s=-1/2
+		- n=4, l=2, m=+2, s=-1/2
+		- n=4, l=2, m=-2, s=+1/2
+		- n=4, l=1, m=0, s=+1/2
+		- n=5, l=1, m=0, s=-1/2
 
 ## Geräte und Chemikalien
 
