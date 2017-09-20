@@ -12,12 +12,12 @@ Ich kann ...
 | Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
 | ---   | ---      | ---         | ---     | ---      |
 | **Stoffklassen** | | | | |
-| Bindungsverhältnisse und Strukturen in einer Übersicht darstellen | | | | |
+| Bindungsverhältnisse und Strukturen in einer Übersicht darstellen | | EC2-62, EC2-74, EC2-80 | EC2-74-A1 | |
 | funktionelle Gruppen kennzeichnen | | | | |
-| Vertreter der Stoffklassen benennen | | | | |
-| typische Reaktionstypen zuordnen | | | | |
+| Vertreter der Stoffklassen benennen | | EC2-63 | EC2-63-A1-A3 | |
+| typische Reaktionstypen zuordnen | | EC2-69-70, EC2-81 | | |
 | **Struktur-Eigenschaften-Basiskonzept** | | | | |
-| am Beispiel der organischen Verbindungen anwenden und an verschiedenen Beispielen erläutern | | | | |
+| am Beispiel der organischen Verbindungen anwenden und an verschiedenen Beispielen erläutern | | EC2-66/67/68 | EC2-68-A2 | |
 | **Ethanol** | | | | |
 | verschiedene Reaktionen des Ethanols erläutern | | | | |
 | **Aromaten** | | | | |
