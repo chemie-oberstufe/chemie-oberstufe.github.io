@@ -23,7 +23,7 @@ Ich kann ...
 | **Aromaten** | | EC2 - Kapitel 8 | | |
 | den aromatischen Zustand beschreiben | | EC2-288/289 | | |
 | die Struktur des Benzolmoleküls beschreiben | | EC2-288/289 | | |
-| begründen, weshalb Benzol nur sehr schwer Additionsreaktionen eingeht | | EC2-288/289 (Hydrierung mit H<sub>2</sub> | EC2-288-A2 | |
+| begründen, weshalb Benzol nur sehr schwer Additionsreaktionen eingeht | | EC2-288/289 (Hydrierung mit H<sub>2</sub>) | EC2-288-A2 | |
 | Substitutionen am Benzolmolekül erläutern | | EC2-293 | | |
 | Umweltrelevanz und Gesundheitsgefahren speziell der aromatischen Stoffe bewerten | | | | |
 
@@ -43,7 +43,7 @@ Ich kann ...
 	- Eliminierung
 	- Reaktionen des Ethanols
 		- Bildung eines Ethanolats
-		- partielle Oxidation mit KMnO_4
+		- partielle Oxidation mit KMnO<sub>4</sub>
 		- Veresterung mit Ethansäure
 - Aromaten
 	- der aromatische Zustand
