@@ -34,7 +34,7 @@ tags: [experiment, organische-chemie, pflichtexperiment]
 
 **Dauer:** ca. 5 Minuten
 
-- Bereite zuerst ca. 1 ml einer verdünnten Lösung von Kaliumpermanganat und Natriumpermanganat (kleine Spatelspitzen) in Ethanol (Baeyer-Reagenz) vor. Lege dafür eine Pipette bereit.
+- Bereite zuerst ca. 1 ml einer verdünnten Lösung von Kaliumpermanganat und Natriumcarbonat (kleine Spatelspitzen) in Ethanol (Baeyer-Reagenz) vor. Lege dafür eine Pipette bereit.
 - Gib anschließend ca. 0,5 cm hoch 1-Hexen und Decan in jeweils ein Reagenzglas. Verwende für jeden der Stoffe eine saubere Pipette, um den Inhalt der Flaschen nicht zu verunreinigen.
 - Gib einige Tropfen der Lösung in die beiden Reagenzgläser und schüttele kräftig bis eine Veränderung eintritt.
 
