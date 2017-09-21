@@ -9,12 +9,13 @@ tags: [experiment, organische-chemie, pflichtexperiment]
 
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**4 BE**)
 2. Auswertung: Formuliere die Reaktionsgleichung (mit Strukturformel) für die **ablaufende** Reaktion. Ordne den passenden Reaktionstyp zu. (**4 BE**)
-3. Erstelle eine Übersicht (z.B. Mindmap, Tabelle, Karteikarten, ...) über die Namen, Strukturen und Bindungsverhältnisse der jeweils ersten fünf Vertreter der Alkane, Alkene und Alkine. Ordne den drei Stoffklassen typische Reaktionstypen zu. (**18 BE**) 
+3. Erstelle eine Übersicht (z.B. Mindmap, Tabelle, Karteikarten, ...) über die Namen, Strukturen und Bindungsverhältnisse der jeweils ersten fünf Vertreter der Alkane, Alkene und Alkanole. Ordne den drei Stoffklassen typische Reaktionstypen mit je einem Beispiel zu. (**18 BE**) 
 4. Erkläre die Zunahme der Siedetemperaturen und Viskosität von Hexan bis Decan. (**4 BE**)
+5. Benzin und Wasser mischen sich nicht. Gibt man jedoch zusätzlich Ethanol hinzu, entsteht ein homogenes Gemisch. Erkläre. (**4 BE**)
 
 ---
 
-**insgesamt 30 BE**
+**insgesamt 34 BE**
 
 ## Geräte und Chemikalien
 
