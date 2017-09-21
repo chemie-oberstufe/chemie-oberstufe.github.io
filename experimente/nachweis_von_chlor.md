@@ -13,9 +13,9 @@ tags: [experiment, redoxreaktionen, pflichtexperiment]
 **Individueller Aufgabenteil:** Bearbeitet in Lerngruppen unterschiedliche Teilaufgaben, soweit möglich.
 
   3. Bestimme die Oxidationszahlen in folgenden Verbindungen. (**6 BE**)
-    - Kohlenstoffmonooxid, Schwefelsäure, Natriumhydrogencarbonat, 1-Propanol
-    - Stickstoffdioxid, Phosphorsäure, Kaliumhydrogensulfat, 2-Propanol
-	- Stickstoffmonooxid, Kohlensäure, Lithiumhydrogenphosphat, Isopropanol
+  - Kohlenstoffmonooxid, Schwefelsäure, Natriumhydrogencarbonat, 1-Propanol
+  - Stickstoffdioxid, Phosphorsäure, Kaliumhydrogensulfat, 2-Propanol
+  - Stickstoffmonooxid, Kohlensäure, Lithiumhydrogenphosphat, Isopropanol
 
 ---
 
