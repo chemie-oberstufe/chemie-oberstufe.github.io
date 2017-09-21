@@ -10,9 +10,8 @@ tags: [experiment, redoxreaktionen, pflichtexperiment]
 1. Führe das Experiment durch. Fertige eine beschriftete Skizze zur Durchführung an und notiere deine Beobachtungen. (**je 2 BE**)
 2. Werte das Experiment aus. Formuliere dazu die vollständigen Redoxgleichungen (Reaktionsgleichung, Reduktion, Oxidation, Oxidationsmittel, Reduktionsmittel, Oxidationszahlen) für beide ablaufenden Redoxreaktionen (je **4 BE**) und erkläre die Beobachtungen. (**2 BE**).
 
-**Individueller Aufgabenteil:** Bearbeitet in Lerngruppen unterschiedliche Teilaufgaben, soweit möglich.
-
-  3. Bestimme die Oxidationszahlen in folgenden Verbindungen. (**6 BE**)
+**3. Individueller Aufgabenteil:** Bearbeitet in Lerngruppen unterschiedliche Teilaufgaben, soweit möglich.  
+  Bestimme die Oxidationszahlen in folgenden Verbindungen. (**6 BE**)  
   - Kohlenstoffmonooxid, Schwefelsäure, Natriumhydrogencarbonat, 1-Propanol
   - Stickstoffdioxid, Phosphorsäure, Kaliumhydrogensulfat, 2-Propanol
   - Stickstoffmonooxid, Kohlensäure, Lithiumhydrogenphosphat, Isopropanol
