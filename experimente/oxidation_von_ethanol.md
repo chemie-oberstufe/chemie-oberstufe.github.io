@@ -83,4 +83,4 @@ Alle verwendeten Geräte werden sorgfältig gespült und getrocknet.
 ## Literatur und Materialien
 
 * Elemente Chemie 2 104-107
-* [Simple Chemics - Alkohole und ihre Reaktionen](https://www.youtube.com/watch?v=aMKDXj6SR1M)s
+* [Simple Chemics - Alkohole und ihre Reaktionen](https://www.youtube.com/watch?v=aMKDXj6SR1M)
