@@ -54,7 +54,7 @@ Allgemeiner Hinweis: Soweit nicht ausdrücklich gefordert, kann bei der Beantwor
 
 **Teil 1 - Oxidation**
 
-Die Reaktionsprodukte sind gesundheitsgefährdend. {% include ghs name="gesundheitsgefahr" %}
+Die Reaktionsprodukte sind gesundheitsgefährdend {% include ghs name="gesundheitsgefahr" %}
 
 Arbeite bei guter Belüftung, mit kleinen Mengen und entsorge die Reste unmittelbar nach Beendigung des Experiments.
 
@@ -83,3 +83,4 @@ Alle verwendeten Geräte werden sorgfältig gespült und getrocknet.
 ## Literatur und Materialien
 
 * Elemente Chemie 2 104-107
+* [Simple Chemics - Alkohole und ihre Reaktionen](https://www.youtube.com/watch?v=aMKDXj6SR1M)s
