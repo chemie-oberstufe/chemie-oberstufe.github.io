@@ -41,6 +41,8 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
 
+{{ tag_seite | jsonify }}
+
 {{ site | jsonify }}
 
 <ul class="tags">
