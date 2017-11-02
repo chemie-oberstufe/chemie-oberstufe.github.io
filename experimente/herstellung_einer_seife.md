@@ -20,7 +20,7 @@ Allgemeiner Hinweis: Soweit nicht ausdrücklich gefordert, kann bei der Beantwor
 	* Natronlauge und Palmitinsäure, Kalilauge und Tetracosansäure
 	* Kalilauge und Ölsäure, Natronlauge und Octacosansäure
 	* Natronlauge und Arachinsäure, Kalilauge und Hexacosansäure
-	* Kalilauge und Myristate, Natronlauge und Docosansäure
+	* Kalilauge und Myristinsäure, Natronlauge und Docosansäure
 
 ---
 
