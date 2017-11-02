@@ -38,16 +38,27 @@ The following part removes duplicated tags and invalid tags like blank tag.
 {% comment %}
 =======================
 The purpose of this snippet is to list all your posts posted with a certain tag.
+
+Also, count the number of results.
 =======================
 {% endcomment %}
 
+{% assign pagecount = 0 %}
+{% assign pages = site.pages | sort: 'title' %}
+{% for page in pages %}
+	 {% if page.tags contains tag_seite %}
+	 	{% assign pagecount = pagecount | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
 <ul class="tags">
-	<li class="tag">{{ tag_seite }}</li>
+	<li>{{ pagecount }} Ergebnisse für <span class="tag">{{ tag_seite }}</span></li>
 </ul>
 <ul>
 {% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
 	 {% if page.tags contains tag_seite %}
+	 {% assign pagecount = pagecount | plus: 1 %}	
 	 <li>
 	 <a href="{{ page.url }}">{{ page.title }}</a>
 	 {% for tag in page.tags %}
