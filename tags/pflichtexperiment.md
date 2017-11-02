@@ -50,7 +50,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
 	 {% if page.tags contains tag_seite %}
-	 {% pagecount | plus: 1 %}	
+	 {% assign pagecount = pagecount | plus: 1 %}	
 	 <li>
 	 <a href="{{ page.url }}">{{ page.title }}</a>
 	 {% for tag in page.tags %}
