@@ -41,8 +41,10 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
 
+{% assign pagecount = site.tags[tag_seite].size %}
+
 <ul class="tags">
-	<li class="tag">{{ tag_seite }}</li>
+	<li>{{ pagecount }} Seiten getaggt als <span class="tag">{{ tag_seite }}</span></li>
 </ul>
 <ul>
 {% assign pages = site.pages | sort: 'title' %}
