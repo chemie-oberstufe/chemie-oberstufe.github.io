@@ -9,8 +9,16 @@ tags: [experiment, chemische-bindung, pflichtexperiment]
 
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**12 BE**)
 2. Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (6 BE), Bindungskräfte mit Skizze (12 BE), typische Eigenschaften der Verbindungen (9 BE). (gesamt: **27 BE**)
-3. Bearbeitet in Lerngruppen **jeweils zwei unterschiedliche Stoffe**:<br />
-	Wende das Struktur-Eigenschaften-Basiskonzept auf die experimentellen Ergebnisse von zwei der Stoffe an. (**6 BE**)
+
+---
+
+**Individuelle Aufgaben:** Bearbeitet in Lerngruppen jeweils zwei unterschiedliche Stoffe.
+
+1. Wende das Struktur-Eigenschaften-Basiskonzept auf die experimentellen Ergebnisse von zwei der sechs Stoffe an. (**6 BE**)
+
+---
+
+**Gesamt:** 45 BE
 
 
 ## Geräte und Chemikalien
