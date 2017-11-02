@@ -41,17 +41,16 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
 
-{{ tag_seite | jsonify }}
-
-{{ site | jsonify }}
+{% assign pagecount = 0 %}
 
 <ul class="tags">
-	<li>{{ site.tags[tag_seite].size }} Seiten getaggt als <span class="tag">{{ tag_seite }}</span></li>
+	<li  class="tag">{{ tag_seite }}</li>
 </ul>
 <ul>
 {% assign pages = site.pages | sort: 'title' %}
 {% for page in pages %}
 	 {% if page.tags contains tag_seite %}
+	 {{ pagecount | plus: 1 }}	
 	 <li>
 	 <a href="{{ page.url }}">{{ page.title }}</a>
 	 {% for tag in page.tags %}
@@ -60,4 +59,8 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	 </li>
 	 {% endif %}
 {% endfor %}
+</ul>
+
+<ul class="tags">
+	<li>{{ pagecount }} Ergebnisse für <span class="tag">{{ tag_seite }}</span></li>
 </ul>
