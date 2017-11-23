@@ -9,8 +9,9 @@ tags: [experiment, fette-und-tenside, pflichtexperiment]
 
 Allgemeiner Hinweis: Soweit nicht ausdrücklich gefordert, kann bei der Beantwortung auf Geräte, Chemikalien und Durchführung verzichtet werden.
 
-1. Führe das Experiment durch und protokolliere deine Beobachtungen. (**4 BE**)
-2. Formuliere den allgemeinen Reaktionsmechanismus für die Verseifung einer Fettsäure. (**4 BE**)
+1. Berechne die benötigte Menge an Natriumhydroxid, um 10 ml einer Natriumhydroxidlösung mit einer Konzentration c = 2 mol/l herzustellen. Stelle die Lösung her. (**4 BE**)
+2. Führe das Experiment durch und protokolliere deine Beobachtungen. (**4 BE**)
+3. Formuliere den allgemeinen Reaktionsmechanismus für die Verseifung einer Fettsäure. (**4 BE**)
 
 ---
 
@@ -24,7 +25,7 @@ Allgemeiner Hinweis: Soweit nicht ausdrücklich gefordert, kann bei der Beantwor
 
 ---
 
-**Gesamtpunktzahl: 12 BE**
+**Gesamtpunktzahl: 16 BE**
 
 ## Geräte und Chemikalien
 
