@@ -2,7 +2,7 @@
 title: 2.3 Nachweis von Doppelbindungen in Fetten
 layout: page
 showinmenu: false
-tags: [experiment, fette-und-tenside, wahlexperiment]
+tags: [experiment, fette-und-tenside, wahlexperiment, unfertig]
 ---
 
 ## Aufgabe

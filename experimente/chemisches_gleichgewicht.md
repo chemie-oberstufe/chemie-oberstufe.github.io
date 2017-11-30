@@ -2,7 +2,7 @@
 title: 3.2 Chemisches Gleichgewicht
 layout: page
 showinmenu: false
-tags: [experiment, chemisches-gleichgewicht, pflichtexperiment]
+tags: [experiment, chemisches-gleichgewicht, pflichtexperiment, unfertig]
 ---
 
 ## Aufgabe

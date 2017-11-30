@@ -2,7 +2,7 @@
 title: 1.3.3 Kupferraffination
 layout: page
 showinmenu: false
-tags: [experiment, elektrolyse, pflichtexperiment]
+tags: [experiment, elektrolyse, pflichtexperiment, unfertig]
 ---
 
 ## Aufgabe

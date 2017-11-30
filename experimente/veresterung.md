@@ -2,7 +2,7 @@
 title: 2.2 Veresterung von Ethanol mit Ethansäure
 layout: page
 showinmenu: false
-tags: [experiment, organische-chemie, wahlexperiment]
+tags: [experiment, organische-chemie, wahlexperiment, unfertig]
 ---
 
 ## Aufgabe

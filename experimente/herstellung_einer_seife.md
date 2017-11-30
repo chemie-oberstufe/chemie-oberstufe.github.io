@@ -12,20 +12,21 @@ Allgemeiner Hinweis: Soweit nicht ausdrücklich gefordert, kann bei der Beantwor
 1. Berechne die benötigte Menge an Natriumhydroxid, um 10 ml einer Natriumhydroxidlösung mit einer Konzentration c = 2 mol/l herzustellen. Stelle die Lösung her. (**4 BE**)
 2. Führe das Experiment durch und protokolliere deine Beobachtungen. (**4 BE**)
 3. Formuliere den allgemeinen Reaktionsmechanismus für die Verseifung einer Fettsäure. (**4 BE**)
+4. Erkläre die Wirkungsweise der hergestellten Seife. Fertige eine Skizze an. (**4 BE**)
 
 ---
 
 **Individuelle Aufgaben:** Bearbeitet in Lerngruppen unterschiedliche Teilaufgaben, soweit möglich.
 
 1. Formuliere die Wortgleichungen für folgende Reaktionen. (**4 BE**)
-	* Natronlauge und Palmitinsäure, Kalilauge und Tetracosansäure
-	* Kalilauge und Ölsäure, Natronlauge und Octacosansäure
-	* Natronlauge und Arachinsäure, Kalilauge und Hexacosansäure
-	* Kalilauge und Myristinsäure, Natronlauge und Docosansäure
+	* Natronlauge und Palmitinsäure; Kalilauge und Tetracosansäure
+	* Kalilauge und Ölsäure; Natronlauge und Octacosansäure
+	* Natronlauge und Arachinsäure; Kalilauge und Hexacosansäure
+	* Kalilauge und Myristinsäure; Natronlauge und Docosansäure
 
 ---
 
-**Gesamtpunktzahl: 16 BE**
+**Gesamtpunktzahl: 20 BE**
 
 ## Geräte und Chemikalien
 
