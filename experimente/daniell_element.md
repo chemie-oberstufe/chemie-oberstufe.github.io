@@ -9,7 +9,7 @@ tags: [experiment, galvanische-elemente, pflichtexperiment]
 
 **Zeitaufwand: ca. 30 Minuten**
 
-1. Stelle jeweils ca. 5 ml einer Kupfer(II)-sulfatlösung und einer Zinksulfatlösung mit einer Konzentration von jeweils c = 1 mol/l her. Berechne vorab die benötigten Stoffmengen. (**4 BE**)
+1. Stelle jeweils ca. 5 ml einer Kupfer(II)-sulfatlösung und einer Zinksulfatlösung (Achtung: liegt als Heptahydrat vor) mit einer Konzentration von jeweils c = 1 mol/l her. Berechne vorab die benötigten Stoffmengen. (**4 BE**)
 
 2. Fertige eine vollständig beschriftete Skizze des Daniell-Elements an. (**7 BE**)  
    Begriffe: Halbzelle, Elektrolyt, Elektrode, Stromschlüssel bzw. Salzbrücke, Anode, Kathode, Pluspol, Minuspol
