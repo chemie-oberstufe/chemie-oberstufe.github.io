@@ -17,6 +17,8 @@ Laut einer Studie (Quelle: siehe unten) vernichtet Korrosion jedes Jahr etwa dre
 3. Führe das Experiment durch und protokolliere deine Beobachtungen. (**3 BE**)
 4. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe. (**6 BE**)
 
+---
+
 **Individueller Aufgabenteil**
 
 Bearbeitet in Lerngruppen jeweils eine unterschiedliche Aufgabe aus diesem Bereich, soweit möglich.

@@ -19,6 +19,8 @@ Baue aus wenigen Materialien ein Modell eines Bleiakkumulators, wie er in Fahrze
 
 4. Berechne die Spannung des Bleiakkumulators mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung und bewerte das Ergebnis. (**4 BE**)
 
+---
+
 **Individueller Aufgabenteil**
 
 Bearbeitet in Lerngruppen jeweils eine unterschiedliche Aufgabe aus diesem Bereich, soweit möglich.

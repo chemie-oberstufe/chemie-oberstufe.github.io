@@ -41,7 +41,7 @@ Allgemeiner Hinweis: Soweit nicht ausdrücklich gefordert, kann bei der Beantwor
 
 **Teil 2 - Silberspiegelprobe**
 
-* Propanal {% include ghs name="entzündlich" %} {% include ghs name="gefahr" %}
+* Ethanal {% include ghs name="gesundheitsgefährdend" %} {% include ghs name="entzündlich" %} {% include ghs name="gefahr" %}
 * Propanon {% include ghs name="entzündlich" %} {% include ghs name="gefahr" %}
 * Silbernitratlösung (w = 1%)
 * Ammoniaklösung (w = 15%) {% include ghs name="umweltgefahr" %} {% include ghs name="ätzend" %}
@@ -82,5 +82,5 @@ Alle verwendeten Geräte werden sorgfältig gespült und getrocknet.
 
 ## Literatur und Materialien
 
-* Elemente Chemie 2 104-107
+* Elemente Chemie 2: Oxidation von Alkoholen, Wichtige Aldehyde und Ketone 104-107
 * [Simple Chemics - Alkohole und ihre Reaktionen](https://www.youtube.com/watch?v=aMKDXj6SR1M)
