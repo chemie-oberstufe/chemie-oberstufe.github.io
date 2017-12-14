@@ -65,7 +65,7 @@ Arbeite bei guter Belüftung, mit kleinen Mengen und entsorge die Reste unmittel
 **Teil 2 - Silberspiegelprobe**
 
 1. Gib ca. 3 cm hoch Silbernitratlösung in ein Reagenzglas und gib unter Schütteln tropfenweise so viel Ammoniaklösung hinzu, bis sich der entstehende Niederschlag gerade auflöst.
-2. Gib nun einige Tropfen Propanal hinzu und stelle das Reagenzglas in ein Wasserbad (50 - 70 °C).
+2. Gib nun einige Tropfen Ethanal hinzu und stelle das Reagenzglas in ein Wasserbad (50 - 70 °C).
 3. Wiederhole den Versuch mit Propanon.
 
 ## Entsorgung
