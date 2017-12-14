@@ -6,20 +6,29 @@ tags: [experiment, korrosion, pflichtexperiment]
 ---
 ## Worum geht's?
 
-Laut einer Studie vernichtet Korrosion jedes Jahr etwa drei Prozent des BIP in Industriestaaten. Grund genug, sich mit dem Phänomen und Möglichkeiten des Korrosionsschutzes zu befassen. 
+Laut einer Studie (Quelle: siehe unten) vernichtet Korrosion jedes Jahr etwa drei Prozent des BIP in Industriestaaten. Grund genug, sich mit dem Phänomen und Möglichkeiten des Korrosionsschutzes zu befassen. 
 
 ## Aufgabe
 
-1. Fertige eine beschriftete Skizze des Versuchsaufbaus an. (**3 BE**)
-2. Führe das Experiment durch und protokolliere deine Beobachtungen. (**3 BE**)
-3. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe. (**6 BE**)
-4. Bearbeite **eine** der folgenden Aufgaben:	(**3 BE**)  
+1. Berechne die benötigten Mengen an Natriumchlorid und Kaliumhexacyanoferrat(III), um 30 ml einer Lösung der Stoffe in Wasser herzustellen.  
+	Natriumchlorid: c = 1 mol/l  
+	Kaliumhexacyanoferrat(III): c = 0,1 mol/l
+2. Fertige eine beschriftete Skizze des Versuchsaufbaus an. (**3 BE**)
+3. Führe das Experiment durch und protokolliere deine Beobachtungen. (**3 BE**)
+4. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe. (**6 BE**)
+
+**Individueller Aufgabenteil**
+
+Bearbeitet in Lerngruppen jeweils eine unterschiedliche Aufgabe aus diesem Bereich, soweit möglich.
+
+1. Bearbeite **eine** der folgenden Aufgaben:	(**3 BE**)  
 	a) Erläutere das Prinzip des Korrosionsschutzes am Beispiel des Vollverzinkens.  
 	b) Erläutere, weshalb eine teilweise Beschichtung mit Edelmetallen keine wirksame Maßnahme zum Schutz von Stahl vor Korrosion sein kann.  
 	c) Erläutere das Prinzip des Korrosionsschutzes für den speziellen Fall des Aluminiums.  
 	d) Erläutere das Prinzip des Korrosionsschutzes am Beispiel von Schiffsrümpfen. 
 
-Fachbegriffe und Konzepte:
+## Fachbegriffe und Konzepte:
+
 - elektrochemische Spannungsreihe der Metalle
 - Korrosion
 - Korrosionsschutz
@@ -45,8 +54,8 @@ Dieser Versuch lässt sich schnell ansetzen und kann dann stehen bleiben. Es emp
 
 Entstehende Eisen(II)-Ionen werden mit Hilfe von Kaliumhexacyanoferrat(III) als Berliner Blau nachgewiesen.
 
-1. Reinige die Nägel mit Schleifpapier und etwas Ethanol. 
-2. **Schnelle Variante**: Setze ca. 30 ml einer Lösung von Natriumchlorid (1 mol/l = 58 g/l) und Kaliumhexacyanoferrat(III) (0,1 mol/l = 33 g/l) an.  
+1. Reinige die Nägel bei Bedarf mit Schleifpapier und etwas Ethanol. 
+2. **Schnelle Variante**: Setze ca. 30 ml einer Lösung von Natriumchlorid (1 mol/l) und Kaliumhexacyanoferrat(III) an.  
 	**Alternative**: Setze die Lösung ebenso an, koche sie aber zusätzlich kurz mit etwas Agar Agar (ca. 1/8 Teelöffel) auf.
 3. Fülle die Lösung in eine Petrischale. Ein Nagel wird mit Kupferdraht umwickelt, der zweite mit Aluminiumfolie, der dritte dient dem Vergleich. Lege die drei Nägel so in die Petrischale, dass sie vollständig von der Lösung bedeckt sind.
 4. Beobachte regelmäßig.
