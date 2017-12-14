@@ -12,7 +12,7 @@ Laut einer Studie (Quelle: siehe unten) vernichtet Korrosion jedes Jahr etwa dre
 
 1. Berechne die benötigten Mengen an Natriumchlorid und Kaliumhexacyanoferrat(III), um 30 ml einer Lösung der Stoffe in Wasser herzustellen.  
 	Natriumchlorid: c = 1 mol/l  
-	Kaliumhexacyanoferrat(III): c = 0,1 mol/l
+	Kaliumhexacyanoferrat(III): c = 0,1 mol/l (**4 BE**)
 2. Fertige eine beschriftete Skizze des Versuchsaufbaus an. (**3 BE**)
 3. Führe das Experiment durch und protokolliere deine Beobachtungen. (**3 BE**)
 4. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe. (**6 BE**)
@@ -26,6 +26,10 @@ Bearbeitet in Lerngruppen jeweils eine unterschiedliche Aufgabe aus diesem Berei
 	b) Erläutere, weshalb eine teilweise Beschichtung mit Edelmetallen keine wirksame Maßnahme zum Schutz von Stahl vor Korrosion sein kann.  
 	c) Erläutere das Prinzip des Korrosionsschutzes für den speziellen Fall des Aluminiums.  
 	d) Erläutere das Prinzip des Korrosionsschutzes am Beispiel von Schiffsrümpfen. 
+
+---
+
+**Gesamtpunktzahl: 19 BE**
 
 ## Fachbegriffe und Konzepte:
 
@@ -71,3 +75,4 @@ Entstehende Eisen(II)-Ionen werden mit Hilfe von Kaliumhexacyanoferrat(III) als 
 - [Tagesspiegel: Rost vernichtet jährlich drei Prozent des BIP](http://www.tagesspiegel.de/wirtschaft/studie-rost-vernichtet-jaehrlich-drei-prozent-des-bip/1641884.html)
 - [Axel Schunk: Experiment des Monats 07/1998](http://www.axel-schunk.de/experiment/edm0798.html)
 - [Simple Chemics: Was ist eigentlich Rost?](https://www.youtube.com/watch?v=34knGxalFAk)
+- Elemente Chemie 2: Korrosion und Korrosionsschutz 277-282
