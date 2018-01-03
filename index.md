@@ -4,7 +4,7 @@ layout: page
 showinmenu: false
 ---
 
-## Themenkomplexe im gA-Kurs
+## Themen im gA-Kurs
 
 1. Atommodelle, Redoxreaktionen, Elektrochemie
 	- [1.1 Atommodelle](themen/atommodelle) <a class="tag" href="/tags/atommodelle">atommodelle</a>
@@ -32,11 +32,11 @@ showinmenu: false
 muss einer zur Bearbeitung gewählt werden.<br />
 
 2. Pflichtaufgaben pro Halbjahr
-	- 11/I: **5 Experimente** + Vollständigkeit der Unterlagen
-	- 11/II: **5 Experimente** + Vollständigkeit der Unterlagen
-	- 12/I: **4 Experimente** + Vollständigkeit der Unterlagen
-	- 12/II: **3 Experimente** + Vollständigkeit der Unterlagen<br /><br />  
-	- Summe: **17 Experimente** + 4 Noten für die Vollständigkeit der Unterlagen<br />
+	- 11/I: **5 Experimente** + Vollständigkeit der Unterlagen (ca. 18 Wochen)
+	- 11/II: **5 Experimente** + Vollständigkeit der Unterlagen (ca. 15 Wochen)
+	- 12/I: **4 Experimente** + Vollständigkeit der Unterlagen (ca. 15 Wochen)
+	- 12/II: **3 Experimente** + Vollständigkeit der Unterlagen (ca. 12 Wochen)<br /><br />  
+	- Summe: **17 Experimente** + 4 Noten für die Vollständigkeit der Unterlagen (ca. 60 Wochen)<br />
 
 3. <a class="tag" href="/tags/pflichtexperiment">Pflichtexperimente</a> sind entsprechend gekennzeichnet und müssen bearbeitet werden.<br />
 
