@@ -11,8 +11,8 @@ Laut einer Studie (Quelle: siehe unten) vernichtet Korrosion jedes Jahr etwa dre
 ## Aufgabe
 
 1. Berechne die benötigten Mengen an Natriumchlorid und Kaliumhexacyanoferrat(III), um 30 ml einer Lösung der Stoffe in Wasser herzustellen.  
-	Natriumchlorid: c = 1 mol/l  
-	Kaliumhexacyanoferrat(III): c = 0,1 mol/l (**4 BE**)
+	Natriumchlorid: c = 0,1 mol/l  
+	Kaliumhexacyanoferrat(III): c = 0,01 mol/l (**4 BE**)
 2. Fertige eine beschriftete Skizze des Versuchsaufbaus an. (**3 BE**)
 3. Führe das Experiment durch und protokolliere deine Beobachtungen. (**3 BE**)
 4. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe. (**6 BE**)
