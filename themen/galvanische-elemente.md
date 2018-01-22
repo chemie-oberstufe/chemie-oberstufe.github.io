@@ -47,7 +47,7 @@ Ich kenne und kann umgehen mit ...
 
 ## Material
 
-- siehe Chechliste und Experimente
+- siehe Checkliste und Experimente
 
 
     

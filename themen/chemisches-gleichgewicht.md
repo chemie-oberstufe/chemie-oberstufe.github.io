@@ -11,10 +11,10 @@ Ich kann ...
 
 | Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
 | ---   | ---      | ---         | ---     | ---      |
-| umkehrbare Reaktionen beschreiben und die Einstellung chemischer Gleichgewichte in abgeschlossenen Systemen erläutern | | | | |
-| die Merkmale chemischer Gleichgewichte erläutern | | | | |
-| den unterschied zu statischen Gleichgewichten beschreiben | | | | |
-| die Beeinflussung des chemischen Gleichgewichts nach Le Chatelier erläutern und in geeigneten Diagrammen darstellen | | | | |
+| umkehrbare Reaktionen beschreiben und die Einstellung chemischer Gleichgewichte in abgeschlossenen Systemen erläutern | | EC2 144-145 | | |
+| die Merkmale chemischer Gleichgewichte erläutern | | EC2 144-145 | | |
+| den Unterschied zu statischen Gleichgewichten beschreiben | | | | |
+| die Beeinflussung des chemischen Gleichgewichts nach Le Chatelier erläutern und in geeigneten Diagrammen darstellen | | EC2 148-151| | |
 
 
 ## Fachbegriffe und Konzepte
@@ -36,6 +36,8 @@ Ich kann ...
 
 ## Material
 
-- Lehrbücher
+- Elemente Chemie 2 - Kapitel 4
+- [Simple Chemics - Chemisches Gleichgewicht und Massenwirkungsgesetz](https://www.youtube.com/watch?v=v_KFPhoXsc4)
+- [Simple Chemics - Le Chatelier](https://www.youtube.com/watch?v=Xdwtuh3HeQE)
 
 
