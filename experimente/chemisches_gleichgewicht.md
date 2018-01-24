@@ -58,9 +58,7 @@ Iod bildet mit Stärke einen blauen bis lilafarbenen Iod-Stärke-Komplex.
 
 ### 2) Einfluss der Konzentration auf das Chemische Gleichgewicht
 
-Es gilt folgende Reaktionsgleichung:
-
-{% include gleichung name="gg_eisenthiocyanat" %}
+Es gilt folgende Reaktionsgleichung: {% include gleichung name="gg_eisenthiocyanat" %}
 
 ## Entsorgung
 
