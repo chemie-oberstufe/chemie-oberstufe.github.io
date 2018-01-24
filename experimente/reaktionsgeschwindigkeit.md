@@ -49,7 +49,7 @@ tags: [experiment, reaktionsverlauf-und-reaktionsgeschwindigkeit, pflichtexperim
 
 ### Teil 1
 
-Dieser Versuch wird vollständig auf der Waage durchgeführt. Gemäß der Reaktionsgleichung für die Reaktion von Calciumcarbonat mit Salzsäure entsteht CO<sub>2</sup>, welches fast vollständig aus dem Becherglas entweicht und dessen Masse als Massenabnahme gewogen werden kann.
+Dieser Versuch wird vollständig auf der Waage durchgeführt. Gemäß der Reaktionsgleichung für die Reaktion von Calciumcarbonat mit Salzsäure entsteht CO<sub>2</sub>, welches fast vollständig aus dem Becherglas entweicht und dessen Masse als Massenabnahme gewogen werden kann.
 
 1. Ein Becherglas mit einem Stück Marmor (beides vorher gewogen) wird auf die Waage gestellt. Anschließend werden zügig 20 ml Salzsäure (Wasser:Salzsäure = 1:6) zugegeben und die Waage auf Null gestellt. Stoppe ab jetzt parallel die Zeit.
 2. Notiere in regelmäßigen zeitlichen Abständen die Massenabnahme.
