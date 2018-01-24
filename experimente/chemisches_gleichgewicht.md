@@ -2,12 +2,19 @@
 title: 3.2 Chemisches Gleichgewicht
 layout: page
 showinmenu: false
-tags: [experiment, chemisches-gleichgewicht, pflichtexperiment, unfertig]
+tags: [experiment, chemisches-gleichgewicht, pflichtexperiment]
 ---
 
 ## Aufgabe
 
-Führe das Experiment zum chemischen Gleichgewicht durch und bearbeite die Aufgaben.
+Führe die Experimente zum chemischen Gleichgewicht durch und bearbeite die Aufgaben.
+
+1. Protokolliere deine Beobachtungen zu beiden Experimenten (**6 BE**).
+2. Werte beide Experimente anhand deiner Beobachtungen und der Reaktionsgleichungen aus. Erläutere dabei die Begriffe dynamisches Gleichgewicht (**2 BE**), umkehrbare chemische Reaktion (**3 BE**) und das Prinzip von Le Chatelier (**7 BE**) (insgesamt **12 BE**).
+
+---
+
+**Gesamtpunktzahl: 18 BE**
 
 ## Geräte und Chemikalien
 
