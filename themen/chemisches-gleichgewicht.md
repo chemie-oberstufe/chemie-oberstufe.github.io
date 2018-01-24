@@ -11,9 +11,9 @@ Ich kann ...
 
 | Lernziel | Selbsteinschätzung <br />Einstieg | Materialien | Übungen | Selbsteinschätzung <br />Ausstieg |
 | ---   | ---      | ---         | ---     | ---      |
-| umkehrbare Reaktionen beschreiben und die Einstellung chemischer Gleichgewichte in abgeschlossenen Systemen erläutern | | EC2 144-145 | | |
-| die Merkmale chemischer Gleichgewichte erläutern | | EC2 144-145 | | |
-| den Unterschied zu statischen Gleichgewichten beschreiben | | | | |
+| umkehrbare Reaktionen beschreiben und die Einstellung chemischer Gleichgewichte in abgeschlossenen Systemen erläutern | | EC2 144-145, COG 126-130 | | |
+| die Merkmale chemischer Gleichgewichte erläutern | | EC2 144-145, COG 126-130 | | |
+| den Unterschied zu statischen Gleichgewichten beschreiben | | COG 128-129 | | |
 | die Beeinflussung des chemischen Gleichgewichts nach Le Chatelier erläutern und in geeigneten Diagrammen darstellen | | EC2 148-151| | |
 
 

@@ -1,0 +1,3 @@
+{% if include.name %}
+	<figure><img src="/images/gleichungen/{{ include.name }}.png" alt="{{ include.name }}" /></figure>
+{% endif %}

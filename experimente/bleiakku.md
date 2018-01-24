@@ -7,7 +7,7 @@ tags: [experiment, stromquellen, pflichtexperiment]
 
 ## Aufgabe
 
-Baue aus wenigen Materialien ein Modell eines Bleiakkumulators, wie er in Fahrzeugen als Starterbatterie verwendet wird. 
+Baue aus wenigen Materialien ein Modell eines Bleiakkumulators, der in angepasster Bauweise in Fahrzeugen als Starterbatterie verwendet wird. 
 
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**3 BE**)
 
