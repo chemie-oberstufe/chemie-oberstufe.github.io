@@ -29,9 +29,8 @@ tags: [experiment, reaktionsverlauf-und-reaktionsgeschwindigkeit, pflichtexperim
 
 ### Teil 1
 
-- Bechergläser
-- Messzylinder
-- Pipette
+- Petrischale
+- Mörser und Pistill
 - Waage
 - Stoppuhr
 - Marmor
@@ -49,12 +48,11 @@ tags: [experiment, reaktionsverlauf-und-reaktionsgeschwindigkeit, pflichtexperim
 
 ### Teil 1
 
-Dieser Versuch wird vollständig auf der Waage durchgeführt. Gemäß der Reaktionsgleichung für die Reaktion von Calciumcarbonat mit Salzsäure entsteht CO<sub>2</sub>, welches fast vollständig aus dem Becherglas entweicht und dessen Masse als Massenabnahme gewogen werden kann.
+Dieser Versuch wird vollständig auf der Waage durchgeführt. Gemäß der Reaktionsgleichung für die Reaktion von Calciumcarbonat mit Salzsäure entsteht CO<sub>2</sub>, welches fast vollständig aus der Petrischale entweicht und dessen Masse als Massenabnahme gewogen werden kann.
 
-1. Ein Becherglas mit einem Stück Marmor (beides vorher gewogen) wird auf die Waage gestellt. Anschließend werden zügig 20 ml Salzsäure (Wasser:Salzsäure = 1:6) zugegeben und die Waage auf Null gestellt. Stoppe ab jetzt parallel die Zeit.
+1. Mörsere einen Marmorkiesel. Gib das Pulver in eine Petrischale, die anschließend auf die Waage gestellt wird. Gib Anschließend zügig so viel verdünnte Salzsäure (Wasser:Salzsäure = 1:2) hinzu, dass die Petrischale annähernd gefüllt ist. Stelle die Waage direkt auf Null und stoppe ab jetzt die Zeit.
 2. Notiere in regelmäßigen zeitlichen Abständen die Massenabnahme.
-3. Beende nach ca. 5 Minuten die Reaktion. Entsorge die Salzsäure, reinige das Marmorstück und wiege es erneut.
-4. Wiederhole Schritte 1-3 mit einem frischen Marmorstück und 25 ml Salzsäure (Wasser:Salzsäure = 1:2).
+3. Beende nach ca. 5 Minuten die Reaktion. Wiederhole die Schritte 1-2 mit einem frischen Marmorstück und höher konzentrierter Salzsäure (Wasser:Salzsäure = 1:2).
 
 ### Teil 2
 

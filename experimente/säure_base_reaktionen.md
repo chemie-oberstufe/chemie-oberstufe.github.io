@@ -42,7 +42,7 @@ Bearbeitet in Lerngruppen unterschiedliche Kombinationen, soweit möglich.
 
 ## Durchführung
 
-1. Löse, soweit notwendig, eine Spatelspitze aller Stoffe in Reagenzgläsern ca. 2 ml Wasser oder gib ca. 2 ml der Flüssigkeit in ein Reagenzglas.
+1. Löse, soweit notwendig, eine Spatelspitze aller Stoffe in Reagenzgläsern in ca. 2 ml Wasser oder gib ca. 2 ml der Flüssigkeit in ein Reagenzglas.
 2. Fülle ein Reagenzglas als Vergleichsprobe mit 2 ml destilliertem Wasser.
 3. Ermittle den pH-Wert.
 
