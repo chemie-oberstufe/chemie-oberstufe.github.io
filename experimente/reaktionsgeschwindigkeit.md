@@ -69,3 +69,5 @@ Neutralisiere die Salzsäure mit Natriumhydroxid oder Kaliumhydroxid. {% include
 ## Literatur und Materialien
 
 - EC2 132 V1
+- Elemente Chemie 2 - Kapitel 4
+- [Simple Chemics - Reaktionsgeschwindigkeit](https://www.youtube.com/watch?v=HrEtl5mVRmM)

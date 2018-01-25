@@ -33,7 +33,7 @@ Bearbeitet in Lerngruppen unterschiedliche Kombinationen, soweit möglich.
 - Spatel
 - Universalindikator
 - Wasser
-- Salzsäure {% include ghs name="ätzend" %}
+- verdünnte Salzsäure {% include ghs name="ätzend" %}
 - Natriumhydroxid {% include ghs name="ätzend" %}
 - Ammoniumchlorid {% include ghs name="gefahr" %}
 - Eisen(III)-chlorid {% include ghs name="ätzend" %} {% include ghs name="gefahr" %}
@@ -48,4 +48,10 @@ Bearbeitet in Lerngruppen unterschiedliche Kombinationen, soweit möglich.
 
 ## Entsorgung
 
+- Entsorge Lösungen mit Fe<sup>3+</sup>-Ionen im Kanister für Schwermetalle. Die restlichen Lösungen können aufgrund der geringen Mengen im Ausguss entsorgt werden.
+
 ## Literatur und Materialien
+
+- Elemente Chemie 2 - Kapitel 6
+- [Simple Chemics - Säure-Base-Crashkurs](https://www.youtube.com/watch?v=8FwB735ePV8)
+- [Simple Chemics - Brönsted Säure-Base-Theorie](https://www.youtube.com/watch?v=--y5LNJiAlo)

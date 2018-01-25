@@ -73,6 +73,8 @@ Der Inhalt der Reagenzgläser kann im Ausguss entsorgt werden.
 
 ## Literatur und Materialien
 
-- siehe Theorie zu Chemischen Gleichgewichten
+- Elemente Chemie 2 - Kapitel 4
+- [Simple Chemics - Chemisches Gleichgewicht und Massenwirkungsgesetz](https://www.youtube.com/watch?v=v_KFPhoXsc4)
+- [Simple Chemics - Le Chatelier](https://www.youtube.com/watch?v=Xdwtuh3HeQE)
 
 
