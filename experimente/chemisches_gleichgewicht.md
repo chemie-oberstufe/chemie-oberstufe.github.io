@@ -47,7 +47,7 @@ Führe die Experimente zum chemischen Gleichgewicht durch und bearbeite die Aufg
 ### 1) Einfluss der Temperatur auf das Chemische Gleichgewicht
 
 1. Stelle 50 ml einer 0,5%ige (Massenprozent) Stärkelösung her. Wiege dazu die benötigte Menge Stärke ab und löse diese unter rühren in der entsprechenden Menge heißem Wasser auf. Filtriere gegebenenfalls. Die Lösung darf nicht so heiß sein, dass sie braun wird.
-2. Erhitze in einem Becherglas Wasser auf eine Temperatur von ca. 60 °C. Fülle ein weiteres Becherglas mit Leitungswasser (ca. 20 °C).
+2. Erhitze in einem Becherglas Wasser bis zum Siedepunkt. Fülle ein weiteres Becherglas mit Leitungswasser (ca. 20 °C).
 3. Fülle zwei Reagenzgläser jeweils zur Hälfte mit der Stärkelösung. Gib unter Rühren tropfenweise soviel Iod-Kaliumiodid-Lösung zu, dass sie kräftig blau gefärbt ist.
 4. Ein Reagenzglas wird abwechselnd in die Bechergläser mit kaltem und warmem Wasser getaucht.
 5. Das zweite Reagenzglas wird erst in warmes Wasser und anschließend zur Hälfte in kaltes Wasser getaucht.
