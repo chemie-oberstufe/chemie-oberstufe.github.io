@@ -52,7 +52,7 @@ Dieser Versuch wird vollständig auf der Waage durchgeführt. Gemäß der Reakti
 
 1. Mörsere einen Marmorkiesel. Gib das Pulver in eine Petrischale, die anschließend auf die Waage gestellt wird. Gib Anschließend zügig so viel verdünnte Salzsäure (Wasser:Salzsäure = 1:2) hinzu, dass die Petrischale annähernd gefüllt ist. Stelle die Waage direkt auf Null und stoppe ab jetzt die Zeit.
 2. Notiere in regelmäßigen zeitlichen Abständen die Massenabnahme.
-3. Beende nach ca. 5 Minuten die Reaktion. Wiederhole die Schritte 1-2 mit einem frischen Marmorstück und höher konzentrierter Salzsäure (Wasser:Salzsäure = 1:2).
+3. Beende nach ca. 5 Minuten die Reaktion. Wiederhole die Schritte 1-2 mit einem frischen Marmorstück und konzentrierter, nicht verdünnter Salzsäure.
 
 ### Teil 2
 
