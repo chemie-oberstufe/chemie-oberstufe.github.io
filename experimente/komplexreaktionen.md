@@ -27,6 +27,7 @@ Bearbeiten Sie in Lerngruppen jeweils unterschiedliche Teilaufgaben, soweit mög
 
 ## Geräte und Chemikalien
 
+- Kupfer(II)-sulfat-Pentahydrat 249,69 g/mol
 - Kupfer(II)-sulfatlösung, c=0,5&nbsp;mol/l, 10 ml {% include ghs name="gefahr" %} {% include ghs name="umweltgefährdend" %}
 - Kupfer(II)-sulfatlösung, c=0,1&nbsp;mol/l, durch Verdünnen herstellen {% include ghs name="gefahr" %} {% include ghs name="umweltgefährdend" %}
 - Salzsäure, konzentriert {% include ghs name="ätzend" %}
