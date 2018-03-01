@@ -32,6 +32,7 @@ Bearbeiten Sie in Lerngruppen jeweils unterschiedliche Teilaufgaben, soweit mög
 - Kupfer(II)-sulfatlösung, c=0,1&nbsp;mol/l, durch Verdünnen herstellen {% include ghs name="gefahr" %} {% include ghs name="umweltgefährdend" %}
 - Salzsäure, konzentriert {% include ghs name="ätzend" %}
 - Salzsäure, halbkonzentriert, durch Verdünnen herstellen {% include ghs name="ätzend" %}
+- Ammoniak, verdünnt {% include ghs name="ätzend" %} {% include ghs name="umweltgefahr" %}
 - Wasser
 - Reagenzgläser
 - Pipetten
