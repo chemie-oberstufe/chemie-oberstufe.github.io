@@ -13,7 +13,7 @@ Baue aus wenigen Materialien ein Modell eines Bleiakkumulators, der in angepasst
 
 2. Formuliere die Redoxgleichungen der ablaufenden Reaktionen beim Laden und beim Entladen. Bestimme die Oxidationszahlen und kennzeichne Oxidation und Reduktion. (**6 BE**)
 
-3. Fertige eine vollständig beschriftete Skizze des Versuchsaufbaus zum Bleiakkumulator an. Unterscheide bei der Beschriftung den Vorgang des Ladens und Entladens durch z.B. unterschiedliche Farbgebung.  
+3. Fertige eine vollständig beschriftete Skizze des Versuchsaufbaus zum Bleiakkumulator an. Unterscheide bei der Beschriftung den Vorgang des Ladens und Entladens durch z.B. unterschiedliche Farbgebung **oder** fertige für den Lade- und Entladevorgang jeweils separate Skizzen an.
 	Begriffe: Elektrolyt, Elektrode, Stromschlüssel, Anode, Kathode, Pluspol, Minuspol (**9 BE**)  
 	Kennzeichne in der Skizze die Vorgänge an den Elektroden beim Laden und Entladen. (**4 BE**)
 
