@@ -10,7 +10,7 @@ tags: [experiment, chemisches-gleichgewicht, pflichtexperiment]
 Führe die Experimente zum chemischen Gleichgewicht durch und bearbeite die Aufgaben.
 
 1. Protokolliere deine Beobachtungen zu beiden Experimenten (**6 BE**).
-2. Werte beide Experimente anhand deiner Beobachtungen und der Reaktionsgleichungen aus. Erläutere dabei die Begriffe dynamisches Gleichgewicht (**2 BE**), umkehrbare chemische Reaktion (**3 BE**) und das Prinzip von Le Chatelier (**7 BE**) (insgesamt **12 BE**).
+2. Werte beide Experimente anhand deiner Beobachtungen und der Reaktionsgleichungen aus. Erläutere dabei die Begriffe dynamisches Gleichgewicht (**4 BE**), umkehrbare chemische Reaktion (**4 BE**) und das Prinzip von Le Chatelier (**4 BE**) (insgesamt **12 BE**).
 
 ---
 
