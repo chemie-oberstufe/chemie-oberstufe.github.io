@@ -11,8 +11,9 @@ Allgemeiner Hinweis: Soweit nicht ausdrücklich gefordert, kann bei der Beantwor
 
 1. Berechne die benötigte Menge an Natriumhydroxid, um 10 ml einer Natriumhydroxidlösung mit einer Konzentration c = 2 mol/l herzustellen. Stelle die Lösung her. (**4 BE**)
 2. Führe das Experiment durch und protokolliere deine Beobachtungen. (**4 BE**)
-3. Formuliere den allgemeinen Reaktionsmechanismus für die Verseifung einer Fettsäure. (**4 BE**)
-4. Erkläre die Wirkungsweise der hergestellten Seife. Fertige eine Skizze an. (**4 BE**)
+3. Formuliere die Wort- und Reaktionsgleichung für die Reaktion einer Fettsäure mit Natronlauge.<br />
+   Vergleiche mit der Reaktion eines Fettes mit Natronlauge. (**4 BE**)
+4. Erkläre die Wirkungsweise der hergestellten Seife auf Wasser und das Olivenöl. Fertige Skizzen an. (**4 BE**)
 
 ---
 
