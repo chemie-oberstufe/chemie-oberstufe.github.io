@@ -1,5 +1,5 @@
 ---
-title: Seiten getaggt als "Wahlexperimente"
+title: Wahlexperimente
 layout: page
 showinmenu: true
 ---
