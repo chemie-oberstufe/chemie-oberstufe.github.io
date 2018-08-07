@@ -31,38 +31,37 @@ showinmenu: false
 1. Im gA-Kurs müsst ihr von 5 Themenkomplexen insgesamt 4 bearbeiten. Von den Bereichen **Thermochemie** und **Komplexchemie und Qualitative Analyse** 
 muss einer zur Bearbeitung gewählt werden.<br />
 
-2. Pflichtaufgaben pro Halbjahr
-	- 11/I: **5 Experimente** + Vollständigkeit der Unterlagen (ca. 18 Wochen)
-	- 11/II: **5 Experimente** + Vollständigkeit der Unterlagen (ca. 15 Wochen)
-	- 12/I: **4 Experimente** + Vollständigkeit der Unterlagen (ca. 15 Wochen)
-	- 12/II: **3 Experimente** + Vollständigkeit der Unterlagen (ca. 12 Wochen)<br /><br />  
-	- Summe: **17 Experimente** + 4 Noten für die Vollständigkeit der Unterlagen (ca. 60 Wochen)<br />
+2. Aufgaben pro Halbjahr
+	- 11/I: 4 Experimente + 1 LK + Vollständigkeit der Unterlagen (ca. 18 Wochen)
+	- 11/II: 4 Experimente + 1 LK + Vollständigkeit der Unterlagen (ca. 15 Wochen)
+	- 12/I: 4 Experimente + 1 LK + Vollständigkeit der Unterlagen (ca. 15 Wochen)
+	- 12/II: 3 Experimente + 1 LK + Vollständigkeit der Unterlagen (ca. 12 Wochen)<br /><br />  
+	- Summe: **15 Experimente** + 1 LK pro Halbjahr + 4 Noten für die Unterlagen (ca. 60 Wochen)<br />
 
-3. <a class="tag" href="/tags/pflichtexperiment">Pflichtexperimente</a> sind entsprechend gekennzeichnet und müssen bearbeitet werden.<br />
+3. <a class="tag" href="/tags/pflichtexperiment">Pflichtexperimente</a> sind zuerst zu bearbeiten.
 
-4. Die <a class="tag" href="/tags/wahlexperiment">Wahlexperimente</a> dürft ihr nach Interesse bearbeiten. Mit Wahlexperimenten erreicht ihr die Anzahl der Pflichtaufgaben.<br />
+4. Einmalig muss ein <a class="tag" href="/tags/wahlexperiment">Wahlexperiment</a> vorbereitet, im Chemiekurs vorgestellt und ausgewertet werden. Diese Note zählt als Experiment. <br />
 
-5. Als Mitglieder einer Lerngruppe müsst ihr unterschiedliche Wahlexperimente bearbeiten.<br />
+4. Bei Interesse kann __nach Rücksprache__ ein Pflichtexperiment durch ein Wahlexperiment zu einem verwandten Thema bearbeitet werden.
 
-6. Statt Wahlexperimenten könnt ihr auch nach Rücksprache einen Vortrag mit Arbeitsaufträgen für eure Mitschüler*Innen zu einem Thema halten.<br />
+5. Der Termin für die LK wird zu Beginn eines Halbjahres bekanntgegeben. Die Aufgaben beziehen sich auf die von euch in diesem Halbjahr bis zu diesem Termin bearbeiteten Themen bzw. Experimente.
 
-7. Insgesamt stehen euch ca. 60 Doppelstunden (bzw. Wochen) zur Verfügung. Je nach Thema und euren Vorkenntnissen kann es 
+6. Insgesamt stehen euch ca. 60 Doppelstunden (bzw. Wochen) zur Verfügung. Je nach Thema und euren Vorkenntnissen kann es 
 allerdings sein, dass ihr mehr oder auch weniger Zeit benötigt. Das ist gewollt. Wichtig ist, dass ihr **nicht wesentlich** länger braucht.<br />
 	Die 60 Doppelstunden verteilen sich **ungefähr** wie folgt:
 
-	1. Atommodelle, Redoxreaktionen, Elektrochemie (**25 Doppelstunden**)
+	1. Atommodelle, Redoxreaktionen, Elektrochemie (**22 Doppelstunden**)
 	2. Chemische Bindung, Organische Chemie (**18 Doppelstunden**)
-	3. Chemische Gleichgewichte (**12 Doppelstunden**)
+	3. Chemische Gleichgewichte (**15 Doppelstunden**)
 	4. Thermochemie/Komplexchemie (**5 Doppelstunden**)
 
 ## Bearbeitung eines Themas - Vollständigkeit der Unterlagen
 
-1. Grobplanung: Ferien, Prowos etc. markieren, Themen grob verteilen (siehe vorheriger Punkt)
-2. Thema erfassen: Lest die Themenseite auf der Homepage, macht euch mit Lernzielen, Materialien und Experimenten vertraut
-3. Feinplanung: __Arbeitsplan__ und Selbsteinschätzung, bei Bedarf eine Theoriestunde anmelden
-4. Arbeit am Thema
-5. Lerntagebuch: jede Stunde, Lernerfolg einschätzen, Aufgaben und Fragen für die Folgewoche notieren
-6. Rückblick: Arbeitsplan und __Selbsteinschätzung__ (5 Minuten)
+1. Thema erfassen: Lest die Themenseite und macht euch mit Lernzielen, Materialien und den zugehörigen Experimenten vertraut
+2. Planung: __Arbeitsplan__ erstellen und im Formular eintragen
+3. Arbeit am Thema
+4. __Lerntagebuch__: jede Stunde, Lernerfolg einschätzen, Aufgaben und Fragen für die Folgewoche notieren
+5. Rückblick: __Selbsteinschätzung__ 
 
 **Vollständige Unterlagen**
 - Lerntagebuch
