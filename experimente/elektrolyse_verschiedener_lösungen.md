@@ -5,6 +5,10 @@ showinmenu: false
 tags: [experiment, elektrolyse, wahlexperiment, unfertig]
 ---
 
+Gefährdungsbeurteilung 314 - Elektrolyse Zinkiodidlösung
+Gefährdungsbeurteilung 319 - Zinkchlorid, Salzsäure
+Gefährdungsbeurteilung 322 - Kupfer(II)-sulfatlösung
+
 ## Aufgabe
 
 ## Geräte und Chemikalien
