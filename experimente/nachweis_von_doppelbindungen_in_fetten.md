@@ -2,10 +2,15 @@
 title: 2.3 Nachweis von Doppelbindungen in Fetten
 layout: page
 showinmenu: false
-tags: [experiment, fette-und-tenside, wahlexperiment, unfertig]
+tags: [experiment, fette-und-tenside, wahlexperiment, lehrerversuch, abzug]
 ---
 
 Gefährdungsbeurteilungen 7-10 491, 534
+
+-> Lehrerversuch, da mit Brom gearbeitet wird
+-> Abzug notwendig, aber nicht vorhanden
+
+-> Ersatz von Brom durch in-situ hergestelltes Brom bei dieser Reaktion möglich?
 
 ## Aufgabe
 
