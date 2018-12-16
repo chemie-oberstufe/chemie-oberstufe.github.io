@@ -3,6 +3,7 @@ title: 1.3.3 Kupferraffination
 layout: page
 showinmenu: false
 tags: [experiment, elektrolyse, pflichtexperiment]
+page-last-updated: 2018-12-16
 ---
 
 ## Aufgabe
