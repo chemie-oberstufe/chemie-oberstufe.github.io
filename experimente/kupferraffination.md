@@ -28,14 +28,13 @@ page-last-updated: 2019-01-10
 - 1-, 2-, oder 5-Cent Münze und 10-, 20-, oder 50-Cent Münze
 - Krokodilklemmen, Kabel (blau und rot)
 - ggf. Multimeter
-- Kupfer(II)-sulfat-Lösung {% include ghs name="ätzend" %} {% include ghs name="umweltgefährdend" %} {% include ghs name="gefahr" %} 
-- Schwefelsäure {% include ghs name="ätzend" %} 
+- verdünnte Schwefelsäure {% include ghs name="ätzend" %} 
 
 ## Durchführung
 
 **Schutzbrille!**
 
-1. Fülle das Becherglas ca. 1 cm hoch mit Kupfer(II)-sulfat-Lösung. Gib ca. 1 ml Schwefelsäure hinzu.
+1. Fülle das Becherglas ca. 1 cm hoch mit verdünnter Schwefelsäure.
 2. Befestige die Krokodilklemmen und Kabel an äußersten Rand der Münzen: blau-Minuspol-1/2/5-Cent-Münze, rot-Pluspol-10/20/50-Cent-Münze. Schließe ggf. das Multimeter parallel an, um die angelegte Spannung genauer ablesen zu können.
 3. Stelle die Münzen so in die Kupfer(II)-sulfat-Lösung, dass die Krokodilklemmen nicht eintauchen und sich weder die Münzen, noch die beiden Krokodilklemmen berühren.
 4. Elektrolysiere mit einer Spannung von ca. 4-7 Volt. Arbeite idealerweise in der Nähe der Spannungsversorgung, um die Spannung bei Bedarf einfach anpassen zu können. Die Gasentwicklung sollte einerseits nicht zu stark sein, andererseits sollte nach wenigen Minuten eine deutliche Veränderung erkennbar sein.
