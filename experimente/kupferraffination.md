@@ -3,7 +3,7 @@ title: 1.3.3 Kupferraffination
 layout: page
 showinmenu: false
 tags: [experiment, elektrolyse, pflichtexperiment]
-page-last-updated: 2018-12-16
+page-last-updated: 2019-01-10
 ---
 
 ## Aufgabe
@@ -13,13 +13,14 @@ page-last-updated: 2018-12-16
 **Hinweis:** Die Münzen taugen anschließend wahrscheinlich nicht mehr als Zahlungsmittel. Verwende möglichst kleine Münzen oder verwende bereits beschädigte Münzen erneut.
 
 1. Führe das Experiment durch. Notiere deine Beobachtungen (**2 BE**).
-2. Skizziere den Versuchsaufbau. Markiere und beschrifte folgende Bestandteile: Rohkupferelektrode, Reinkupferelektrode, Pluspol, Minuspol, Anode, Kathode (**8 BE**).
-3. Formuliere die vollständige Reaktionsgleichung für die Elektrolyse. Markiere Oxidation und Reduktion und bestimme die Oxidationszahlen (**4 BE**). Werte das Experiment aus (**2 BE**).
+2. Skizziere den Versuchsaufbau. Markiere und beschrifte folgende Bestandteile: Rohkupferelektrode, Reinkupferelektrode, Pluspol, Minuspol, Anode, Kathode, Anodenschlamm (**9 BE**).
+3. Formuliere die vollständige Reaktionsgleichung für die Elektrolyse. Markiere Oxidation und Reduktion und bestimme die Oxidationszahlen (**4 BE**). Werte das Experiment aus (**3 BE**).
 4. Vergleiche die Begriffe Elektrolyse und Redoxreaktion (**3 BE**).
+5. Bewerte das Verfahren unter Gesichtspunkten der ökologischen und ökonomischen Nachhaltigkeit (**3 BE**).
 
 ---
 
-**Gesamtpunktzahl: 19 BE**
+**Gesamtpunktzahl: 24 BE**
 
 ## Geräte und Chemikalien
 
