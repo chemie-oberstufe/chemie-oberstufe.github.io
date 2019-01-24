@@ -9,18 +9,18 @@ tags: [experiment, galvanische-elemente, pflichtexperiment]
 
 **Zeitaufwand: ca. 30 Minuten**
 
-1. Stelle jeweils ca. 5 ml einer Kupfer(II)-sulfatlösung und einer Zinksulfatlösung (Achtung: liegt als Heptahydrat vor) mit einer Konzentration von jeweils c = 1 mol/l her. Berechne vorab die benötigten Stoffmengen. (**4 BE**)
+1. Stellen Sie jeweils ca. 5 ml einer Kupfer(II)-sulfatlösung und einer Zinksulfatlösung (Achtung: liegt als Heptahydrat vor) mit einer Konzentration von jeweils c = 1 mol/l her. Berechnen Sie vorab die benötigten Massen. (**4 BE**)
 
-2. Fertige eine vollständig beschriftete Skizze des Daniell-Elements an. (**7 BE**)  
+2. Fertigen Sie eine vollständig beschriftete Skizze des Daniell-Elements an. (**7 BE**)  
    Begriffe: Halbzelle, Elektrolyt, Elektrode, Stromschlüssel bzw. Salzbrücke, Anode, Kathode, Pluspol, Minuspol
 
-3. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**1 BE**)
+3. Führen Sie das Experiment durch. Protokolliere deine Beobachtungen. (**1 BE**)
 
-4. Formuliere die Redoxgleichungen der ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
+4. Formulieren Sie die Redoxgleichungen der ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
 
-5. Berechne die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung und bewerte das Ergebnis. (**4 BE**)
+5. Berechnen Sie die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleichen Sie mit der tatsächlich gemessenen Spannung und bewerten Sie das Ergebnis. (**4 BE**)
 
-6. Begründe die Richtung des Stromflusses mit Hilfe der Standardpotentiale. (**2 BE**)
+6. Begründen Sie die Richtung des Stromflusses mit Hilfe der Standardpotentiale. (**2 BE**)
 
 ---
 
@@ -41,12 +41,11 @@ tags: [experiment, galvanische-elemente, pflichtexperiment]
 ## Durchführung
 
 
-- Stelle Lösungen der Metallsalze mit der Konzentration c = 1 mol/l her (jeweils ca. 5 ml).
+- Stellen Sie Lösungen der Metallsalze mit der Konzentration c = 1 mol/l her (jeweils ca. 5 ml).
 - In eine Hälfte der Petrischale wird Kupfer(II)-sulfatlösung gegeben, in die andere Zinksulfatlösung. 
 - Die Metallbleche werden in die entsprechende Lösung getaucht: Zink zu Zn<sup>2+</sup> und Cu zu Cu<sup>2+</sup>.
 - Beide Hälften der Petrischale werden mit einem Streifen angefeuchtetem Filterpapier als Strombrücke verbunden.
 - Nun wird mit dem Multimeter zwischen beiden Elektroden die Spannung gemessen (Messbereich 2 Volt).
-
 
 - Es kann statt des Multimeters auch mittels Krokodilklemmen und Kabeln versucht werden, einen Motor mit dem Daniell-Element zu betreiben.
 
