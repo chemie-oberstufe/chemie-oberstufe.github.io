@@ -47,7 +47,7 @@ page-last-updated: 2019-02-20
 
 ### Durchführung (Teil 2)
 
-**Hinweis:** Arbeite bei guter Belüftung.
+**Hinweis:** Arbeiten Sie bei guter Belüftung.
 
 - Elektrolysieren Sie verdünnte Salzsäure in einem Becherglas. 
 - Legen Sie eine Gleichspannung an. Beginnen Sie bei 0 V und erhöhen Sie die Spannung, bis an beiden Elektroden eine Gasentwicklung erkennbar ist.
