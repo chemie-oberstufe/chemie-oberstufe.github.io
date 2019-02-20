@@ -7,7 +7,7 @@ tags: [experiment, redoxreaktionen, wahlexperiment, unfertig]
 
 ## Aufgabe
 
-Führe das Experiment durch. Präsentiere es im Chemiekurs und werte es aus.
+{% include wahlexperiment %}
 
 ## Geräte und Chemikalien
 
