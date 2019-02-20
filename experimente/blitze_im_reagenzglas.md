@@ -25,8 +25,8 @@ Führe das Experiment durch. Präsentiere es im Chemiekurs und werte es aus.
 
 ## Entsorgung
 
-* Ethanol vorsichtig mit einer Pasteurpipette entfernen und in einer Petrischale verdampfen lassen
-* Säure vorsichtig neutralisieren und die Lösung im Kanister für Schwermetalle entsorgen
+- Ethanol vorsichtig mit einer Pasteurpipette entfernen und in einer Petrischale verdampfen lassen
+- Säure vorsichtig neutralisieren und die Lösung im Kanister für Schwermetalle entsorgen
 
 ## Literatur und Materialien
 
