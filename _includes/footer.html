@@ -5,10 +5,10 @@
     <!--<h2 class="footer-heading">{{ site.title }}</h2>-->
 
     <div class="footer-col-1 column">
-      <ul>
+      <!--<ul>-->
         <!--<li>{{ site.title }}</li>-->
-        <li>Kontakt: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-      </ul>
+        <!--<li>--><p class="text">Kontakt: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p><!--</li>-->
+      <!--</ul>-->
     </div>
 
     <div class="footer-col-2 column">
@@ -53,7 +53,8 @@
     </div>
 
     <div class="footer-col-3 column">
-      <p class="text">{{ site.description }}</p>
+      <!-- {{ site.description }} -->
+	<p class="text">{{ page.title }} <em>Letztes Update: {{ page.page-last-updated }}</em></p>
     </div>
 
   </div>

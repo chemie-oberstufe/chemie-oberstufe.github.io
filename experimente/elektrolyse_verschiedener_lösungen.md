@@ -3,6 +3,7 @@ title: 1.3.3 Elektrolyse verschiedener Salz- und Säurelösungen
 layout: page
 showinmenu: false
 tags: [experiment, elektrolyse, wahlexperiment]
+page-last-updated: 2019-02-20
 ---
 
 ## Aufgabe
@@ -23,14 +24,15 @@ tags: [experiment, elektrolyse, wahlexperiment]
 
 ### Durchführung (Teil 1)
 
-- Stelle eine verdünnte Lösung von Zinkiodid in Wasser her und fülle das U-Rohr damit. 
-- Befestige Krokodilklemmen und Kabel an den Elektroden und setze sie in das U-Rohr.
-- Lege eine Gleichspannung an. Beginne bei 0 V und erhöhe die Spannung nach und nach, bis sichtbar Iod an einer der Elektroden abgeschieden wird.
-- Elektrolysiere für 1-2 Minuten. Entferne die Spannungsquelle und miss die Spannung zwischen beiden Elektroden mit einem Multimeter.
+- Stellen Sie eine verdünnte Lösung von Zinkiodid in Wasser her und füllen Sie das U-Rohr damit. 
+- Befestigen Sie Krokodilklemmen und Kabel an den Elektroden und setzen Sie sie in das U-Rohr.
+- Legen Sie eine Gleichspannung an. Beginnen Sie bei 0 V und erhöhen Sie die Spannung nach und nach, bis sichtbar Iod an einer der Elektroden abgeschieden wird.
+- Elektrolysieren Sie für 1-2 Minuten. Entfernen Sie die Spannungsquelle und messen Sie die Spannung zwischen beiden Elektroden mit einem Multimeter.
 
 ### Entsorgung (Teil 1)
 
-- Kanister für Schwermetalle.
+- Reduzieren Sie das Iod durch Zugabe von etwas Natriumthiosulfatlösung.
+- Entsorgung im Kanister für Schwermetalle.
 
 ## Teil 2 - Elektrolyse von Salzsäure
 
@@ -47,14 +49,14 @@ tags: [experiment, elektrolyse, wahlexperiment]
 
 **Hinweis:** Arbeite bei guter Belüftung.
 
-- Elektrolysiere verdünnte Salzsäure in einem Becherglas. 
-- Lege eine Gleichspannung an. Beginne bei 0 V und erhöhe die Spannung, bis an beiden Elektroden eine Gasentwicklung erkennbar ist.
-- Beende die Elektrolyse nach 1 Minute.
+- Elektrolysieren Sie verdünnte Salzsäure in einem Becherglas. 
+- Legen Sie eine Gleichspannung an. Beginnen Sie bei 0 V und erhöhen Sie die Spannung, bis an beiden Elektroden eine Gasentwicklung erkennbar ist.
+- Beenden Sie die Elektrolyse nach ca. 1 Minute.
 
 ### Entsorgung (Teil 2)
 
-- Reduziere das Chlorwasser durch Zugabe von etwas Natriumthiosulfatlösung.
-- Kanister für Schwermetalle.
+- Reduzieren Sie das Chlorwasser durch Zugabe von etwas Natriumthiosulfatlösung.
+- Anschließend Entsorgung im Kanister für Schwermetalle.
 
 ## Literatur und Materialien
 

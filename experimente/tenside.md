@@ -7,7 +7,7 @@ tags: [experiment, fette-und-tenside, wahlexperiment]
 
 ## Aufgabe
 
-{% include wahlaufgabe %}
+{% include wahlexperiment %}
 
 ## Geräte und Chemikalien
 

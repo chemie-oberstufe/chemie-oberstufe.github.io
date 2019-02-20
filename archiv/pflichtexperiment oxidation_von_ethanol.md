@@ -3,12 +3,31 @@ title: 2.2 Oxidation von Ethanol
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, wahlexperiment]
-page-last-updated: 2019-02-20
 ---
 
 ## Aufgabe
 
-{% include wahlexperiment %}
+Allgemeiner Hinweis: Soweit nicht ausdrücklich gefordert, kann bei der Beantwortung auf Geräte, Chemikalien und Durchführung verzichtet werden.
+
+1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**4 BE**)
+2. Formuliere die Strukturformeln für alle Ausgangsstoffe und Reaktionsprodukte. Vergleiche kurz die Formeln von 1) primären und sekundären Alkoholen und 2) Aldehyden und Ketonen. (**4 BE**)
+3. Formuliere die Wortgleichungen für die Oxidationsreaktionen und die Silberspiegelprobe. (**4 BE**)
+4. Formuliere die zugehörigen Redoxgleichungen (Teil- und Gesamtgleichung) und bestimme die Oxidationszahlen an Atomen, an denen eine Änderung auftritt. Bestimme Oxidationsmittel, Reduktionsmittel, Oxidation und Reduktion (**9 BE**)
+5. Formuliere die Kernaussage beider zusammengehöriger Experimente in eigenen Worten. (**2 BE**)
+
+---
+
+**Individuelle Aufgabe:** Bearbeitet in Lerngruppen jeweils unterschiedliche Aufgaben, soweit möglich.
+
+1. Formuliere die Summenformeln, die Strukturformeln und notiere die Siedetemperaturen der drei Stoffe. Erkläre die Unterschiede in den Siedetemperaturen. (**9 BE**)
+	* n-Butan, Butan-1-ol, Butan-2-on
+	* n-Pentan, Pentan-1-ol, Pentan-2-on
+	* n-Hexan, Hexan-1-ol, Hexan-2-on
+	* n-Heptan, Heptan-1-ol, Heptan-2-on
+
+---
+
+**Gesamt:** 32 BE
 
 ## Geräte und Chemikalien
 
