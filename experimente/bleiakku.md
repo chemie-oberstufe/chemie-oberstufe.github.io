@@ -71,6 +71,7 @@ Blei ist giftig und darf nicht in das Abwasser gelangen!
 
 - [Professor Blume: Funktionsmodell eines Blei-Akkumulators](http://www.chemieunterricht.de/dc2/auto/a-v-005.htm)
 - Elemente Chemie 2: Elektrochemische Stromerzeugung 268-273
+- [Simple Chemics: Die Autobatterie](https://www.youtube.com/watch?v=qaP69_oU9qc)
 
 
 
