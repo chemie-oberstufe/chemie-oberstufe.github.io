@@ -3,6 +3,7 @@ title: 2.3 Nachweis von Doppelbindungen in Fetten
 layout: page
 showinmenu: false
 tags: [experiment, fette-und-tenside, wahlexperiment, lehrerversuch, abzug]
+page-last-updated: 2019-03-29
 ---
 
 Gefährdungsbeurteilungen 7-10 491, 534

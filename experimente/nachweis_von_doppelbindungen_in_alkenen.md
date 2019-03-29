@@ -3,7 +3,18 @@ title: 2.2 Nachweis von Doppelbindungen in Alkenen (Baeyer-Probe)
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, pflichtexperiment]
+page-last-updated: 2019-03-29
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie](/themen/organische-chemie).
+
+- Bindungsverhältnisse und Strukturen in einer Übersicht darstellen
+- funktionelle Gruppen kennzeichnen
+- Vertreter der Stoffklassen benennen
+- typische Reaktionen zuordnen
+- das Struktur-Eigenschaften-Basiskonzept am Beispiel der organischen Verbindungen anwenden und an verschiedenen Beispielen erläutern
 
 ## Aufgabe
 

@@ -3,6 +3,7 @@ title: 2.2 Bildung eines Ethanolats
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, wahlexperiment]
+page-last-updated: 2019-03-29
 ---
 
 ## Aufgabe

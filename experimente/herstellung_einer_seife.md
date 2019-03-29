@@ -3,7 +3,17 @@ title: 2.3 Herstellung einer Seife
 layout: page
 showinmenu: false
 tags: [experiment, fette-und-tenside, pflichtexperiment]
+page-last-updated: 2019-03-29
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Fetten und Tensiden](/themen/fette-und-tenside).
+
+- basenkatalysierte Fettspaltung erläutern
+- den Bau von Tensiden beschreiben
+- Seifen als Tensidteilchen einordnen
+- Bildung, Struktur und Wirkung anionischer Tenside in Emulsionen erläutern
 
 ## Aufgabe
 

@@ -3,7 +3,14 @@ title: 3.2 Chemisches Gleichgewicht
 layout: page
 showinmenu: false
 tags: [experiment, chemisches-gleichgewicht, pflichtexperiment]
+page-last-updated: 2019-03-29
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zum Chemischen Gleichgewicht](/themen/chemisches-gleichgewicht).
+
+- umkehrbare Reaktionen beschreiben und die Einstellung chemischer Gleichgewichte erläutern
 
 ## Aufgabe
 

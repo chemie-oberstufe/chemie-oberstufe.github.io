@@ -3,7 +3,17 @@ title: 4b Komplexreaktionen
 layout: page
 showinmenu: false
 tags: [experiment, komplexchemie, pflichtexperiment]
+page-last-updated: 2019-03-29
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Komplexchemie](/themen/komplexchemie).
+
+- die Bildung von Wasserkomplexen von Salzen der Nebengruppenelemente beschreiben und die entstehenden Komplexe benennen
+- den Aufbau von Komplexen erläutern
+- die koordinative Bindung in Komplexen beschreiben
+- das Gleichgewichtskonzept auf den Ligandenaustausch anwenden
 
 ## Aufgabe
 

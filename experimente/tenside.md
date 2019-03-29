@@ -3,6 +3,7 @@ title: 2.3 Eigenschaften von Tensiden
 layout: page
 showinmenu: false
 tags: [experiment, fette-und-tenside, wahlexperiment]
+page-last-updated: 2019-03-29
 ---
 
 ## Aufgabe

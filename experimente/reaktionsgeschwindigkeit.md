@@ -3,7 +3,16 @@ title: 3.1 Abhängigkeit der Reaktionsgeschwindigkeit von Temperatur, Konzentrat
 layout: page
 showinmenu: false
 tags: [experiment, reaktionsverlauf-und-reaktionsgeschwindigkeit, pflichtexperiment]
+page-last-updated: 2019-03-29
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Reaktionsverlauf und Reaktionsgeschwindigkeit](/themen/reaktionsgeschwindigkeit).
+
+- den Verlauf einer chemischen Reaktion mit Hilfe der Stoßtheorie erklären und in einem Konzentration-Zeit-Diagramm darstellen
+- die Abhängigkeit der Reaktionsgeschwindigkeit von Temperatur und Konzentration erklären sowie verschiedenen Diagramme dazu erstellen und interpretieren
+- die Begriffe Katalysator und Katalyse definieren und die Wirkungsweise von Katalysatoren beschreiben
 
 ## Aufgabe
 

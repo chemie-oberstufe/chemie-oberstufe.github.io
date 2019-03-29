@@ -3,7 +3,18 @@ title: 1.3.4 Bleiakku
 layout: page
 showinmenu: false
 tags: [experiment, stromquellen, pflichtexperiment]
+page-last-updated: 2019-03-29
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Stromquellen](/themen/stromquellen) und [zu Galvanischen Elementen](/themen/galvanische-elemente)
+
+- die chemischen Reaktionen im Bleiakkumulator erläutern
+- die Potentialdifferenz einer galvanischen Zelle bei Standardbedingungen berechnen
+- den Aufbau galvanischer Zellen und die Bedeutung/Funktion der einzelnen Bestandteile am Beispiel des geladenen Bleiakkumulators erläutern
+- die Umweltrelevanz wiederaufladbarer elektrochemischer Elemente diskutieren
+- am Beispiel des Bleiakkumulators Probleme des Recyclings diskutieren
 
 ## Aufgabe
 

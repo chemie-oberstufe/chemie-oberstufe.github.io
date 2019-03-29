@@ -3,7 +3,15 @@ title: 2.1 Löslichkeit und Leitfähigkeit von Molekülverbindungen, Ionensubsta
 layout: page
 showinmenu: false
 tags: [experiment, chemische-bindung, pflichtexperiment]
+page-last-updated: 2019-03-29
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zur Chemischen Bindung](/themen/chemische-bindung).
+
+- Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern
+- das Struktur-Eigenschaften-Basiskonzept an Beispielen zu den Bindungsarten anwenden
 
 ## Aufgabe
 

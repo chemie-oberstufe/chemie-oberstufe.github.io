@@ -3,7 +3,17 @@ title: 3.3 Säure-Base-Reaktionen
 layout: page
 showinmenu: false
 tags: [experiment, säure-base-gleichgewichte, pflichtexperiment]
+page-last-updated: 2019-03-29
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Säure-Bae-Gleichgewichten](/themen/säure-base-gleichgewichte).
+
+- Säuren und Basen nach Arrhenius als Stoffklassen definieren und an Beispielen erläutern
+- Säuren und Basen nach Brönsted als Teilchen definieren und an Beispielen erläutern
+- Reaktionen einiger Stoffe mit Wasser unter Verwendung des Teilchenmodellsl mit der Brönsted-Theorie erklären und die korrespondierenden Säure-Base-Paare zuordnen
+- die saure und basische Reaktion von Salzlösungen mit Hilfe der Brönsted-Theorie qualitativ erklären
 
 ## Aufgabe
 
