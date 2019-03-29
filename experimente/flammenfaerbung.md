@@ -5,6 +5,15 @@ showinmenu: false
 tags: [experiment, atommodelle, pflichtexperiment]
 ---
 
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Atommodellen](/themen/atommodelle).
+
+- ein Atom in verschiedenen Modellen/Schreibweisen korrekt darstellen (Bohrsches Atommodell, Energiestufenmodell, Orbitalschreibweise/Kästchenschreibweise)
+- die Hundsche Regel und das Pauli-Prinzip anwenden
+- den Zusammenhang zwischen der Stellung eines Elementes im PSE und seiner Elektronenkonfiguration an Beispielen erläutern
+- das Energiestufenmodell am experimentellen Beispiel erläutern
+
 ## Aufgabe
 
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**6 BE**)

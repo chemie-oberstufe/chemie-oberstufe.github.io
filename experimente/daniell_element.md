@@ -3,7 +3,17 @@ title: 1.3.1 Daniell-Element
 layout: page
 showinmenu: false
 tags: [experiment, galvanische-elemente, pflichtexperiment]
+page-last-updated: 2019-03-27
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Galvanischen Elementen](/themen/galvanische-elemente).
+
+- die Entstehung der elektrochemischen Doppelschicht und die Bildung eines Elektrodenpotentials erklären
+- den Aufbau galvanischer Zellen und die Bedeutung/Funktion der einzelnen Bestandteile am Beispiel erläutern
+- die Potentialdifferenz in einer galvanischen Zelle bei Standardbedingungen berechnen
+- den Zusammenhang zwischen Elektrodenpotential, elektrochemischer Spannungsreihe, korrespondierenden Redoxpaaren und dem Verlauf von Redoxreaktionen erklären
 
 ## Aufgabe
 

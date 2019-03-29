@@ -16,7 +16,7 @@ Ich kann ...
 | Redoxpaare und Teilreaktionen angeben | | EC2 227-231, EC2 256 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4, EC2 256 A1-A4 | |
 | die Richtung von Redoxreaktionen anhand von Oxidationszahlen und mit Hilfe der elektrochemischen Spannungsreihe begründen | | EC2 227-231, EC2 248-251 | AB Redoxreaktionen, AB Redoxgleichungen, EC2 231 A2-A4 | |
 | Chlor durch Redoxreaktionen herstellen und nachweisen | | Experiment | | |
-| Eisen und Mangan durch Redoxreaktionen | | Experiment | | |
+| Redoxreaktionen mit Eisen- und Manganverbindungen durchführen | | Experiment | | |
 | großtechnische/industrielle Anwendungen von Redoxreaktionen beim Hochofenprozess und der Stahlherstellung | | EC2 234-241 | Kurzvortrag | |
 
 

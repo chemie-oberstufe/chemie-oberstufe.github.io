@@ -3,7 +3,7 @@ title: 1.3.3 Elektrolyse verschiedener Salz- und Säurelösungen
 layout: page
 showinmenu: false
 tags: [experiment, elektrolyse, wahlexperiment]
-page-last-updated: 2019-02-20
+page-last-updated: 2019-03-27
 ---
 
 ## Aufgabe

@@ -3,7 +3,18 @@ title: 1.2 Nachweis von Chlor mit Iodid-Stärke-Papier
 layout: page
 showinmenu: false
 tags: [experiment, redoxreaktionen, pflichtexperiment]
+page-last-updated: 2019-03-27
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Redoxreaktionen](/themen/redoxreaktionen).
+
+- Oxidationszahlen in Verbindungen bestimmen
+- vollständige Redoxgleichungen formulieren
+- Redoxpaare und Teilreaktionen angeben
+- Chlor durch Redoxreaktionen herstellen und nachweisen
+
 
 ## Aufgabe
 

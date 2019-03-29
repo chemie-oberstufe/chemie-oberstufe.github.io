@@ -1,9 +1,19 @@
 ---
-title: 1.3.1 Reaktionen verschiedener Metalle mit Metallsalzlösungen
+title: 1.2 Reaktionen verschiedener Metalle mit Metallsalzlösungen
 layout: page
 showinmenu: false
-tags: [experiment, redoxreaktionen, galvanische-elemente, wahlexperiment]
+tags: [experiment, redoxreaktionen, wahlexperiment]
+page-last-updated: 2019-03-27
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Redoxreaktionen](/themen/redoxreaktionen).
+
+- Oxidationszahlen in Verbindungen bestimmen
+- vollständige Redoxgleichungen formulieren
+- Redoxpaare und Teilreaktionen angeben
+- die Richtung von Redoxreaktionen anhand von Oxidationszahlen und mit Hilfe der elektrochemischen Spannungsreihe begründen
 
 ## Aufgabe
 

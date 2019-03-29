@@ -2,11 +2,21 @@
 title: 1.3.2 Korrosion und Korrosionsschutz
 layout: page
 showinmenu: false
-tags: [experiment, korrosion, pflichtexperiment]
+tags: [experiment, korrosion, pflichtexperiment, chemisches-rechnen]
+page-last-updated: 2019-03-27
 ---
+
 ## Worum geht's?
 
 Laut einer Studie (Quelle: siehe unten) vernichtet Korrosion jedes Jahr etwa drei Prozent des BIP in Industriestaaten. Grund genug, sich mit dem Phänomen und Möglichkeiten des Korrosionsschutzes zu befassen. 
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Korrosion](/themen/korrosion).
+
+- die Bildung von Lokalelementen und die Sauerstoffkorrosion erläutern
+- die Bedingungen für die Korrosion erläutern und daraus mehrere Möglichkeiten des Korrosionsschutzes ableiten
+- einfache chemische Rechnungen durchführen
 
 ## Aufgabe
 

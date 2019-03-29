@@ -3,6 +3,7 @@ title: 1.3.1 Galvanische Elemente
 layout: page
 showinmenu: false
 tags: [thema, elektrochemie, galvanische-elemente]
+page-last-updated: 2019-03-27
 ---
 
 {% comment %}

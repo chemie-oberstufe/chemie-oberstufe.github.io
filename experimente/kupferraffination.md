@@ -3,14 +3,22 @@ title: 1.3.3 Kupferraffination
 layout: page
 showinmenu: false
 tags: [experiment, elektrolyse, pflichtexperiment]
-page-last-updated: 2019-01-10
+page-last-updated: 2019-03-27
 ---
+
+## Lernziele
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Elektrolyse](/themen/elektrolyse).
+
+- die Elektrolyse als erzwungene Redoxreaktion beschreiben
+- die Elektrolyse von ausgewählten Salzlösungen erläutern
+- die chemischen Grundlagen für die Kupferraffination erläutern
 
 ## Aufgabe
 
 10-, 20- und 50-Cent-Münzen bestehen aus sogenanntem Nordischen Gold, einer Legierung aus 89% Kupfer, 5% Aluminium, 5% Zink und 1% Zinn. Diese Münzen dienen im Experiment als Rohkupfer, welches aufgereinigt werden soll.
 
-**Hinweis:** Die Münzen taugen anschließend wahrscheinlich nicht mehr als Zahlungsmittel. Verwende möglichst kleine Münzen oder verwende bereits beschädigte Münzen erneut.
+**Hinweis:** Die Münzen taugen anschließend nicht mehr als Zahlungsmittel. Verwende möglichst kleine Münzen oder verwende bereits beschädigte Münzen erneut.
 
 1. Führe das Experiment durch. Notiere deine Beobachtungen (**2 BE**).
 2. Skizziere den Versuchsaufbau. Markiere und beschrifte folgende Bestandteile: Rohkupferelektrode, Reinkupferelektrode, Pluspol, Minuspol, Anode, Kathode, Anodenschlamm (**9 BE**).
@@ -44,3 +52,6 @@ page-last-updated: 2019-01-10
 Entsorgung im Kanister für Schwermetalle. Spüle die verwendeten Geräte gründlich. Die Münzen können ebenfalls gespült werden. Die Münzen aus Nordischem Gold taugen aber möglicherweise nicht mehr als Zahlungsmittel.
 
 ## Literatur und Materialien
+
+- [Recycling von Kupfer und Kupferlegierungen - Deutsches Kupferinstitut](https://www.kupferinstitut.de/de/werkstoffe/system/recycling-kupfer.html)
+

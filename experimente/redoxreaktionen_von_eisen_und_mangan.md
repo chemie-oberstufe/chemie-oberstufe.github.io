@@ -3,7 +3,15 @@ title: 1.2 Redoxreaktionen von Eisen und Mangan
 layout: page
 showinmenu: false
 tags: [experiment, redoxreaktionen, wahlexperiment]
+page-last-updated: 2019-03-27
 ---
+
+Materialien und Übungen finden Sie auf [der Themenseite zu Redoxreaktionen](/themen/redoxreaktionen).
+
+- Oxidationszahlen in Verbindungen bestimmen
+- vollständige Redoxgleichungen formulieren
+- Redoxpaare und Teilreaktionen angeben
+- Redoxreaktionen von Eisen- und Manganverbindungen durchführen
 
 ## Aufgabe
 
