@@ -35,6 +35,8 @@ Bearbeiten Sie in Lerngruppen jeweils unterschiedliche Teilaufgaben, soweit mög
   - [Ag(NH<sub>3</sub>)<sub>2</sub>]Cl, [Ni(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>
   - [Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup>, [Cr(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>3</sub>
 
+**Gesamtpunktzahl: 30 BE**
+
 ## Geräte und Chemikalien
 
 - Kupfer(II)-sulfat-Pentahydrat 249,69 g/mol
