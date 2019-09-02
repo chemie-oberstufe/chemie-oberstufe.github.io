@@ -3,7 +3,7 @@ title: 2.1 Löslichkeit und Leitfähigkeit von Molekülverbindungen, Ionensubsta
 layout: page
 showinmenu: false
 tags: [experiment, chemische-bindung, pflichtexperiment]
-page-last-updated: 2019-03-29
+page-last-updated: 2019-09-01
 ---
 
 ## Lernziele

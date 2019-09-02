@@ -1,5 +1,5 @@
 ---
-title: 2.2 Eigenschaften und Reaktionen der Alkane
+title: 2.2.1 Eigenschaften und Reaktionen der Alkane
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, pflichtexperiment]

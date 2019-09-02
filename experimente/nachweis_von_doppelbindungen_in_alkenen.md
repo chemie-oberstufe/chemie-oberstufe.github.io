@@ -1,5 +1,5 @@
 ---
-title: 2.3 Nachweis von Doppelbindungen in Alkenen (Baeyer-Probe)
+title: 2.2.2 Nachweis von Doppelbindungen in Alkenen (Baeyer-Probe)
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, pflichtexperiment]

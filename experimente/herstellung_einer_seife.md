@@ -1,5 +1,5 @@
 ---
-title: 2.4 Herstellung einer Seife
+title: 2.3 Herstellung einer Seife
 layout: page
 showinmenu: false
 tags: [experiment, fette-und-tenside, pflichtexperiment]
