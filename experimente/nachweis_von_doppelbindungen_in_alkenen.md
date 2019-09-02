@@ -19,14 +19,14 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 ## Aufgabe
 
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**4 BE**)
-2. Auswertung: Formuliere die Reaktionsgleichung (mit Strukturformel) für die **ablaufende** Reaktion. Ordne den passenden Reaktionstyp zu. (**4 BE**)
-3. Erstelle eine Übersicht (z.B. Mindmap, Tabelle, Karteikarten, ...) über die Benennung, Bindungsverhältnisse bzw. funktionelle Gruppen der Alkane, Alkene, Alkine, Alkanole und Alkansäuren. Ordne den Stoffklassen typische Reaktionsarten mit je einem Beispiel zu. (**10 BE**) 
-4. Erkläre die Zunahme der Siedetemperaturen und Viskosität von Hexan bis Decan. (**4 BE**)
-5. Benzin und Wasser mischen sich nicht. Gibt man jedoch zusätzlich Ethanol hinzu, entsteht ein homogenes Gemisch. Erkläre. (**4 BE**)
+2. Auswertung: Formuliere die Reaktionsgleichung (mit Strukturformel) für die ablaufende Reaktion. Ordne den passenden Reaktionstyp zu. (**4 BE**)
+3. Erstelle in einer Mindmap eine Übersicht, über folgende Stoffklassen der organischen Chemie: Alkane, Alkene, Alkine, Alkanole, Alkanale, Alkanone und Alkansäuren.
+	- Notiere zu jeder Stoffklasse die funktionelle Gruppe und Informationen zur Benennung sowie typische Eigenschaften. (**2x7 = 14 BE**) 
+	- Ergänze typische Reaktionen, wo sinnvoll als beschriftete Verbindungen zwischen den Stoffklassen. (**7 BE**)
 
 ---
 
-**insgesamt 25 BE**
+**insgesamt 29 BE**
 
 ## Geräte und Chemikalien
 
