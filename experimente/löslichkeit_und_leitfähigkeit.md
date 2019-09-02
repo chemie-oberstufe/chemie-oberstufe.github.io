@@ -12,6 +12,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Chemischen Bindung]
 
 - Merkmale der Bindungsarten in einer Übersicht darstellen und an Beispielen erläutern
 - das Struktur-Eigenschaften-Basiskonzept an Beispielen zu den Bindungsarten anwenden
+- den Unterschied zwischen chemischer Bindung und zwischenmolekularen Wechselwirkungen erläutern !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! AUFGABE FORMULIEREN !!!
 
 ## Aufgabe
 

@@ -1,9 +1,9 @@
 ---
-title: 2.3 Herstellung einer Seife
+title: 2.4 Herstellung einer Seife
 layout: page
 showinmenu: false
 tags: [experiment, fette-und-tenside, pflichtexperiment]
-page-last-updated: 2019-03-29
+page-last-updated: 2019-08-26
 ---
 
 ## Lernziele

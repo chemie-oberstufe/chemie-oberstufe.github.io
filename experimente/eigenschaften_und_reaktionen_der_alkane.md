@@ -1,5 +1,5 @@
 ---
-title: 2.3 Nachweis von Doppelbindungen in Alkenen (Baeyer-Probe)
+title: 2.2 Eigenschaften und Reaktionen der Alkane
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, pflichtexperiment]
@@ -10,19 +10,24 @@ page-last-updated: 2019-08-26
 
 Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie](/themen/organische-chemie).
 
-- Bindungsverhältnisse und Strukturen in einer Übersicht darstellen
-- funktionelle Gruppen kennzeichnen
 - Vertreter der Stoffklassen benennen
-- typische Reaktionen zuordnen
 - das Struktur-Eigenschaften-Basiskonzept am Beispiel der organischen Verbindungen anwenden und an verschiedenen Beispielen erläutern
 
 ## Aufgabe
 
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**4 BE**)
-2. Auswertung: Formuliere die Reaktionsgleichung (mit Strukturformel) für die **ablaufende** Reaktion. Ordne den passenden Reaktionstyp zu. (**4 BE**)
-3. Erstelle eine Übersicht (z.B. Mindmap, Tabelle, Karteikarten, ...) über die Benennung, Bindungsverhältnisse bzw. funktionelle Gruppen der Alkane, Alkene, Alkine, Alkanole und Alkansäuren. Ordne den Stoffklassen typische Reaktionsarten mit je einem Beispiel zu. (**10 BE**) 
-4. Erkläre die Zunahme der Siedetemperaturen und Viskosität von Hexan bis Decan. (**4 BE**)
+2. Auswertung: Formuliere die Reaktionsgleichungen für die ablaufenden Verbrennungen. (**4 BE**)
+3. Es gibt zwei verschiedene Butane: n-Butan und iso-Butan. Erläutere den Begriff Isomerie (im Sinne der Konstitutionsisomerie) an diesem Beispiel. (**3 BE**)
+4. Erkläre die Zunahme der Siedetemperaturen und Viskosität von Butan bis Decan. (**4 BE**)
 5. Benzin und Wasser mischen sich nicht. Gibt man jedoch zusätzlich Ethanol hinzu, entsteht ein homogenes Gemisch. Erkläre. (**4 BE**)
+
+---
+
+**Individuelle Aufgabe** Bearbeitet in Lerngruppen jeweils vier unterschiedliche Stoffe.
+
+6. Benenne vier unterschiedliche Isomere des Heptans mit ihrem systematischen Namen. (**5 BE**)
+
+<a href="/images/heptanisomere.svg"><img src="/images/heptanisomere.svg" alt="Isomere des Heptans"></img></a>
 
 ---
 
