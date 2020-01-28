@@ -25,7 +25,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Chemischen Bindung]
 
 **Individuelle Aufgaben:** Bearbeitet in Lerngruppen jeweils zwei unterschiedliche Stoffe.
 
-1. Stelle die Grundzüge des Struktur-Eigenschaften-Basiskonzeptes dar. Wende es auf die experimentellen Ergebnisse bzw. typischen Eigenschaften von zwei der sieben Stoffe (inklsive Wasser) an. (**6 BE**)
+1. Stelle die Grundzüge des Struktur-Eigenschaften-Basiskonzeptes dar. Wende es auf die experimentellen Ergebnisse bzw. typischen Eigenschaften von zwei der sieben Stoffe (inklusive Wasser) an. (**6 BE**)
 
 ---
 
