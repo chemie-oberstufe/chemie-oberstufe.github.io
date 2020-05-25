@@ -22,7 +22,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 2. Auswertung: Formuliere die Reaktionsgleichung (mit Strukturformel) für die ablaufende Reaktion. Ordne den passenden Reaktionstyp zu. (**4 BE**)
 3. Erstelle in einer Mindmap eine Übersicht, über folgende Stoffklassen der organischen Chemie: Alkane, Alkene, Alkine, Alkanole, Alkanale, Alkanone und Alkansäuren.
 	- Notiere zu jeder Stoffklasse die funktionelle Gruppe und Informationen zur Benennung sowie typische Eigenschaften. (**2x7 = 14 BE**) 
-	- Ergänze typische Reaktionen der Stoffklassen. Die können auch als beschriftete Pfeile zwischen den Stoffklassen ausgeführt werden.  (**7 BE**)
+	- Ergänze typische Reaktionen der Stoffklassen. Diese können zum Beispiel als beschriftete Pfeile zwischen den Stoffklassen ausgeführt werden.  (**7 BE**)
 
 ---
 
