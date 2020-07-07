@@ -25,13 +25,13 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 
 **Individuelle Aufgabe** Bearbeitet in Lerngruppen jeweils vier unterschiedliche Stoffe.
 
-6. Benenne vier unterschiedliche Isomere des Heptans mit ihrem systematischen Namen. (**5 BE**)
+6. Benenne vier unterschiedliche Isomere des Heptans mit ihrem systematischen Namen. (**4 BE**)
 
-<a href="/images/heptanisomere.svg"><img src="/images/heptanisomere.svg" alt="Isomere des Heptans"></img></a>
+<a href="/images/heptanisomere.svg"><img src="/images/heptanisomere.svg" alt="Isomere des Heptans" /></a>
 
 ---
 
-**insgesamt 25 BE**
+**insgesamt 24 BE**
 
 ## Geräte und Chemikalien
 
