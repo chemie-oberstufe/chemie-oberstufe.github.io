@@ -1,5 +1,5 @@
 ---
-title: Z Blitze im Reagenzglas
+title: Blitze im Reagenzglas
 layout: page
 showinmenu: false
 tags: [experiment, redoxreaktionen, wahlexperiment, unfertig]

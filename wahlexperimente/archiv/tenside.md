@@ -2,7 +2,8 @@
 title: 2.3 Eigenschaften von Tensiden
 layout: page
 showinmenu: false
-tags: [experiment, fette-und-tenside, wahlexperiment]
+ehemalige-tags: [experiment, fette-und-tenside, wahlexperiment]
+tags: [archiv]
 page-last-updated: 2019-03-29
 ---
 
