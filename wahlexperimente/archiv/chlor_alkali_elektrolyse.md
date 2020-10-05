@@ -2,7 +2,8 @@
 title: 1.3 Chlor-Alkali-Elektrolyse
 layout: page
 showinmenu: false
-tags: [experiment, elektrolyse, wahlexperiment, unfertig]
+ehemalige-tags: [experiment, elektrolyse, wahlexperiment, unfertig]
+tags: [archiv]
 page-last-updated: 2019-03-27
 ---
 

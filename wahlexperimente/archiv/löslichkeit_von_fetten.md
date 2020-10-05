@@ -2,7 +2,8 @@
 title: 2.3 Löslichkeit von Fetten
 layout: page
 showinmenu: false
-tags: [experiment, fette-und-tenside, wahlexperiment, lehrerversuch, abzug]
+ehemalige-tags: [experiment, fette-und-tenside, wahlexperiment, lehrerversuch, abzug]
+tags: [archiv]
 page-last-updated: 2019-03-29
 ---
 

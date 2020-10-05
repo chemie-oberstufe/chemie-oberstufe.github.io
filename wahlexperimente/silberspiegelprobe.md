@@ -1,5 +1,5 @@
 ---
-title: 2.2 Oxidation von Ethanol
+title: Silberspiegelprobe
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, wahlexperiment]
