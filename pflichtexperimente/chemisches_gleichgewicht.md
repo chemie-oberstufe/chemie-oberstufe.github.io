@@ -16,12 +16,13 @@ Materialien und Übungen finden Sie auf [der Themenseite zum Chemischen Gleichge
 
 Führe die Experimente zum chemischen Gleichgewicht durch und bearbeite die Aufgaben.
 
-1. Protokolliere deine Beobachtungen zu beiden Experimenten (**6 BE**).
-2. Werte beide Experimente anhand deiner Beobachtungen und der Reaktionsgleichungen aus. Erläutere dabei die Begriffe dynamisches Gleichgewicht (**4 BE**), umkehrbare chemische Reaktion (**4 BE**) und das Prinzip von Le Chatelier (**4 BE**) (insgesamt **12 BE**).
+1. Berechnen Sie die benötigten Massen zur Herstellung der Stärkelösung und der drei Lösungen aus Experiment 2. (**1 BE + 3 BE**)
+2. Protokollieren Sie ihre Beobachtungen zu beiden Experimenten (**6 BE**).
+3. Werten Sie beide Experimente anhand ihrer Beobachtungen und der Reaktionsgleichungen aus. Erläutern Sie dabei die Begriffe dynamisches Gleichgewicht (**4 BE**), umkehrbare chemische Reaktion (**4 BE**) und das Prinzip von Le Chatelier (**4 BE**) (insgesamt **12 BE**).
 
 ---
 
-**Gesamtpunktzahl: 18 BE**
+**Gesamtpunktzahl: 22 BE**
 
 ## Geräte und Chemikalien
 
@@ -61,8 +62,15 @@ Führe die Experimente zum chemischen Gleichgewicht durch und bearbeite die Aufg
 
 ### 2) Einfluss der Konzentration auf das Chemische Gleichgewicht
 
-1. Gib ca. 15 ml Wasser in ein kleines Becherglas. Gib je 1 Pipette Eisen(III)-chlorid-Lösung und Ammoniumthiocyanat-Lösung hinzu. Die Lösung soll tief orange-rot werden. Verteile die Lösung gleichmäßig auf 4 Reagenzgläser.
-2. Das erste Reagenzglas dient zum Vergleich. Gib in das zweite Reagenzglas etwas Eisen(III)-chlorid-Lösung, in das dritte Reagenzglas etwas Ammoniumthiocyanat-Lösung und in das vierte Reagenzglas eine Spatelspitze Ammoniumchlorid (schütteln).
+1. Stellen Sie jeweils 20 ml einer wässrigen Lösung der Stoffe Eisen(III)-chlorid, Ammoniumthiocyanat und Ammoniumchlorid mit der Konzentration n = 0,00004 mol/Liter her.
+2. Geben Sie in einem kleinen Becherglas jeweils 10 ml der Lösungen von Eisen(III)-chlorid und Ammoniumthiocyanat zusammen. Die Lösung soll tief orange-rot werden. 
+3. Füllen Sie nun 5 Reagenzgläser jeweils mit der gleichen Menge dieser Lösung (ca. 2 cm hoch).
+4. Schritt
+	1. Das erste Reagenzglas dient zum Vergleich.
+	2. Geben Sie in das zweite Reagenzglas 1 ml Eisen(III)-chlorid-Lösung.
+	3. Geben Sie in das dritte Reagenzglas 1 ml Ammoniumthiocyanat-Lösung.
+	4. Geben Sie in das vierte Reagenzglas 1 ml Ammoniumchlorid-Lösung.
+	5. Geben Sie in das fünfte Reagenzglas 1 ml Wasser.
 
 ## Hinweise
 
