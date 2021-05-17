@@ -44,7 +44,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Elektrolyse](/themen
 
 1. Fülle das Becherglas ca. 1 cm hoch mit verdünnter Schwefelsäure.
 2. Befestige die Krokodilklemmen und Kabel an äußersten Rand der Münzen: blau-Minuspol-1/2/5-Cent-Münze, rot-Pluspol-10/20/50-Cent-Münze. Schließe ggf. das Multimeter parallel an, um die angelegte Spannung genauer ablesen zu können.
-3. Stelle die Münzen so in die verdünnte Salzsäure, dass die Krokodilklemmen nicht eintauchen und sich weder die Münzen, noch die beiden Krokodilklemmen berühren.
+3. Stelle die Münzen so in die verdünnte Schwefelsäure, dass die Krokodilklemmen nicht eintauchen und sich weder die Münzen, noch die beiden Krokodilklemmen berühren.
 4. Elektrolysiere mit einer Spannung von ca. 4-7 Volt. Arbeite idealerweise in der Nähe der Spannungsversorgung, um die Spannung bei Bedarf einfach anpassen zu können. Die Gasentwicklung sollte einerseits nicht zu stark sein, andererseits sollte nach wenigen Minuten eine deutliche Veränderung erkennbar sein.
 
 ## Entsorgung
