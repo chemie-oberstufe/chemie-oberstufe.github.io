@@ -62,7 +62,7 @@ Führe die Experimente zum chemischen Gleichgewicht durch und bearbeite die Aufg
 
 ### 2) Einfluss der Konzentration auf das Chemische Gleichgewicht
 
-1. Stellen Sie jeweils 20 ml einer wässrigen Lösung der Stoffe Eisen(III)-chlorid, Ammoniumthiocyanat und Ammoniumchlorid mit der Konzentration n = 0,00004 mol/Liter her.
+1. Stellen Sie jeweils 20 ml einer wässrigen Lösung der Stoffe Eisen(III)-chlorid, Ammoniumthiocyanat und Ammoniumchlorid mit der Konzentration c = 0,00004 mol/Liter her.
 2. Geben Sie in einem kleinen Becherglas jeweils 10 ml der Lösungen von Eisen(III)-chlorid und Ammoniumthiocyanat zusammen. Die Lösung soll tief orange-rot werden. 
 3. Füllen Sie nun 5 Reagenzgläser jeweils mit der gleichen Menge dieser Lösung (ca. 2 cm hoch).
 4. Schritt
