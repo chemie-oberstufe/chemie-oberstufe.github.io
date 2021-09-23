@@ -36,7 +36,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Komplexchemie](/them
 
 ## Durchführung
 
-1. Stellen Sie zuerst 5 ml einer Kupfer(II)-sulfatlösung mit einer Gewichtskonzentration von w = 5 % her. Teilen Sie die Lösung auf zwei Reagenzgläser auf.
+1. Stellen Sie zuerst 5 ml einer Kupfer(II)-sulfatlösung mit einer Massenanteil von w = 5 % her. Teilen Sie die Lösung auf zwei Reagenzgläser auf.
 2. Geben Sie in eins der Reagenzgläser wenig Kochsalz und lösen sie es durch schütteln. Das zweite Reagenzglas dient dem Vergleich.
 3. Wiederholen Sie Schritt 2 bis zur Farbänderung. Beobachten Sie die Farbänderung.
 4. Verdünnen Sie nun die Lösung mit Wasser und beobachten Sie erneut die Farbänderung.
