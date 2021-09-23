@@ -19,11 +19,11 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Komplexchemie](/them
 
 1. Führen Sie das Experiment durch und notieren Sie ihre Beobachtungen.
 2. Werten Sie das Experiment aus. 
-	a) Formulieren Sie die Formeln der beteiligten Komplexe: Hexaaquakupfer(II)-Komplex, Tetrachlorokupfer(II)-Komplex
-	b) Formulieren Sie die Reaktionsgleichung für diese Gleichgewichtsreaktion und ordnen Sie die jeweils passenden Beobachtungen zu.
-	c) Skizzieren Sie die Strukturen der beiden Komplexe.
-	d) Beschreiben Sie die koordinative Bindung im Aquakomplex.
-	e) Vergleichen Sie die koordinative Bindung im Aquakomplex mit der im Chlorokomplex.
+	1. Formulieren Sie die Formeln der beteiligten Komplexe: Hexaaquakupfer(II)-Komplex, Tetrachlorokupfer(II)-Komplex
+	2. Formulieren Sie die Reaktionsgleichung für diese Gleichgewichtsreaktion und ordnen Sie die jeweils passenden Beobachtungen zu.
+	3. Skizzieren Sie die Strukturen der beiden Komplexe.
+	4. Beschreiben Sie die koordinative Bindung im Aquakomplex.
+	5. Vergleichen Sie die koordinative Bindung im Aquakomplex mit der im Chlorokomplex.
 
 ## Geräte und Chemikalien
 
