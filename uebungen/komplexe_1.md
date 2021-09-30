@@ -24,6 +24,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Komplexchemie](/them
 	3. Skizzieren Sie die Strukturen der beiden Komplexe.
 	4. Beschreiben Sie die koordinative Bindung im Aquakomplex.
 	5. Vergleichen Sie die koordinative Bindung im Aquakomplex mit der im Chlorokomplex.
+	6. Beschreiben Sie den stattfindenden Ligandenaustausch.
 
 ## Geräte und Chemikalien
 
