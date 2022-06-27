@@ -36,7 +36,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Galvanischen Element
 
 ---
 
-**Gesamtpunktzahl: 21 BE**
+**Gesamtpunktzahl: 25 BE**
 
 ## Geräte und Chemikalien
 
