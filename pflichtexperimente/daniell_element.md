@@ -3,7 +3,7 @@ title: 1.3.1 Daniell-Element
 layout: page
 showinmenu: false
 tags: [experiment, galvanische-elemente, pflichtexperiment]
-page-last-updated: 2019-03-27
+page-last-updated: 2022-06-03
 ---
 
 ## Lernziele
@@ -24,13 +24,15 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Galvanischen Element
 2. Fertigen Sie eine vollständig beschriftete Skizze des Daniell-Elements an. (**7 BE**)  
    Begriffe: Halbzelle, Elektrolyt, Elektrode, Stromschlüssel bzw. Salzbrücke, Anode, Kathode, Pluspol, Minuspol
 
-3. Führen Sie das Experiment durch. Protokolliere deine Beobachtungen. (**1 BE**)
+3. Führen Sie das Experiment durch. Protokollieren Sie die Beobachtungen. (**1 BE**)
 
-4. Formulieren Sie die Redoxgleichungen der ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
+4. Erläutern Sie Vorgänge an der Zinkelektrode in der Zink-Halbzelle an einer Skizze (Stichwort: elektrochemische Doppelschicht). (**4 BE**)
 
-5. Berechnen Sie die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleichen Sie mit der tatsächlich gemessenen Spannung und bewerten Sie das Ergebnis. (**4 BE**)
+5. Formulieren Sie die Redoxgleichungen der ablaufenden Reaktionen (Halbzellen und Gesamtgleichung). (**3 BE**)
 
-6. Begründen Sie die Richtung des Stromflusses mit Hilfe der Standardpotentiale. (**2 BE**)
+6. Berechnen Sie die Spannung des Daniell-Elements mit Hilfe der Standardpotentiale. Vergleichen Sie mit der tatsächlich gemessenen Spannung und bewerten Sie das Ergebnis. (**4 BE**)
+
+7. Begründen Sie die Richtung des Stromflusses mit Hilfe der Standardpotentiale. (**2 BE**)
 
 ---
 
