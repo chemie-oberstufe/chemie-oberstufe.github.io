@@ -19,7 +19,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Galvanischen Element
 
 **Zeitaufwand: ca. 30 Minuten**
 
-1. Stellen Sie jeweils ca. 5 ml einer Kupfer(II)-sulfatlösung und einer Zinksulfatlösung (Achtung: liegt als Heptahydrat vor) mit einer Konzentration von jeweils c = 1 mol/l her. Berechnen Sie vorab die benötigten Massen. (**4 BE**)
+1. Stellen Sie jeweils ca. 5 ml einer Kupfer(II)-sulfatlösung und einer Zinksulfatlösung (Achtung: liegt als Heptahydrat vor) mit einer Konzentration von jeweils c = 0,1 mol/l her. Berechnen Sie vorab die benötigten Massen. (**4 BE**)
 
 2. Fertigen Sie eine vollständig beschriftete Skizze des Daniell-Elements an. (**7 BE**)  
    Begriffe: Halbzelle, Elektrolyt, Elektrode, Stromschlüssel bzw. Salzbrücke, Anode, Kathode, Pluspol, Minuspol
@@ -43,8 +43,8 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Galvanischen Element
 {% include figure name="daniell_element.png" alt="Versuchsaufbau des Daniell-Elements" caption="Lanzi at the German language Wikipedia (GFDL or CC-BY-SA-3.0), https://commons.wikimedia.org/wiki/File:Daniellelement.png" width="500px" %}
 
 - Metallbleche: Kupfer, Zink
-- Kupfer(II)-sulfatlösung, 1 mol/l (M =  249,7 g/mol als Pentahydrat) {% include ghs name="umweltgefährdend" %}
-- Zinksulfatlösung, 1 mol/l (M = 287,5 g/mol als Heptahydrat) {% include ghs name="umweltgefährdend" %}
+- Kupfer(II)-sulfatlösung, 0,1 mol/l (M =  249,7 g/mol als Pentahydrat) {% include ghs name="umweltgefährdend" %}
+- Zinksulfatlösung, 0,1 mol/l (M = 287,5 g/mol als Heptahydrat) {% include ghs name="umweltgefährdend" %}
 - Petrischale, zweigeteilt
 - Filterpapier
 - Multimeter
@@ -53,7 +53,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Galvanischen Element
 ## Durchführung
 
 
-- Stellen Sie Lösungen der Metallsalze mit der Konzentration c = 1 mol/l her (jeweils ca. 5 ml).
+- Stellen Sie Lösungen der Metallsalze mit der Konzentration c = 0,1 mol/l her (jeweils ca. 5 ml).
 - In eine Hälfte der Petrischale wird Kupfer(II)-sulfatlösung gegeben, in die andere Zinksulfatlösung. 
 - Die Metallbleche werden in die entsprechende Lösung getaucht: Zink zu Zn<sup>2+</sup> und Cu zu Cu<sup>2+</sup>.
 - Beide Hälften der Petrischale werden mit einem Streifen angefeuchtetem Filterpapier als Strombrücke verbunden.
