@@ -67,7 +67,7 @@ Entstehende Eisen(II)-Ionen werden mit Hilfe von Kaliumhexacyanidoferrat(III) al
 1. Reinige die Nägel bei Bedarf mit Schleifpapier und etwas Ethanol. 
 2. **Schnelle Variante**: Setze ca. 30 ml einer Lösung von Natriumchlorid (1 mol/l) und Kaliumhexacyanidoferrat(III) an.  
 	**Alternative**: Setze die Lösung ebenso an, koche sie aber zusätzlich kurz mit etwas Agar Agar (ca. 1/8 Teelöffel) auf.
-3. Fülle die Lösung in eine Petrischale. Ein Nagel wird mit Kupferdraht umwickelt, der zweite mit Aluminiumfolie, der dritte dient dem Vergleich. Lege die drei Nägel so in die Petrischale, dass sie vollständig von der Lösung bedeckt sind.
+3. Fülle die Lösung in eine Petrischale. Ein Nagel wird mit einem Stück Kupferblech umwickelt, der zweite mit Aluminiumfolie, der dritte dient dem Vergleich. Lege die drei Nägel so in die Petrischale, dass sie vollständig mit der Lösung bedeckt sind.
 4. Beobachte regelmäßig.
 
 ## Entsorgung
