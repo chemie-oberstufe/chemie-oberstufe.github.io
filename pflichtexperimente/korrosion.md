@@ -3,12 +3,12 @@ title: 1.3.2 Korrosion und Korrosionsschutz
 layout: page
 showinmenu: false
 tags: [experiment, korrosion, pflichtexperiment, chemisches-rechnen]
-page-last-updated: 2022-09-02
+page-last-updated: 2022-09-06
 ---
 
 ## Worum geht's?
 
-Laut einer Studie (Quelle: siehe unten) vernichtet Korrosion jedes Jahr etwa drei Prozent des BIP in Industriestaaten. Grund genug, sich mit dem Phänomen und Möglichkeiten des Korrosionsschutzes zu befassen. 
+Laut eines Zeitungsartikels (Quelle: siehe unten) vernichtet Korrosion jedes Jahr etwa drei Prozent des BIP in Industriestaaten. Man darf diese Zahl mit Vorsicht betrachten, denn wo immer ein Schaden enteht, öffnet sich für ein Unternehmen ein potenzieller Markt im Bereich Korrosionsbekämpfung und -vorbeugung.
 
 ## Lernziele
 
@@ -22,7 +22,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Korrosion](/themen/k
 
 1. Berechne die benötigten Mengen an Natriumchlorid (M=58,5 g/mol) und Kaliumhexacyanidoferrat(III) (M=329,3 g/mol), um 30 ml einer Lösung der Stoffe in Wasser herzustellen.  
 	Natriumchlorid: c = 0,1 mol/l  
-	Kaliumhexacyanidoferrat(III): c = 0,01 mol/l (**4 BE**)
+	Kaliumhexacyanidoferrat(III): c = 0,01 mol/l (**2 BE**)
 2. Fertige eine beschriftete Skizze des Versuchsaufbaus an. (**3 BE**)
 3. Führe das Experiment durch und protokolliere deine Beobachtungen. (**3 BE**)
 4. Erkläre die Ergebnisse unter Verwendung der unten genannten Fachbegriffe. (**6 BE**)
@@ -31,17 +31,11 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Korrosion](/themen/k
 
 **Individueller Aufgabenteil**
 
-Bearbeitet in Lerngruppen jeweils eine unterschiedliche Aufgabe aus diesem Bereich, soweit möglich.
-
-1. Bearbeite **eine** der folgenden Aufgaben:	(**3 BE**)  
-	a) Erläutere das Prinzip des Korrosionsschutzes am Beispiel des Vollverzinkens.  
-	b) Erläutere, weshalb eine teilweise Beschichtung mit Edelmetallen keine wirksame Maßnahme zum Schutz von Stahl vor Korrosion sein kann.  
-	c) Erläutere das Prinzip des Korrosionsschutzes für den speziellen Fall des Aluminiums.  
-	d) Erläutere das Prinzip des Korrosionsschutzes am Beispiel von Schiffsrümpfen. 
+1. Wie kann ein Unternehmen vom Phänomen der Korrosion profitieren? Gehen Sie bei der Beantwortung dieser Frage auf die Hintergründe zu Ursachen, Bekämpfung und Vorbeugung von Korrosion ein. (**6 BE**)
 
 ---
 
-**Gesamtpunktzahl: 19 BE**
+**Gesamtpunktzahl: 20 BE**
 
 ## Fachbegriffe und Konzepte:
 
