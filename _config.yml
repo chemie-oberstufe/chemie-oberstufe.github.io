@@ -6,8 +6,8 @@ baseurl: ""
 url: "https://chemie-oberstufe.github.io"
 
 # Build settings
-markdown: kramdown
-#markdown: CommonMark
+#markdown: kramdown
+markdown: CommonMark
 permalink: pretty
 
 # Gems
