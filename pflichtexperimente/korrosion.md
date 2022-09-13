@@ -3,12 +3,12 @@ title: 1.3.2 Korrosion und Korrosionsschutz
 layout: page
 showinmenu: false
 tags: [experiment, korrosion, pflichtexperiment, chemisches-rechnen]
-page-last-updated: 2022-09-06
+page-last-updated: 2022-09-13
 ---
 
 ## Worum geht's?
 
-Laut eines Zeitungsartikels (Quelle: siehe unten) vernichtet Korrosion jedes Jahr etwa drei Prozent des BIP in Industriestaaten. Man darf diese Zahl mit Vorsicht betrachten, denn wo immer ein Schaden enteht, öffnet sich für ein Unternehmen ein potenzieller Markt im Bereich Korrosionsbekämpfung und -vorbeugung.
+Laut eines [Zeitungsartikels](http://www.tagesspiegel.de/wirtschaft/studie-rost-vernichtet-jaehrlich-drei-prozent-des-bip/1641884.html) vernichtet Korrosion jedes Jahr etwa drei Prozent des BIP in Industriestaaten. Man darf diese Zahl mit Vorsicht betrachten, denn wo immer ein Schaden enteht, öffnet sich für ein Unternehmen ein potenzieller Markt im Bereich Korrosionsbekämpfung und -vorbeugung.
 
 Glaubt man dieser Statistik, eröffnet sich für Deutschland ein Markt von ca. 108 Milliarden Euro jährlich ([BIP 2021: ca. 3600 Mrd. Euro](https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/Tabellen/bip-bubbles.html).
 
