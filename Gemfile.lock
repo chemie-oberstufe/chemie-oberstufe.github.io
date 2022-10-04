@@ -8,7 +8,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    commonmarker (0.23.5)
+    commonmarker (0.23.6)
 
 PLATFORMS
   ruby
