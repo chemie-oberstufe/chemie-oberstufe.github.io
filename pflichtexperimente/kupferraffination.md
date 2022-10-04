@@ -3,7 +3,7 @@ title: 1.3.3 Kupferraffination
 layout: page
 showinmenu: false
 tags: [experiment, elektrolyse, pflichtexperiment]
-page-last-updated: 2021-05-17
+page-last-updated: 2022-10-04
 ---
 
 ## Lernziele
@@ -21,20 +21,21 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Elektrolyse](/themen
 **Hinweis:** Die Münzen taugen anschließend nicht mehr als Zahlungsmittel. Verwende möglichst kleine Münzen oder verwende bereits beschädigte Münzen erneut.
 
 1. Führe das Experiment durch. Notiere deine Beobachtungen (**2 BE**).
-2. Skizziere den Versuchsaufbau. Markiere und beschrifte folgende Bestandteile: Rohkupferelektrode, Reinkupferelektrode, Pluspol, Minuspol, Anode, Kathode, Anodenschlamm (**9 BE**).
-3. Formuliere die vollständige Reaktionsgleichung für die Elektrolyse. Markiere Oxidation und Reduktion und bestimme die Oxidationszahlen (**4 BE**). Werte das Experiment aus (**3 BE**).
+2. Skizziere den Versuchsaufbau. Markiere und beschrifte folgende Bestandteile: Rohkupferelektrode, Reinkupferelektrode, Pluspol, Minuspol, Anode, Kathode, Anodenschlamm (**4 BE**).
+3. Formuliere die vollständige Reaktionsgleichung für die Elektrolyse. Markiere Oxidation und Reduktion und bestimme die Oxidationszahlen (**2 BE**). 
+4. Werte das Experiment aus, erkläre die Veränderungen der Massen der Münzen sowie den Verbleib der Verunreinigungen. (**4 BE**)
 4. Vergleiche die Begriffe Elektrolyse und Redoxreaktion (**3 BE**).
-5. Bewerte das Verfahren unter Gesichtspunkten der ökologischen und ökonomischen Nachhaltigkeit (**3 BE**).
+5. Der Stromverbrauch des Verfahrens ist hoch. Warum ist dieses Verfahren dennoch ökonomisch und ökologisch nachhaltig? (**3 BE**)
 
 ---
 
-**Gesamtpunktzahl: 24 BE**
+**Gesamtpunktzahl: 18 BE**
 
 ## Geräte und Chemikalien
 
 - Becherglas (ca. 100 ml)
 - 1-, 2-, oder 5-Cent Münze und 10-, 20-, oder 50-Cent Münze
-- Krokodilklemmen, Kabel (blau und rot)
+- Krokodilklemmen, Kabel
 - ggf. Multimeter
 - verdünnte Schwefelsäure {% include ghs name="ätzend" %} 
 
@@ -42,10 +43,12 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Elektrolyse](/themen
 
 **Schutzbrille!**
 
-1. Fülle das Becherglas ca. 1 cm hoch mit verdünnter Schwefelsäure.
-2. Befestige die Krokodilklemmen und Kabel an äußersten Rand der Münzen: blau-Minuspol-1/2/5-Cent-Münze, rot-Pluspol-10/20/50-Cent-Münze. Schließe ggf. das Multimeter parallel an, um die angelegte Spannung genauer ablesen zu können.
-3. Stelle die Münzen so in die verdünnte Schwefelsäure, dass die Krokodilklemmen nicht eintauchen und sich weder die Münzen, noch die beiden Krokodilklemmen berühren.
-4. Elektrolysiere mit einer Spannung von ca. 4-7 Volt. Arbeite idealerweise in der Nähe der Spannungsversorgung, um die Spannung bei Bedarf einfach anpassen zu können. Die Gasentwicklung sollte einerseits nicht zu stark sein, andererseits sollte nach wenigen Minuten eine deutliche Veränderung erkennbar sein.
+1. Wiege die beiden verwendeten Münzen.
+2. Fülle das Becherglas ca. 1 cm hoch mit verdünnter Schwefelsäure.
+3. Befestige die Krokodilklemmen und Kabel an äußersten Rand der Münzen: blau-Minuspol-1/2/5-Cent-Münze, rot-Pluspol-10/20/50-Cent-Münze. Schließe ggf. das Multimeter parallel an, um die angelegte Spannung genauer ablesen zu können.
+4. Stelle die Münzen so in die verdünnte Schwefelsäure, dass die Krokodilklemmen nicht eintauchen und sich weder die Münzen, noch die beiden Krokodilklemmen berühren.
+5. Elektrolysiere mit einer möglichst niedrigen Spannung. Arbeite idealerweise in der Nähe der Spannungsversorgung, um die Spannung bei Bedarf einfach anpassen zu können. Die Gasentwicklung an den Elektroden sollte einerseits nicht zu stark sein.
+6. Wiege die Münzen erneut.
 
 ## Entsorgung
 
@@ -54,4 +57,4 @@ Entsorgung im Kanister für Schwermetalle. Spüle die verwendeten Geräte gründ
 ## Literatur und Materialien
 
 - [Recycling von Kupfer und Kupferlegierungen - Deutsches Kupferinstitut](https://www.kupferinstitut.de/de/werkstoffe/system/recycling-kupfer.html)
-
+- [Bundesanstalt für Geowissenschaften und Rohstoffe: Kupfer - Informationen zur Nachhaltigkeit](https://www.bgr.bund.de/DE/Gemeinsames/Produkte/Downloads/Informationen_Nachhaltigkeit/kupfer.html)
