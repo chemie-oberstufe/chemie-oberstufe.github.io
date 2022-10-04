@@ -5,6 +5,13 @@ showinmenu: false
 tags: [experiment, atommodelle, pflichtexperiment]
 ---
 
+{% comment %}
+
+- Zusammenhang Aufbau PSE (Blöcke, ...) und Orbitalmodell mit Aufgaben aufnehmen
+- Tendenzen im PSE mit aufnehmen (Atomradius, Elektronenaffinität, Ionisierungsenergie, metallischer Charakter, ...)
+
+{% endcomment %}
+
 ## Lernziele
 
 Materialien und Übungen finden Sie auf [der Themenseite zu Atommodellen](/themen/atommodelle).
