@@ -3,7 +3,7 @@ title: 1.3.4 Bleiakku
 layout: page
 showinmenu: false
 tags: [experiment, stromquellen, pflichtexperiment]
-page-last-updated: 2019-03-29
+page-last-updated: 2022-11-22
 ---
 
 ## Lernziele
