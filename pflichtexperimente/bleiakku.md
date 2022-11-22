@@ -25,10 +25,12 @@ Baue aus wenigen Materialien ein Modell eines Bleiakkumulators, der in angepasst
 2. Formuliere die Redoxgleichungen der ablaufenden Reaktionen beim Laden und beim Entladen. Bestimme die Oxidationszahlen und kennzeichne Oxidation und Reduktion. (**6 BE**)
 
 3. Fertige eine vollständig beschriftete Skizze des Versuchsaufbaus zum Bleiakkumulator an. Unterscheide bei der Beschriftung den Vorgang des Ladens und Entladens durch z.B. unterschiedliche Farbgebung **oder** fertige für den Lade- und Entladevorgang jeweils separate Skizzen an.
-	Begriffe: Elektrolyt, Elektrode, Stromschlüssel, Anode, Kathode, Pluspol, Minuspol (**9 BE**)  
+	Begriffe: Elektrolyt, Elektrode, Stromschlüssel, Anode, Kathode, Pluspol, Minuspol (**7 BE**)  
 	Kennzeichne in der Skizze die Vorgänge an den Elektroden beim Laden und Entladen. (**4 BE**)
 
 4. Berechne die Spannung des Bleiakkumulators mit Hilfe der Standardpotentiale. Vergleiche mit der tatsächlich gemessenen Spannung und bewerte das Ergebnis. (**4 BE**)
+
+5. Der Ladezustand des Bleiakkumulators kann durch eine Messung der Dichte der Elektrolytlösung ermittelt werden. Erkläre. (**4 BE**)
 
 ---
 
@@ -43,7 +45,7 @@ Bearbeitet in Lerngruppen jeweils eine unterschiedliche Aufgabe aus diesem Berei
 
 ---
 
-**Gesamtpunktzahl: 31 BE**
+**Gesamtpunktzahl: 33 BE**
 
 ## Fachbegriffe und Konzepte
 
