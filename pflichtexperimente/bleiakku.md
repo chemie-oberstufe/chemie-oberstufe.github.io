@@ -32,20 +32,9 @@ Baue aus wenigen Materialien ein Modell eines Bleiakkumulators, der in angepasst
 
 5. Der Ladezustand des Bleiakkumulators kann durch eine Messung der Dichte der Elektrolytlösung ermittelt werden. Erkläre. (**4 BE**)
 
----
+6. Beurteile den Einsatz von Lithium-Ionen-Akkumulatoren statt Bleiakkumulatoren als Hauptenergiespeicher in Elektrofahrzeugen. (**4 BE**)
 
-**Individueller Aufgabenteil**
-
-Bearbeitet in Lerngruppen jeweils eine unterschiedliche Aufgabe aus diesem Bereich, soweit möglich.
-
-5. Bearbeite **eine** der folgenden Aufgaben (**5 BE**):  
-	a) Bewerte den Einsatz von Bleiakkumulatoren in Fahrzeugen unter Umweltaspekten.  
-	b) Bewerte den Einsatz von Bleiakkumulatoren in Fahrzeugen unter Gewichtsaspekten.  
-	c) Bewerte den Einsatz von Lithium-Ionen-Akkumulatoren statt Bleiakkumulatoren als Hauptenergiespeicher in Elektrofahrzeugen.
-
----
-
-**Gesamtpunktzahl: 33 BE**
+**Gesamtpunktzahl: 32 BE**
 
 ## Fachbegriffe und Konzepte
 
@@ -56,7 +45,7 @@ Bearbeitet in Lerngruppen jeweils eine unterschiedliche Aufgabe aus diesem Berei
 ## Geräte und Chemikalien
 
 - Schwefelsäure (5 %, ca. 20 ml, 1 ml konz. Schwefelsäure auf 19 ml Wasser) {% include ghs name="ätzend" %}
-- 2 Bleiplatten {% include ghs name="giftig" %}
+- 2 Bleielektroden {% include ghs name="giftig" %}
 - kleines Becherglas (ca. 50 ml)
 - Krokodilklemmen
 - Kabel
@@ -85,6 +74,3 @@ Blei ist giftig und darf nicht in das Abwasser gelangen!
 - [Professor Blume: Funktionsmodell eines Blei-Akkumulators](http://www.chemieunterricht.de/dc2/auto/a-v-005.htm)
 - Elemente Chemie 2: Elektrochemische Stromerzeugung 268-273
 - [Simple Chemics: Die Autobatterie](https://www.youtube.com/watch?v=qaP69_oU9qc)
-
-
-
