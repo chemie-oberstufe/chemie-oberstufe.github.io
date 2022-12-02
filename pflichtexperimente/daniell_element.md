@@ -19,7 +19,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Galvanischen Element
 
 **Zeitaufwand: ca. 30 Minuten**
 
-1. Stellen Sie jeweils ca. 5 ml einer Kupfer(II)-sulfatlösung und einer Zinksulfatlösung (Achtung: liegt als Heptahydrat vor) mit einer Konzentration von jeweils c = 0,1 mol/l her. Berechnen Sie vorab die benötigten Massen. (**4 BE**)
+1. Stellen Sie jeweils 10 ml einer Kupfer(II)-sulfatlösung und einer Zinksulfatlösung (Achtung: liegt als Heptahydrat vor) mit einer Konzentration von jeweils c = 0,1 mol/l her. Berechnen Sie vorab die benötigten Massen. (**4 BE**)
 
 2. Fertigen Sie eine vollständig beschriftete Skizze des Daniell-Elements an. (**7 BE**)  
    Begriffe: Halbzelle, Elektrolyt, Elektrode, Stromschlüssel bzw. Salzbrücke, Anode, Kathode, Pluspol, Minuspol
