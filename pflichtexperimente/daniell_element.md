@@ -53,7 +53,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Galvanischen Element
 ## Durchführung
 
 
-- Stellen Sie Lösungen der Metallsalze mit der Konzentration c = 0,1 mol/l her (jeweils ca. 5 ml).
+- Stellen Sie Lösungen der Metallsalze mit der Konzentration c = 0,1 mol/l her (jeweils 10 ml, Berechnung siehe Aufgabe 1).
 - In eine Hälfte der Petrischale wird Kupfer(II)-sulfatlösung gegeben, in die andere Zinksulfatlösung. 
 - Die Metallbleche werden in die entsprechende Lösung getaucht: Zink zu Zn<sup>2+</sup> und Cu zu Cu<sup>2+</sup>.
 - Beide Hälften der Petrischale werden mit einem Streifen angefeuchtetem Filterpapier als Strombrücke verbunden.
