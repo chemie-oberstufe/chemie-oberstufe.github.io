@@ -3,7 +3,7 @@ title: 2.1 Löslichkeit und Leitfähigkeit von Molekülverbindungen, Ionensubsta
 layout: page
 showinmenu: false
 tags: [experiment, chemische-bindung, pflichtexperiment]
-page-last-updated: 2019-09-01
+page-last-updated: 2023-01-10
 ---
 
 ## Lernziele
@@ -17,19 +17,21 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Chemischen Bindung]
 ## Aufgabe
 
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**6 BE**)
-2. Ordne in einer Mindmap die folgenden Begriffe: chemische Bindung, Van-der-Waals-Kräfte, Wasserstoffbrückenbindung, Atombindung, Metallbindung, Ionenbindung, chemische Bindungen im eigentlichen Sinn, zwischenmolekulare Wechselwirkungen. (**4 BE**)
+2. Ordne in einer Mindmap die folgenden Begriffe: chemische Bindung, Van-der-Waals-Kräfte, Wasserstoffbrückenbindung, Dipol-Dipol-Wechselwirkungen, Atombindung, Metallbindung, Ionenbindung, chemische Bindungen im eigentlichen Sinn, zwischenmolekulare Wechselwirkungen. (**4 BE**)
 3. Erläutere den Unterschied zwischen chemischen Bindungen im eigentlichen Sinn und zwischenmolekularen Wechselwirkungen am Beispiel des Wassers.(**6 BE**)
+{::comment}
 2. Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (3 BE), Bindungskräfte mit Skizze (6 BE), typische Eigenschaften der Verbindungen (3 BE). (gesamt: **12 BE**)
+{:/comment}
 
 ---
 
 **Individuelle Aufgaben:** Bearbeitet in Lerngruppen jeweils zwei unterschiedliche Stoffe.
 
-1. Stelle die Grundzüge des Struktur-Eigenschaften-Basiskonzeptes dar. Wende es auf die experimentellen Ergebnisse bzw. typischen Eigenschaften von zwei der sieben Stoffe (inklusive Wasser) an. (**6 BE**)
+1. Inwiefern sind die experimentellen Beobachtungen typisch für die Bindungsart? Erläutere dies an zwei Stoffen und zwei unterschiedliche Bindungsarten. (**6 BE**)
 
 ---
 
-**Gesamt:** 34 BE
+**Gesamt:** 22 BE
 
 
 ## Geräte und Chemikalien
@@ -59,4 +61,6 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Chemischen Bindung]
 
 ## Literatur und Materialien
 
+- Elemente Chemie 2 Kapitel 1.11, 1.15, 1.16, 1.18, 1.21
 - [Simple Chemics: Löslichkeit](https://www.youtube.com/watch?v=O2ewhsFAArI)
+- [Studyflix: Zwischenmolekulare Kräfte](https://studyflix.de/chemie/zwischenmolekulare-krafte-2392)
