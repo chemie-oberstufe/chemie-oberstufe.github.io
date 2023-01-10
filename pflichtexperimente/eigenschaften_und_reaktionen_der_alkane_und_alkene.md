@@ -3,7 +3,7 @@ title: 2.2 Eigenschaften und Reaktionen der Alkane und Alkene
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, pflichtexperiment]
-page-last-updated: 2020-10-05
+page-last-updated: 2022-01-10
 ---
 
 ## Lernziele
@@ -20,10 +20,8 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**4 BE**)
 2. Auswertung: Formuliere die Reaktionsgleichung für die ablaufende Reaktion. (**2 BE**)
-3. Erstelle in einer Mindmap eine Übersicht, über folgende Stoffklassen der organischen Chemie: Alkane, Alkene, Alkine, Alkanole, Alkanale, Alkanone und Alkansäuren.
-	- Notiere zu jeder Stoffklasse die funktionelle Gruppe, Informationen zur Benennung, typische Eigenschaften und typische Reaktionen dieser Stoffklasse. (**2x7 = 14 BE**) 
-4. Pentan und Nonan lassen sich durch Destillation voneinander trennen. Erkläre. (**4 BE**)
-5. Benzin und Wasser mischen sich nicht. Gibt man jedoch zusätzlich Ethanol hinzu, entsteht ein homogenes<sup>*1</sup> Gemisch. Erkläre. (**4 BE**)
+3. Pentan und Nonan lassen sich durch Destillation voneinander trennen. Erkläre. (**4 BE**)
+4. Benzin und Wasser mischen sich nicht. Gibt man jedoch zusätzlich Ethanol hinzu, entsteht ein homogenes<sup>*1</sup> Gemisch. Erkläre. (**4 BE**)
 	<sup>*1 in gewissen Grenzen</sup>
 
 ---
@@ -32,11 +30,19 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 
 6. Es gibt 75 Konstitutionsisomere des Decans.
 	- Erläutere den Begriff der Konstitutionsisomerie an einem selbst gewählten Beispiel. (**2 BE**)
-	- Benenne und skizziere 4 dieser Isomere mit jeweils unterschiedlicher Länge der Hauptkette. Kennzeichne die einzelnen Substituenten jeweils farbig in der Strukturformel und im Namen. (**2x4 = 8 BE**)
+	- Benenne und skizziere 4 dieser Isomere mit jeweils unterschiedlicher Länge der Hauptkette. Kennzeichne die einzelnen Substituenten jeweils farbig in der Strukturformel und im Namen. (**4 BE**)
 
 ---
 
-**insgesamt 38 BE**
+**insgesamt 20 BE**
+
+## Fleißaufgabe 2/2
+
+1. (siehe 2.1. Löslichkeit und Leitfähigkeit) Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (3 BE), Bindungskräfte mit Skizze (6 BE), typische Eigenschaften der Verbindungen (3 BE). (gesamt: **12 BE**)
+2. Erstelle in einer Mindmap eine Übersicht, über folgende Stoffklassen der organischen Chemie: Alkane, Alkene, Alkine,>
+        - Notiere zu jeder Stoffklasse die funktionelle Gruppe, Informationen zur Benennung, typische Eigenschaften und typische Reaktionen dieser Stoffklasse. (**2x7 = 14 BE**)
+
+**Gesamt:** 26 BE
 
 ## Geräte und Chemikalien
 

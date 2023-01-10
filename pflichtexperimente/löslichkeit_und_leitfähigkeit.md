@@ -19,9 +19,6 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Chemischen Bindung]
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**6 BE**)
 2. Ordne in einer Mindmap die folgenden Begriffe: chemische Bindung, Van-der-Waals-Kräfte, Wasserstoffbrückenbindung, Dipol-Dipol-Wechselwirkungen, Atombindung, Metallbindung, Ionenbindung, chemische Bindungen im eigentlichen Sinn, zwischenmolekulare Wechselwirkungen. (**4 BE**)
 3. Erläutere den Unterschied zwischen chemischen Bindungen im eigentlichen Sinn und zwischenmolekularen Wechselwirkungen am Beispiel des Wassers.(**6 BE**)
-<!---
-4. Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (3 BE), Bindungskräfte mit Skizze (6 BE), typische Eigenschaften der Verbindungen (3 BE). (gesamt: **12 BE**)
---->
 
 ---
 
@@ -33,6 +30,13 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Chemischen Bindung]
 
 **Gesamt:** 22 BE
 
+## Fleißaufgabe 1/2
+
+1. Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (3 BE), Bindungskräfte mit Skizze (6 BE), typische Eigenschaften der Verbindungen (3 BE). (gesamt: **12 BE**)
+2. (siehe 2.2. Eigenschaften und Reaktionen der Alkane und Alkene) Erstelle in einer Mindmap eine Übersicht, über folgende Stoffklassen der organischen Chemie: Alkane, Alkene, Alkine, Alkanole, Alkanale, Alkanone und Alkansäuren.
+        - Notiere zu jeder Stoffklasse die funktionelle Gruppe, Informationen zur Benennung, typische Eigenschaften und typische Reaktionen dieser Stoffklasse. (**2x7 = 14 BE**)
+
+**Gesamt:** 26 BE
 
 ## Geräte und Chemikalien
 
