@@ -19,9 +19,9 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Chemischen Bindung]
 1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**6 BE**)
 2. Ordne in einer Mindmap die folgenden Begriffe: chemische Bindung, Van-der-Waals-Kräfte, Wasserstoffbrückenbindung, Dipol-Dipol-Wechselwirkungen, Atombindung, Metallbindung, Ionenbindung, chemische Bindungen im eigentlichen Sinn, zwischenmolekulare Wechselwirkungen. (**4 BE**)
 3. Erläutere den Unterschied zwischen chemischen Bindungen im eigentlichen Sinn und zwischenmolekularen Wechselwirkungen am Beispiel des Wassers.(**6 BE**)
-{::comment}
-2. Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (3 BE), Bindungskräfte mit Skizze (6 BE), typische Eigenschaften der Verbindungen (3 BE). (gesamt: **12 BE**)
-{:/comment}
+<!--
+4. Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (3 BE), Bindungskräfte mit Skizze (6 BE), typische Eigenschaften der Verbindungen (3 BE). (gesamt: **12 BE**)
+-->
 
 ---
 
