@@ -3,7 +3,7 @@ title: 2.2 Eigenschaften und Reaktionen der Alkane und Alkene
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, pflichtexperiment]
-page-last-updated: 2022-01-10
+page-last-updated: 2023-01-24
 ---
 
 ## Lernziele
@@ -18,11 +18,12 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 
 ## Aufgabe
 
-1. Führe das Experiment durch. Protokolliere deine Beobachtungen. (**4 BE**)
-2. Auswertung: Formuliere die Reaktionsgleichung für die ablaufende Reaktion. (**2 BE**)
-3. Pentan und Nonan lassen sich durch Destillation voneinander trennen. Erkläre. (**4 BE**)
-4. Benzin und Wasser mischen sich nicht. Gibt man jedoch zusätzlich Ethanol hinzu, entsteht ein homogenes<sup>*1</sup> Gemisch. Erkläre. (**4 BE**)
+1. Führe die Experimente durch. Protokolliere deine Beobachtungen. (**4 BE**)
+2. Auswertung Experiment 1: Formuliere die Reaktionsgleichung für die ablaufende Reaktion. (**2 BE**)
+3. Auswertung Experiment 2: Decan und Wasser mischen sich nicht. Gibt man jedoch zusätzlich Ethanol hinzu, entsteht ein homogenes<sup>*1</sup> Gemisch. Erkläre. (**4 BE**)
 	<sup>*1 in gewissen Grenzen</sup>
+4. Pentan und Nonan lassen sich durch Destillation voneinander trennen. Erkläre. (**4 BE**)
+
 
 ---
 
@@ -30,7 +31,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 
 6. Es gibt 75 Konstitutionsisomere des Decans.
 	- Erläutere den Begriff der Konstitutionsisomerie an einem selbst gewählten Beispiel. (**2 BE**)
-	- Benenne und skizziere 4 dieser Isomere mit jeweils unterschiedlicher Länge der Hauptkette. Kennzeichne die einzelnen Substituenten jeweils farbig in der Strukturformel und im Namen. (**4 BE**)
+	- Du erhälst 4 Konstitutionsisomere, davon 2 als Namen und 2 als Skelettformel. Formuliere die Strukturformel zu den beiden Namen und benenne die beiden Skelettformeln. (**4 BE**)
 
 ---
 
@@ -44,7 +45,9 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 
 **Gesamt:** 26 BE
 
-## Geräte und Chemikalien
+## Experiment 1
+
+### Geräte und Chemikalien
 
 - Reagenzglasständer
 - Reagenzgläser
@@ -55,7 +58,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 - 1-Hexen {% include ghs name="leichtentzündlich" %} {% include ghs name="gesundheitsgefahr" %}
 - Decan {% include ghs name="leichtentzündlich" %} {% include ghs name="gesundheitsgefahr" %}
 
-## Durchführung
+### Durchführung
 
 **Sicherheitshinweis:** Arbeite sauber und zügig. Die Verwendung kleiner Mengen reduziert die Gesundheitsgefahr. Die Chemikalien sollen nicht unnötig offen stehen.
 
@@ -65,9 +68,29 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 - Gib anschließend ca. 0,5 cm hoch 1-Hexen und Decan in jeweils ein Reagenzglas. Verwende für jeden der Stoffe eine saubere Pipette, um den Inhalt der Flaschen nicht zu verunreinigen.
 - Gib einige Tropfen der Lösung in die beiden Reagenzgläser und schüttele kräftig bis eine Veränderung eintritt.
 
-## Entsorgung
+### Entsorgung
 
 - Entsorgung der Reste in den Kanister für organische Lösungsmittel. Nachspülen mit etwas Ethanol.
+
+## Experiment 2
+
+### Geräte und Chemikalien
+
+- Reagenzglasständer
+- Reagenzgläser
+- Pipetten
+- Decan {% include ghs name="gesundheitsgefahr" %} {% include ghs name="leichtentzündlich" %}
+- Ethanol {% include ghs name="gefahr" %} {% include ghs name="leichtentzündlich" %}
+- Wasser
+
+### Durchführung
+
+1. Gib in jeweils ein Reagenzglas je 1 ml folgender Stoffe. Schüttele und beobachte.
+	- Decan und Wasser
+	- Decan und Ethanol
+	- Ethanol und Wasser
+2. Gib nun in das Reagenzglas mit Decan und Wasser in Schritten von ca. 1 ml insgesamt 5 ml Ethanol. Schüttele und beobachte nach jedem Schritt.
+
 
 ## Literatur und Materialien
 
