@@ -53,7 +53,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 - Reagenzgläser
 - 3 Pipetten (neu)
 - Kaliumpermanganat {% include ghs name="gefahr" %} {%include ghs name="umweltgefährdend" %} {% include ghs name="brandfördernd" %} {% include ghs name="ätzend" %}
-- Natriumcarbonat {% include ghs name="gefahr" %}
+- Natriumhydrogencarbonat {% include ghs name="gefahr" %}
 - Ethanol {% include ghs name="gefahr" %} {% include ghs name="leichtentzündlich" %}
 - 1-Hexen {% include ghs name="leichtentzündlich" %} {% include ghs name="gesundheitsgefahr" %}
 - Decan {% include ghs name="leichtentzündlich" %} {% include ghs name="gesundheitsgefahr" %}
