@@ -1,5 +1,5 @@
 ---
-title: 1. Themen
+title: Themen
 layout: page
 showinmenu: true
 ---

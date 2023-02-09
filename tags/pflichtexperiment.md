@@ -1,5 +1,5 @@
 ---
-title: 2. Pflichtexperimente
+title: Pflichtexperimente
 layout: page
 showinmenu: true
 ---

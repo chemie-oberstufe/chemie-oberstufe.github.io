@@ -1,5 +1,5 @@
 ---
-title: 3. Wahlaufgaben
+title: Wahlaufgaben
 layout: page
 showinmenu: true
 ---
