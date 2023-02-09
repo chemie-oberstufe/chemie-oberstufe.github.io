@@ -3,7 +3,7 @@ title: Wahlaufgaben
 layout: page
 showinmenu: true
 ---
-{% assign tag_seite = "stromquellen OR organische-chemie" %}
+{% assign tag_seite = "wahlaufgabe" %}
 
 {% comment %}
 =======================
