@@ -1,9 +1,9 @@
 ---
-title: 1. Themen
+title: Wahlthemen
 layout: page
-showinmenu: true
+showinmenu: false
 ---
-{% assign tag_seite = "thema" %}
+{% assign tag_seite = "wahlthema" %}
 
 {% comment %}
 =======================

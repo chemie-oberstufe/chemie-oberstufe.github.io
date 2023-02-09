@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tags
-showinmenu: true
+showinmenu: false
 ---
 
 {% comment %}
