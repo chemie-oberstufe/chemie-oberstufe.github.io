@@ -3,7 +3,7 @@ title: 3.1 Abhängigkeit der Reaktionsgeschwindigkeit von Temperatur, Konzentrat
 layout: page
 showinmenu: false
 tags: [experiment, reaktionsverlauf-und-reaktionsgeschwindigkeit, pflichtexperiment]
-page-last-updated: 2019-03-29
+page-last-updated: 2023-03-07
 ---
 
 ## Lernziele
@@ -18,21 +18,23 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Reaktionsverlauf und
 
 ### Teil 1
 
-1. Führe das Experiment durch. Protokolliere allgemeine Beobachtungen (**2 BE**) sowie die beiden Messwerttabellen (**6 BE**).
-2. Stelle die Messwerte in einem Masse-Reaktionszeit-Diagramm grafisch dar (**6 BE**). Werte das Experiment anhand deiner grafischen Darstellung sowie der Reaktionsgleichung aus. Beziehe dich dabei auch auf das Kollisionsmodell bzw. die Stoßtheorie. (**4 BE**).
+1. Führe das Experiment durch. Protokolliere allgemeine Beobachtungen (**2 BE**) sowie die Messwerttabellen.
+2. Stelle die Messwerte in einem Masse-Reaktionszeit-Diagramm grafisch dar (**6 BE**). 
+3. Werte das Experiment anhand deiner grafischen Darstellung sowie der Reaktionsgleichung aus. Beziehe dich dabei auch auf das Kollisionsmodell bzw. die Stoßtheorie. (**4 BE**).
 
-**Punktzahl Teil 1: 18 BE**
+**Punktzahl Teil 1: 12 BE**
 
 ### Teil 2
 
-1. Führe das Experiment durch. Protokolliere deine Beobachtungen (**3 BE**).
-2. Zeichne ein Energie-Reaktionszeit-Diagramm für die Zersetzung von Wasserstoffperoxid mit und ohne Katalysator (**4 BE**) Werte mit dessen Hilfe das Experiment aus (**4 BE**).
+1. Führe das Experiment durch. Protokolliere deine Beobachtungen (**4 BE**).
+2. Erkläre den Einfluss des Faktors Temperatur und Konzentration auf die Reaktionsgeschwindigkeit mit Hilfe der Stoßtheorie. (**4 BE**).
+3. Zeichne ein Energie-Reaktionszeit-Diagramm für die Zersetzung von Wasserstoffperoxid mit und ohne Katalysator (**2 BE**) Erkläre daran den Einfluss eines Katalysators auf die Reaktionsgeschwindigkeit (**2 BE**).
 
-**Punktzahl Teil 2: 11 BE**
+**Punktzahl Teil 2: 12 BE**
 
 ---
 
-**Gesamtpunktzahl: 29 BE**
+**Gesamtpunktzahl: 24 BE**
 
 ## Geräte und Chemikalien
 
@@ -65,9 +67,12 @@ Dieser Versuch wird vollständig auf der Waage durchgeführt. Gemäß der Reakti
 
 ### Teil 2
 
-1. In zwei Reagenzgläser werden jeweils ca. 3 ml Wasserstoffperoxidlösung gegeben.
-2. In eines der Reagenzgläser wird zusätzlich eine kleine Spatelspitze Mangandioxid gegeben.
-3. Führe in beiden Reagenzgläsern die Glimmspanprobe durch.
+1. Gib in vier Reagenzgläser jeweils ca. 2 ml kühlschrankkalte Wasserstoffperoxidlösung 30%, 3% und 2x10%.
+2. Beobachte 1 Minute.
+3. Gib nun zu Wasserstoffperoxidlösung 30%, 10% und 3% eine kleine Spatelspitze Mangandioxid (Braunstein).
+4. Führe in den 3 Reagenzgläsern unverzüglich die Glimmspanprobe durch. Beobachte.
+5. Gib nach ca. 30 Minuten eine kleine Spatelspitze Mangandioxid in die nun erwärmte Wasserstoffperoxidlösung 10%.
+6. Führe die Glimmspanprobe durch. Beobachte erneut.
 
 ## Entsorgung
 
