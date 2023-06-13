@@ -3,7 +3,7 @@ title: 2.2 Eigenschaften und Reaktionen der Alkane und Alkene
 layout: page
 showinmenu: false
 tags: [experiment, organische-chemie, pflichtexperiment]
-page-last-updated: 2023-01-24
+page-last-updated: 2023-06-13
 ---
 
 ## Lernziele
@@ -40,7 +40,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 ## Fleißaufgabe 2/2
 
 1. (siehe 2.1. Löslichkeit und Leitfähigkeit) Fertige eine Übersicht über die drei Bindungsarten an: Teilchen (3 BE), Bindungskräfte mit Skizze (6 BE), typische Eigenschaften der Verbindungen (3 BE). (gesamt: **12 BE**)
-2. Erstelle in einer Mindmap eine Übersicht, über folgende Stoffklassen der organischen Chemie: Alkane, Alkene, Alkine,>
+2. Erstelle in einer Mindmap eine Übersicht, über folgende Stoffklassen der organischen Chemie: Alkane, Alkene, Alkine, Alkanole, Alkanale, Alkanone und Carbonsäuren.
         - Notiere zu jeder Stoffklasse die funktionelle Gruppe, Informationen zur Benennung, typische Eigenschaften und typische Reaktionen dieser Stoffklasse. (**2x7 = 14 BE**)
 
 **Gesamt:** 26 BE
