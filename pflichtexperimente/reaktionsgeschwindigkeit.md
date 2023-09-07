@@ -55,7 +55,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Reaktionsverlauf und
 - 2 Reagenzgläser
 - Spatel
 - Holzspan
-- Wasserstoffperoxid w = 10% {% include ghs name="ätzend" %} {% include ghs name="brandfördernd" %} {% include ghs name="gefahr" %}
+- Wasserstoffperoxid w = 30% {% include ghs name="ätzend" %} {% include ghs name="brandfördernd" %} {% include ghs name="gefahr" %}
 - Mangandioxid {% include ghs name="gesundheitsgefährdend" %} {% include ghs name="gefahr" %}
 
 ## Durchführung
