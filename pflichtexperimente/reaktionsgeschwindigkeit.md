@@ -3,7 +3,7 @@ title: 3.1 Abhängigkeit der Reaktionsgeschwindigkeit von Temperatur, Konzentrat
 layout: page
 showinmenu: false
 tags: [experiment, reaktionsverlauf-und-reaktionsgeschwindigkeit, pflichtexperiment]
-page-last-updated: 2023-03-07
+page-last-updated: 2023-09-07
 ---
 
 ## Lernziele
@@ -26,15 +26,18 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Reaktionsverlauf und
 
 ### Teil 2
 
-1. Führe das Experiment durch. Protokolliere deine Beobachtungen (**4 BE**).
-2. Erkläre den Einfluss des Faktors Temperatur und Konzentration auf die Reaktionsgeschwindigkeit mit Hilfe der Stoßtheorie. (**4 BE**).
-3. Zeichne ein Energie-Reaktionszeit-Diagramm für die Zersetzung von Wasserstoffperoxid mit und ohne Katalysator (**2 BE**) Erkläre daran den Einfluss eines Katalysators auf die Reaktionsgeschwindigkeit (**2 BE**).
+1. Berechne die für das Experiment benötigten Verdünnungen der bereitgestellten Wasserstoffperoxid-Lösung (Massenanteil w=30%). (**2 BE**)
+2. Führe das Experiment durch. Protokolliere deine Beobachtungen (**4 BE**).
+3. Erkläre den Einfluss der Faktoren Temperatur und Konzentration auf die Reaktionsgeschwindigkeit mit Hilfe der Stoßtheorie. (**4 BE**).
+4. Nenne Merkmale eines Katalysators in der Chemie. (**3 BE**)
+5. Zeichne ein Energie-Reaktionszeit-Diagramm für die Zersetzung von Wasserstoffperoxid mit und ohne Katalysator (**2 BE**) Erkläre daran den Einfluss eines Katalysators auf die Reaktionsgeschwindigkeit (**2 BE**).
+6. Interpretiere den Reaktionsverlauf mit Katalysator im Sinne der Stoßtheorie (Stichwort: reaktive Zwischenstufe) (**2 BE**).
 
-**Punktzahl Teil 2: 12 BE**
+**Punktzahl Teil 2: 19 BE**
 
 ---
 
-**Gesamtpunktzahl: 24 BE**
+**Gesamtpunktzahl: 31 BE**
 
 ## Geräte und Chemikalien
 
