@@ -16,7 +16,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zum Chemischen Gleichge
 
 Führe die Experimente zum chemischen Gleichgewicht durch und bearbeite die Aufgaben.
 
-1. Berechnen Sie die benötigten Massen zur Herstellung der Stärkelösung und der drei Lösungen aus Experiment 2. (**1 BE + 3 BE**)
+1. Berechnen Sie die benötigten Massen zur Herstellung der Lösungen aus Experiment 1a) bzw. berechnen Sie die Stoffmengenkonzentrationen der NaOH-Glucose-Lösung und der Methylenblau-Lösung aus Experiment 1b). Berechnen Sie die benötigte Masse zur Herstellung der Stärkelösung aus Experiment 2. (**4 BE**)
 2. Protokollieren Sie ihre Beobachtungen zu beiden Experimenten (1a) **oder** 1b)) (**6 BE**).
 3. Formulieren Sie die Wort- und Reaktionsgleichungen für beide Reaktionen (**4 BE**).
 4. Werten Sie Experiment 1 aus.  Erläutern Sie an der Reaktionsgleichung das Konzept des dynamischen Gleichgewichts (**4 BE**).
