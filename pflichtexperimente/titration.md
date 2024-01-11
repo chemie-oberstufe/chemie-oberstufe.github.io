@@ -30,7 +30,7 @@ page-last-updated: 2023-12-13
 ## Durchführung
 
 - Stellen Sie eine geeignete Maßlösung mit Natriumhydroxid und Wasser her. Die Konzentration der Salzsäurelösung liegt zwischen c=0,1 mol/l und c=1 mol/l. Beachten sie auch den unten stehenden Hinweis. (**4 BE**)
-- Ermitteln Sie anschließend durch Säure-Base-Titration die Konzentration der unbekannten Salzsäure, wie im vorher gemeinsam im Unterricht durchgeführten Experiment. (**Sicherheit und sauberes Arbeiten 2 BE, methodisches Vorgehen 2 BE, Genauigkeit des Ergebnisses**)
+- Ermitteln Sie anschließend durch Säure-Base-Titration die Konzentration der unbekannten Salzsäure, wie im vorher gemeinsam im Unterricht durchgeführten Experiment. (**Sicherheit und sauberes Arbeiten 2 BE, methodisches Vorgehen 2 BE, Genauigkeit des Ergebnisses 2BE**)
 - **Hinweis:** Es bietet sich an, zweimal zu titrieren. Der erste Durchgang kann schneller erfolgen und dient der ungefähren Abschätzung des benötigten Volumens an Maßlösung. Der zweite Durchgang erfolgt in der Nähe des erwarteten Umschlagspunkts langsamer und somit exakter.
 
 ## Entsorgung
