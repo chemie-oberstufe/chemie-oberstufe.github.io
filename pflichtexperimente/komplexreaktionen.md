@@ -76,7 +76,7 @@ Bearbeiten Sie in Lerngruppen jeweils unterschiedliche Teilaufgaben, soweit mög
 
 ## Experiment 2 - Geräte und Chemikalien
 
-- Silbernitratlösung
+- Silbernitratlösung {% include ghs name="ätzend" %} {% include ghs name="umweltgefahr" %} {% include ghs name="brandfördernd" %}
 - Natriumchlorid (verdünnte Lösung c = 0,1 mol/l = 0,6 g auf 100 ml)
 - Natriumthiosulfat (verdünnte Lösung c = 0,1 mol/l = 1,6 g auf 100 ml)
 - Salzsäure konzentriert {% include ghs name="ätzend" %}
