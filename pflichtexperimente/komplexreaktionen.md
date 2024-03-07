@@ -3,7 +3,7 @@ title: 4b Komplexreaktionen
 layout: page
 showinmenu: false
 tags: [experiment, komplexchemie, pflichtexperiment]
-page-last-updated: 2019-04-02
+page-last-updated: 2024-03-07
 ---
 
 ## Lernziele
@@ -15,7 +15,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zu Komplexchemie](/them
 - die koordinative Bindung in Komplexen beschreiben
 - das Gleichgewichtskonzept auf den Ligandenaustausch anwenden
 
-## Aufgabe
+## Experiment 1 - Aufgaben
 
 Führe die Experimente zum Thema Komplexchemie durch und bearbeite die Aufgaben.
 
@@ -37,7 +37,7 @@ Bearbeiten Sie in Lerngruppen jeweils unterschiedliche Teilaufgaben, soweit mög
 
 **Gesamtpunktzahl: 30 BE**
 
-## Geräte und Chemikalien
+## Experiment 1 - Geräte und Chemikalien
 
 - Kupfer(II)-sulfat-Pentahydrat 249,69 g/mol
 - Kupfer(II)-sulfatlösung, c=0,5&nbsp;mol/l, 10 ml {% include ghs name="gefahr" %} {% include ghs name="umweltgefährdend" %}
@@ -51,28 +51,44 @@ Bearbeiten Sie in Lerngruppen jeweils unterschiedliche Teilaufgaben, soweit mög
 - Reagenzglasständer, Reagenzglashalter
 - Brenner
 
-## Durchführung
+## Experiment 1 - Durchführung
 
 - Stellen Sie zuerst 10 ml einer Kupfer(II)-sulfatlösung mit einer Konzentration **c=0,5&nbsp;mol/l** her.
 - Die Kupfer(II)-sulfatlösung mit einer Konzentration **c=0,5&nbsp;mol/l** erhalten Sie durch Verdünnung (siehe Aufgabe 1).
 
-### 1. Konzentrationsänderung
+### 1.1. Konzentrationsänderung
 
 1. Geben Sie zu ca. 2 ml Kupfer(II)-sulfatlösung (c=0,1&nbsp;mol/l) tropenweise konzentrierte Salzsäure hinzu, bis eine Farbänderung eintritt.
 2. Verdünnen Sie anschließend tropfenweise mit Wasser.
 3. Geben Sie nun wieder Salzsäure bis zur Farbänderung hinzu.
 
-### 2. Temperaturänderung
+### 1.2. Temperaturänderung
 
 1. Geben Sie zu ca. 5 ml Kupfer(II)-sulfatlösung (c=0,5&nbsp;mol/l) nach und nach ca. 1 ml halbkonzentrierte Salzsäure. Die entstehende Lösung muss noch blau-grün sein.
 2. Teilen Sie die Lösung auf 2 Reagenzgläser auf. Ein Reagenzglas dient dem Vergleich.
 3. Erhitzen Sie **vorsichtigst!** das zweite Reagenzglas über dem Brenner. Kühlen Sie es anschließend wieder ab.
 
-### 3. pH-Wert-Änderung
+### 1.3. pH-Wert-Änderung
 
 1. Geben Sie zu ca. 2 ml Kupfer(II)-sulfatlösung (c=0,1&nbsp;mol/l) tropfenweise verdünnte Ammoniaklösung, bis ein hellblauer Niederschlag ausfällt. Fügen Sie weitere Ammoniaklösung hinzu, bis sich der Niederschlag gerade wieder auflöst.
 2. Tropfen Sie nun vorsichtig konzentrierte Salzsäure hinzu.
 3. Wiederholen Sie vorsichtig die Zugabe verdünnter Ammoniaklösung.
+
+## Experiment 2 - Geräte und Chemikalien
+
+- Silbernitratlösung
+- Natriumchlorid (verdünnte Lösung c = 0,1 mol/l = 0,6 g auf 100 ml)
+- Natriumthiosulfat (verdünnte Lösung c = 0,1 mol/l = 1,6 g auf 100 ml)
+- Salzsäure konzentriert {% include ghs name="ätzend" %}
+- Ammoniaklösung verdünnt {% include ghs name="ätzend" %}
+- 4 Reagenzgläser
+- Reagenzglasständer
+
+## Experiment 2 - Durchführung
+
+1. Geben Sie in jedes der vier Reagenzgläser ca. 1 cm hoch Natriumchloridlösung.
+2. Tropfen Sie jeweils etwas Silbernitratlösung hinzu.
+3. Ein Reagenzglas dient dem Vergleich. Die anderen drei Reagenzgläser werden separat mit Ammoniaklösung, Natriumthiosulfatlösung oder Salzsäure versetzt.
 
 ## Entsorgung
 
