@@ -17,7 +17,7 @@ Führen Sie die Experimente zum Thema Komplexchemie durch und bearbeiten Sie die
 1. Führen Sie die Experimente 1 und 2 durch (**Durchführung, Sauberkeit, Sicherheit 3 BE**) und notieren Sie ihre Beobachtungen (**5 BE**).
 2. Werten Sie die zwei Experimente aus. Formulieren Sie die Reaktionsgleichungen (**8 BE**) und erläutern Sie die chemischen Hintergründe exemplarisch an einer der Reaktionen (**4 BE**).
 3. Beschreiben Sie die chemische Bindung in Komplexverbindungen (**2 BE**).
-4. Benennen Sie drei folgenden Komplexverbindungen (separater Zettel) (**3 BE**).
+4. Benennen Sie drei Komplexverbindungen (separater Zettel) (**3 BE**).
 
 **Gesamtpunktzahl: 25 BE**
 
