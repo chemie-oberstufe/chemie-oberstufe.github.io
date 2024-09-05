@@ -31,7 +31,7 @@ Materialien und Übungen finden Sie auf [der Themenseite zur Organischen Chemie]
 
 6. Es gibt 75 Konstitutionsisomere des Decans.
 	- Erläutere den Begriff der Konstitutionsisomerie an einem selbst gewählten Beispiel. (**2 BE**)
-	- Du erhälst die Namen von 4 Konstitutionsisomeren des Decans. Formuliere die zugehörigen Strukturformeln. (**4 BE**)
+	- Du erhälst die Namen von 4 Konstitutionsisomeren des Decans. Formuliere die zugehörigen Strukturformeln. Nummeriere die Hauptkette und benenne die jeweiligen Seitenketten. (**4 BE**)
 
 ---
 
